@@ -1,9 +1,12 @@
+# Data Job listing Analysis Project
+
 # 228CowSystemProjectCoding
 
 Coding:
 * Project Source
 * python coding 
 * MYSQL Script
+* Tableau Workbook
  
 ## Sources:
 * https://github.com/picklesueat/data_jobs_data
@@ -17,3 +20,5 @@ Coding:
 * https://www.kaggle.com/andrewmvd/data-engineer-jobs
 
 * https://www.edureka.co/blog/data-analyst-vs-data-engineer-vs-data-scientist/
+
+* https://www.wordclouds.com/
