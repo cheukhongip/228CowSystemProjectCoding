@@ -1,0 +1,3337 @@
+company_id,Company_Name,Founded,Type_of_ownership,Size_employee,Industry_id
+1,Vera Institute of Justice,1961,Nonprofit Organization,500,1
+2,Visiting Nurse Service of New York,1893,Nonprofit Organization,10000,2
+3,Squarespace,2003,Company - Private,5000,3
+4,Two Sigma,2001,Company - Private,5000,4
+5,Riskified,2013,Company - Private,1000,5
+6,Advisor Group,2016,Company - Private,5000,6
+7,CodeGreen Solutions,-1,Company - Private,50,7
+8,"Education Development Center, Inc.",1958,Nonprofit Organization,1000,5
+9,Google,1998,Company - Public,10000,3
+10,Duolingo,2011,Company - Private,500,3
+11,Ro,2017,Company - Private,200,2
+12,Endai,-1,Company - Private,50,8
+13,SoFi,2011,Company - Private,5000,9
+14,Bank of America,1904,Company - Public,10000,10
+15,Nutech Information Systems,-1,Company - Private,50,11
+16,NYU Langone Health,1841,Hospital,10000,2
+17,Two95 International Inc.,-1,Company - Private,50,12
+18,Hearst Communications,-1,Company - Private,50,8
+19,Jordan & Jordan,1990,Company - Private,50,6
+20,Walt Disney Co.,1923,Company - Public,10000,13
+21,Citadel,1990,Company - Private,5000,14
+22,"TSR, Inc.",1969,Company - Public,500,12
+23,Bloomberg,1981,Company - Private,10000,11
+24,Perficient,1998,Company - Public,5000,15
+25,Kforce,1966,Company - Public,10000,12
+26,Criteo,2005,Company - Public,5000,3
+27,Neuberger Berman,1939,Company - Private,5000,4
+28,Diverse Lynx,2002,Company - Private,1000,15
+29,eTeam Inc.,1999,Company - Private,200,12
+30,Citi,1812,Company - Public,10000,4
+31,United Nations,1945,Government,10000,16
+32,"Discovery Communications, Inc.",1985,Company - Public,10000,17
+33,Guidepoint,2003,Company - Private,1000,5
+34,Mitchell Martin,1984,Company - Private,1000,12
+35,Lorven Technologies Inc,-1,Company - Private,50,18
+36,Sphinix Network Solutions Inc.,-1,Company - Private,50,15
+37,Praescient Analytics,2011,Company - Private,200,19
+38,Global Atlantic Financial Group,2004,Company - Private,5000,20
+39,Jefferies,1962,Company - Public,5000,4
+40,ektello,2011,Company - Private,500,12
+41,"Premier, Inc.",1967,Company - Public,5000,2
+42,JPMorgan Chase,1799,Company - Public,10000,4
+43,BlueVoyant,-1,Company - Private,200,14
+44,Crossfire Consulting Corporation,-1,Company - Private,200,19
+45,Wildlife Conservation Society,1895,Nonprofit Organization,5000,1
+46,1199SEIU Funds,-1,Nonprofit Organization,5000,20
+47,Nutrafol,-1,Other Organization,200,21
+48,"EDP World, Inc.",1968,Company - Private,50,12
+49,"Staffigo Technical Services, LLC",2008,Company - Private,200,15
+50,IBM,1911,Company - Public,10000,15
+51,Northwell Health,1997,Nonprofit Organization,10000,2
+52,Huxley,1995,Company - Private,500,12
+53,Vericred,2015,Company - Private,50,3
+54,Scotiabank,1832,Company - Public,10000,4
+55,Child Mind Institute,2009,Nonprofit Organization,500,2
+56,Balance Innovations,-1,Company - Private,200,11
+57,Asset Staffing,-1,Contract,500,12
+58,Reliable Software Resources,2004,Company - Private,1000,15
+59,"Hearst Television, Inc",-1,Company - Private,200,17
+60,William Hill US,1934,Company - Public,10000,22
+61,Decision Resources Group,1990,Subsidiary or Business Segment,5000,15
+62,"NTT DATA, Inc.",-1,Company - Private,500,18
+63,Columbia University,1938,College / University,10000,23
+64,Cactus Holdings,2002,Company - Private,5000,5
+65,Cuny Research Foundation,1963,Nonprofit Organization,10000,23
+66,Amazon,1994,Company - Public,10000,3
+67,Mount Sinai Health System,2013,Hospital,10000,2
+68,"Halcyon Solutions, Inc.",1992,Company - Private,200,15
+69,Roman,-1,Company - Private,500,14
+70,COOLSOFT,-1,Company - Private,200,21
+71,451 Research,2000,Company - Private,500,5
+72,Amenity Analytics,2015,Company - Private,200,24
+73,APCO Worldwide,1984,Company - Private,1000,19
+74,Softcom Systems,-1,Company - Private,50,15
+75,UBS,1862,Company - Public,10000,4
+76,NBCUniversal,1906,Company - Public,10000,17
+77,Green Key Resources,2004,Company - Private,500,12
+78,22nd Century Technologies,1997,Company - Private,5000,15
+79,Metropolitan Council on Jewish Poverty,-1,Nonprofit Organization,500,1
+80,"Take-Two Interactive Software, Inc.",1993,Company - Public,5000,25
+81,Morgan Stanley,1935,Company - Public,10000,4
+82,ICAP at Columbia University,2003,Nonprofit Organization,1000,2
+83,Columbia University Medical Center,-1,Hospital,10000,2
+84,Xoriant Corporation,1990,Company - Private,5000,15
+85,Montefiore Medical,1884,Nonprofit Organization,10000,2
+86,ACS,-1,Company - Private,50,26
+87,VISTRADA,-1,Company - Private,50,8
+88,Disney Streaming Services,2018,Company - Private,1000,3
+89,Royal Communications Consultants Inc,-1,Company - Private,50,15
+90,CASES,1989,Nonprofit Organization,500,1
+91,Earnest Research,2012,Company - Private,200,5
+92,Phyton Talent Advisors,-1,Company - Private,50,14
+93,Source of Future Technology Inc,1981,Company - Private,50,11
+94,Brink's,1859,Company - Public,10000,27
+95,TechProjects,2011,Company - Private,50,15
+96,RMS Computer Corporation,1985,Company - Private,500,11
+97,2U,2008,Company - Public,5000,24
+98,Mount Sinai Medical Center,1946,Nonprofit Organization,5000,2
+99,Brown Brothers Harriman,1818,Company - Private,5000,4
+100,NYC Health + Hospitals,-1,Company - Public,10000,2
+101,Horizon Blue Cross Blue Shield of New Jersey,1932,Nonprofit Organization,5000,20
+102,Walt Disney Company,1923,Company - Public,10000,13
+103,Roar Digital,2018,Company - Private,200,22
+104,The Bank of New York Mellon,1784,Company - Public,10000,4
+105,"Nesco Resource, LLC",1956,Company - Private,5000,12
+106,Museum of Ice Cream,-1,Company - Private,500,14
+107,APN Consulting,-1,Company - Private,50,8
+108,Siri InfoSolutions,-1,Company - Private,200,19
+109,Icahn School of Medicine at Mount Sinai,-1,Nonprofit Organization,5000,14
+110,Avani Technology Solutions,2008,Company - Private,1000,15
+111,Altech Star Inc.,-1,Company - Private,50,11
+112,V R Della Infotech Inc,2012,Company - Private,200,12
+113,New York Times,1896,Company - Public,5000,28
+114,Blue Rock Consulting,-1,Company - Public,50,14
+115,SMBC,-1,Company - Public,,14
+116,Informa Intelligence,1998,Company - Public,5000,19
+117,Integra Managed Care,-1,Subsidiary or Business Segment,1000,2
+118,RMS Computer,1985,Company - Private,500,11
+119,Healthfirst,1993,Nonprofit Organization,5000,20
+120,SAT Healthcare,2002,Company - Private,500,2
+121,American CyberSystems,1998,Company - Private,10000,15
+122,M&T Bank Corporation,1856,Company - Public,10000,10
+123,Oracle,1977,Company - Public,10000,24
+124,CMI/Compas,1989,Company - Private,1000,8
+125,AbleTo,2008,Company - Private,200,2
+126,Eagle Investment Systems,1989,Subsidiary or Business Segment,1000,4
+127,Hikma Pharmaceuticals,1978,Company - Public,10000,29
+128,SMBC Group,1996,Company - Public,10000,4
+129,VNA Health Group,1912,Nonprofit Organization,5000,1
+130,Rockstar Games,1998,Subsidiary or Business Segment,5000,25
+131,Hexacorp,2001,Company - Private,200,15
+132,Informa,1998,Company - Public,10000,30
+133,Momentum Solar,2009,Company - Private,1000,31
+134,VIVA USA INC,1996,Company - Private,200,15
+135,J.P. Morgan,1799,Company - Public,10000,4
+136,Saratoga Medical Center,1985,Company - Private,500,2
+137,"Competent Systems, Inc",2003,Company - Private,500,24
+138,Peloton Interactive,2012,Company - Public,5000,21
+139,Genpact,1997,Company - Public,10000,15
+140,EmblemHealth,1937,Nonprofit Organization,5000,20
+141,Jackson Hewitt,1982,Company - Private,500,32
+142,National Kidney Foundation,1964,Nonprofit Organization,200,33
+143,CheckedUp,-1,Company - Private,50,14
+144,Tekfortune Inc.,-1,Company - Private,50,15
+145,"Intercontinental Exchange, Inc.",2000,Company - Public,5000,4
+146,"8K Miles Software Services, Inc.",2008,Company - Public,500,11
+147,VTS,2011,Company - Private,500,24
+148,Robert Half,1948,Company - Public,10000,12
+149,Quest Diagnostics,1967,Company - Public,10000,2
+150,Creative Data Resources,1992,Company - Private,50,12
+151,EVERSANA,2018,Company - Private,5000,29
+152,National Grid USA,1990,Company - Public,10000,34
+153,Barnabas Health,-1,Company - Public,1000,14
+154,Aegis Media,1978,Subsidiary or Business Segment,5000,8
+155,Altice USA,-1,Company - Public,10000,14
+156,Sumitomo Mitsui Banking Corporation (SMBC),1996,Company - Public,10000,4
+157,Geller & Company,1984,Company - Private,1000,4
+158,Plymouth Rock Assurance,1982,Company - Private,5000,20
+159,Metroplus Health Plan,1985,Nonprofit Organization,5000,2
+160,Primesoft,-1,Company - Private,50,15
+161,Systemart LLC,-1,Company - Private,50,11
+162,ITech Recruiting,-1,Company - Public,200,14
+163,RN Staff,-1,Unknown,,12
+164,Abacus Service Corporation,2004,Company - Private,1000,12
+165,CyberCoders,1999,Subsidiary or Business Segment,500,12
+166,TECHNOCRAFT Solutions,-1,Company - Private,50,8
+167,RWJBarnabas Health,1982,Nonprofit Organization,10000,2
+168,MVP Consulting Plus Inc,-1,Company - Private,500,35
+169,Capgemini,1967,Company - Public,10000,24
+170,Centers Plan for Healthy Living,-1,Company - Private,1000,2
+171,BNY Mellon,1784,Company - Public,10000,4
+172,Norgate Technology Inc,1993,Company - Private,200,12
+173,HomeBridge Financial Services,1989,Company - Private,5000,9
+174,"Avacend, Inc.",-1,Company - Private,200,12
+175,Care Design New York,2018,Nonprofit Organization,5000,2
+176,HCL Global Systems,-1,Company - Private,10000,19
+177,Abnormal Security,2018,Company - Private,200,24
+178,Akraya Inc.,2001,Company - Private,200,12
+179,Goldman Sachs,1869,Company - Public,10000,4
+180,Idexcel Inc.,1998,Company - Private,1000,15
+181,SPECTRAFORCE TECHNOLOGIES Inc.,2000,Company - Private,1000,12
+182,Easton Technical Products,-1,Company - Private,500,35
+183,CIVICA INC,-1,Company - Private,50,14
+184,ENERBANK USA,-1,Company - Public,50,14
+185,Vimerse,2011,Company - Private,200,14
+186,"Janus International Group, LLC",2001,Company - Private,1000,36
+187,ClientSolv Technologies,1994,Company - Private,200,15
+188,YORKTOWN SYSTEMS GROUP INC,-1,Company - Private,1000,19
+189,Connor Group,2006,Company - Private,500,18
+190,Vivint Solar,2011,Company - Public,5000,31
+191,"VED Software Services, Inc.",1995,Company - Private,200,15
+192,TCOE,-1,School / School District,50,37
+193,"Public Health Foundation Enterprises, In",1968,Nonprofit Organization,5000,1
+194,USfalcon,1984,Company - Private,500,38
+195,Patient Advocate Foundation,1996,Nonprofit Organization,200,1
+196,"Orbis, Inc.",2000,Company - Private,500,39
+197,Smithfield,1936,Subsidiary or Business Segment,10000,40
+198,Booz Allen Hamilton,1914,Company - Public,10000,19
+199,EVMS,1935,Company - Private,1000,41
+200,"Epsilon Systems Solutions, Inc.",1998,Company - Private,1000,42
+201,Oasis Systems,1997,Company - Private,5000,15
+202,Counter Threat Solutions,2015,Company - Private,200,19
+203,ITA International,-1,Company - Public,500,18
+204,Liberty Source,2014,Company - Private,200,12
+205,"Oasis Systems, LLC",1997,Company - Private,5000,15
+206,National Capitol Contracting (NCC),2002,Company - Private,200,43
+207,Occam Solutions Inc,-1,Company - Private,50,19
+208,Analytical Mechanics Associates,1962,Company - Private,500,19
+209,"GStek, Inc.",1992,Company - Private,500,38
+210,CBRE,1906,Company - Public,10000,44
+211,Guidehouse,2018,Company - Private,10000,19
+212,AXSEUM Inc,2002,Company - Private,200,19
+213,CACI International,1962,Company - Public,10000,38
+214,PROSOFT,-1,Contract,500,15
+215,FacilitySource,2001,Company - Public,5000,7
+216,Universal Consulting Services,2000,Company - Private,500,15
+217,"Universal Consulting Services, Inc.",2000,Company - Private,500,15
+218,AvMed Health Plans,1996,Nonprofit Organization,1000,20
+219,Shands Jacksonville,1984,Nonprofit Organization,5000,2
+220,Stamps.com,1996,Company - Public,5000,11
+221,Neustar,1996,Company - Private,5000,3
+222,Ruggable,-1,Company - Private,50,14
+223,First Professional Services,2018,Subsidiary or Business Segment,200,3
+224,Acumen,1996,Company - Private,500,16
+225,Dave,2016,Company - Private,50,10
+226,Cedars-Sinai,1902,Nonprofit Organization,10000,2
+227,Radiology Partners,2012,Company - Private,5000,2
+228,Human Good,-1,Company - Private,50,17
+229,System1,2013,Company - Private,500,3
+230,Hulu,2007,Company - Private,5000,17
+231,University of Southern California,1880,College / University,10000,23
+232,Delmarva Foundation,1973,Nonprofit Organization,1000,19
+233,LiveGlam,2016,Company - Private,200,21
+234,Warner Bros. Entertainment,1923,Company - Public,10000,13
+235,Electronic Arts,1982,Company - Public,10000,25
+236,Capital Group,1931,Company - Private,10000,4
+237,Turner Broadcasting,2003,Subsidiary or Business Segment,10000,17
+238,AIDS Healthcare Foundation,1987,Nonprofit Organization,5000,2
+239,LACERA,1938,Government,500,4
+240,LEAPROS,-1,Company - Private,50,14
+241,Tripalink,2016,Company - Public,50,44
+242,"Netflix, Inc.",1997,Company - Public,5000,3
+243,UC Davis Medical Center,-1,Nonprofit Organization,10000,2
+244,Internet Brands,1998,Company - Private,5000,3
+245,UCLA Health,1919,Company - Public,10000,2
+246,Activision Blizzard,1979,Company - Public,10000,25
+247,The Loot Company,2012,Company - Private,500,32
+248,Kaiser Permanente,1945,Nonprofit Organization,10000,2
+249,ZS Associates,1983,Company - Private,10000,19
+250,City National Bank,1954,Subsidiary or Business Segment,5000,10
+251,Cypress HCM,2005,Company - Private,200,12
+252,"Internet Brands, Inc.",1998,Company - Private,5000,3
+253,"Apollo Medical Holdings, Inc.",-1,Company - Private,50,14
+254,Molina Healthcare,1980,Company - Public,10000,20
+255,Beautycounter,2013,Company - Private,500,21
+256,Genuent,2006,Company - Private,500,12
+257,The Wonderful Company LLC,1980,Company - Private,10000,35
+258,TikTok,2016,Company - Private,5000,3
+259,MotorTrend Group,1948,Company - Public,1000,17
+260,Mercury Insurance Group,1961,Company - Public,5000,20
+261,Ajilon,1994,Company - Public,5000,12
+262,WB Technology,-1,Company - Private,,14
+263,Prosum,1996,Company - Private,500,15
+264,INSPIRE IT Solutions,-1,Company - Private,50,14
+265,"Prime MSO, LLC.",-1,Company - Private,50,2
+266,KORE1 Technologies,2005,Company - Private,200,12
+267,Pddn,-1,Company - Private,200,21
+268,Northrop Grumman,1939,Company - Public,10000,38
+269,"Aviana Global Technologies, Inc",1994,Company - Private,50,15
+270,Jam City,2010,Company - Private,1000,25
+271,Apple,1976,Company - Public,10000,11
+272,"EMINENT, INC.",-1,Company - Private,50,15
+273,"Leo Tech, LLC",-1,Company - Private,200,14
+274,"U.S. Auto Parts Network, Inc.",1995,Company - Public,5000,45
+275,MyLife.com,2002,Company - Private,50,3
+276,Center for Family Health and Education,-1,Company - Public,50,14
+277,Tech Air,1935,Company - Private,500,36
+278,Network Medical Management Inc,1994,Company - Public,1000,2
+279,Midcom,1979,Company - Private,200,19
+280,Odesus,2001,Company - Private,200,19
+281,Login Consulting Services,-1,Company - Private,200,19
+282,Blue Shield of California,1939,Nonprofit Organization,10000,20
+283,Airgas,1982,Company - Public,10000,46
+284,Revolve,2003,Company - Public,500,47
+285,Georgia IT Inc.,-1,Company - Private,50,14
+286,KIPP SoCal Public Schools,2003,Nonprofit Organization,5000,48
+287,SCAN Health Plan,1977,Nonprofit Organization,1000,20
+288,"Quinn Group, Inc.",1919,Company - Private,1000,42
+289,Pacific Clinics,1926,Nonprofit Organization,1000,2
+290,Quinn Group,-1,Company - Private,200,14
+291,NRC INC,-1,Company - Private,200,14
+292,LaBine & Associates,2013,Company - Private,50,12
+293,Quinn Company CAT,1919,Company - Private,1000,42
+294,AppleOne,1964,Company - Private,5000,12
+295,Information Technology Partners,1991,Company - Private,200,15
+296,Providence Health & Services,1855,Nonprofit Organization,10000,2
+297,USDM Life Sciences,1999,Company - Private,500,19
+298,SkillsetGroup - Professional Staffing Solutions,2013,Company - Private,50,12
+299,PIH Health,1959,Nonprofit Organization,10000,2
+300,Centric Consulting,1999,Company - Private,1000,19
+301,Kelly,1946,Company - Public,10000,12
+302,Mike's Hard Lemonade,1999,Company - Private,500,40
+303,Allscripts,1986,Company - Public,10000,11
+304,Circle Logistics,2011,Company - Private,500,49
+305,Mondo,2000,Company - Private,200,12
+306,Swoon,2010,Company - Private,500,12
+307,Bosch Group,1886,Company - Private,10000,50
+308,Tempus,1999,Company - Private,200,51
+309,Robert Bosch Tool Corporation,1971,Subsidiary or Business Segment,5000,35
+310,Chicago,1837,Government,10000,52
+311,Guggenheim Partners,1999,Private Practice / Firm,5000,4
+312,Milliman,1947,Company - Private,5000,19
+313,BMO,1882,Subsidiary or Business Segment,10000,10
+314,MeadWestVaco,2015,Company - Public,10000,50
+315,Lantana Consulting Group,-1,Company - Private,50,19
+316,PDI,2007,Unknown,200,14
+317,CRS Group,1994,Company - Private,200,12
+318,Chicago Public Schools,1883,School / School District,10000,48
+319,Tempus Labs,2015,Company - Private,1000,29
+320,Braviant Holdings,2014,Company - Private,200,9
+321,Rush University Medical Center,1837,Hospital,10000,2
+322,Alliant Credit Union,1935,Nonprofit Organization,1000,10
+323,University of Chicago,1890,College / University,10000,23
+324,PDI Software,1983,Company - Private,1000,24
+325,Invenergy,2001,Company - Private,1000,31
+326,WIN Home Inspection,-1,Franchise,50,53
+327,The Accuro Group,2003,Company - Private,500,12
+328,Empire Today,1959,Company - Private,5000,32
+329,Sphinix Solutions,-1,Company - Private,50,15
+330,BMO Financial Group,1817,Company - Public,10000,10
+331,PEAK6 Investments,1997,Company - Private,5000,54
+332,ABS Graphics,1982,Company - Private,200,8
+333,Willis Towers Watson,1828,Company - Public,10000,19
+334,The Chicago Lighthouse,1906,Company - Private,1000,1
+335,Genesys Talent,2014,Company - Private,50,12
+336,ALERE,2001,Company - Public,10000,29
+337,"TreeHouse Foods, Inc.",2005,Company - Public,10000,40
+338,NJF Global Holdings,2003,Company - Private,200,12
+339,Ongig,2011,Company - Private,50,24
+340,Flagstone Foods,-1,Company - Public,1000,55
+341,University of Illinois at Chicago,1982,College / University,,23
+342,Northern Trust,1889,Company - Public,10000,10
+343,Foresight ROI,-1,Company - Private,50,8
+344,BankFinancial Corporation,2005,Company - Public,500,10
+345,Capital Management,-1,Company - Private,50,4
+346,Nuveen,1898,Company - Private,5000,4
+347,Maine Pointe,2004,Company - Private,200,19
+348,HR Pundits,-1,Company - Private,50,11
+349,Softpath System LLC,1999,Company - Private,500,15
+350,Trinity Health,1976,Nonprofit Organization,10000,2
+351,Motorola Solutions,1928,Company - Public,10000,11
+352,Medline Industries,1966,Company - Private,10000,56
+353,Signode,1913,Subsidiary or Business Segment,10000,36
+354,Cedent Consulting,-1,Company - Private,50,19
+355,UI Health,-1,Company - Private,10000,2
+356,Jobot,2018,Company - Private,200,12
+357,Square One Resources,1995,Company - Private,200,12
+358,Esquire Recruiting,2012,Company - Private,50,12
+359,Walgreens,1901,Company - Public,10000,57
+360,Steiner Electric Co,1916,Company - Private,500,58
+361,"Xeris Pharmaceuticals, Inc.",-1,Company - Public,200,29
+362,TechUSA,1998,Company - Private,5000,12
+363,Metropolitan Family Services,1857,Company - Private,500,59
+364,Flexport,2013,Company - Private,5000,60
+365,RiverPoint,2013,Company - Private,50,8
+366,"Retail Business Services, LLC",-1,Company - Public,5000,61
+367,PNC Financial Services Group,1845,Company - Public,10000,10
+368,Harris County,1966,Government,10000,2
+369,Kelsey-Seybold Medical Group,1949,Private Practice / Firm,5000,2
+370,Arthur Lawrence,2003,Company - Private,500,19
+371,Rosen,-1,Company - Private,500,62
+372,Randstad US,-1,Subsidiary or Business Segment,5000,12
+373,"Avetta, LLC",2004,Company - Private,500,24
+374,InvenTech Info,2010,Company - Private,500,15
+375,National Computing Group,1986,Company - Private,50,15
+376,HealthHelp,1999,Subsidiary or Business Segment,500,2
+377,Encore Consulting Services,-1,Company - Private,50,14
+378,GeoDigital,2005,Company - Private,200,11
+379,ForeFlight,-1,Company - Private,200,14
+380,ICF,1999,Company - Public,10000,19
+381,Corporate,-1,Company - Private,5000,14
+382,EAG Services,-1,Company - Private,50,19
+383,Sun and Ski Sports,1980,Company - Private,1000,63
+384,Wellcare,1985,Company - Public,10000,20
+385,Centene Corporation,1984,Company - Public,10000,20
+386,Kelsey Seybold Clinic,1949,Private Practice / Firm,5000,2
+387,Harris Health System,1966,Government,10000,2
+388,Sharpedge Solutions Inc,-1,Company - Private,,30
+389,Crown Castle USA Inc,1994,Company - Public,5000,43
+390,"Infomerica, Inc",1998,Company - Private,1000,15
+391,Servient,2004,Company - Private,200,24
+392,Premier Medical Resources,-1,Company - Private,500,14
+393,Icon Consultants,1998,Company - Private,5000,12
+394,UTHealth Houston,1972,College / University,10000,23
+395,The Jupiter Group,-1,Unknown,200,12
+396,Crawford Thomas Recruiting,2007,Company - Private,200,12
+397,LanceSoft Inc,2000,Company - Private,5000,12
+398,"Central Business Solutions, Inc",-1,Company - Private,200,19
+399,Professional Enrollment Concepts,2011,Company - Private,50,14
+400,Harris County Appraisal District,1980,Government,1000,52
+401,Desert Financial Credit Union,1939,Company - Public,5000,10
+402,Corbins Electric,1975,Company - Private,1000,53
+403,"The Judge Group, Inc.",1970,Company - Private,5000,12
+404,ON Semiconductor,1999,Company - Public,10000,64
+405,Charles Schwab,1973,Company - Public,10000,4
+406,National Education Partners,2019,Company - Private,500,23
+407,MUFG,1864,Company - Public,10000,10
+408,Arizona State University,1885,College / University,10000,23
+409,PK,2004,Company - Private,5000,15
+410,"Circle K Stores, Inc.",1951,Company - Public,10000,65
+411,Shamrock Foods,1922,Company - Private,5000,40
+412,Infotree Service Inc,2004,Company - Private,200,8
+413,O'Reilly Automotive,1957,Company - Public,10000,45
+414,Uhaul,1945,Company - Public,10000,66
+415,Matrix Medical Network,2001,Company - Private,5000,2
+416,Kaygen Inc.,-1,Company - Private,50,19
+417,Nucleusteq,2018,Company - Private,500,15
+418,Strategic Systems,2004,Company - Private,500,15
+419,Edupoint,-1,Company - Private,50,24
+420,Vanguard,1975,Company - Private,10000,4
+421,Envision Healthcare,2005,Company - Private,10000,2
+422,Envision Physician Services,-1,Company - Private,10000,14
+423,Saviance Technologies,1999,Company - Private,500,15
+424,"TekCom Resources, Inc.",2005,Company - Private,200,12
+425,Mastech Digital,1986,Company - Public,5000,12
+426,Wilco Source,-1,Company - Private,200,14
+427,Pegasus Knowledge Solutions,-1,Company - Private,500,18
+428,AllianceRx Walgreens Prime,2017,Company - Private,5000,29
+429,Signature Consultants,1997,Company - Private,5000,12
+430,First American Financial Corporation,1889,Company - Public,10000,20
+431,"ICST, LLC",1996,Company - Private,1000,12
+432,Stantec,1954,Company - Public,10000,39
+433,CSAA Insurance Group,1914,Company - Private,5000,20
+434,Crisis Response Network,2007,Nonprofit Organization,200,2
+435,InterSources Inc.,2007,Company - Private,200,12
+436,GTN Technical Staffing,2000,Company - Private,500,12
+437,"AOC Solutions, Inc.",1996,Company - Private,200,11
+438,Blue Cross Blue Shield of Arizona,1939,Nonprofit Organization,5000,20
+439,TransPerfect,1992,Company - Private,5000,19
+440,CVS Health,1963,Company - Public,10000,2
+441,ECRI,1968,Nonprofit Organization,500,2
+442,United BioSource,2003,Other Organization,5000,29
+443,Revantage Corporate Services,2017,Company - Private,500,44
+444,"Keen360, Inc.",-1,Company - Private,50,14
+445,Gopuff,2013,Company - Private,5000,67
+446,IntegriChain,2005,Company - Private,500,15
+447,University of Pennsylvania,1740,College / University,10000,23
+448,Temple University Health System,-1,Hospital,10000,2
+449,JPMorgan Chase & Co.,1799,Company - Public,10000,4
+450,Avantor,1904,Company - Public,10000,29
+451,Change Healthcare,2007,Company - Public,10000,15
+452,Bryn Mawr Communications LLC,-1,Company - Private,50,30
+453,ConnectiveRx,2015,Company - Private,5000,29
+454,Piper Companies,2011,Company - Private,500,12
+455,"Innovative Development, LLC",1992,Company - Private,200,19
+456,CHOP,1855,Nonprofit Organization,5000,2
+457,"Zachary Piper Solutions, LLC",2011,Company - Private,200,24
+458,"PMHCC, Inc.",1987,Nonprofit Organization,1000,2
+459,TD Bank,1855,Company - Public,10000,10
+460,Boeing,1916,Company - Public,10000,38
+461,"Computer Enterprises, Inc.",1992,Company - Private,1000,15
+462,Weston Solutions Inc.,1957,Company - Private,5000,62
+463,"Numeric, LLC",-1,Company - Private,50,12
+464,Community Behavioral Health,1994,Company - Private,500,2
+465,APN Software Services Inc.,-1,Company - Private,200,11
+466,Versant Health,-1,Company - Private,5000,20
+467,Micro-Data Systems Inc.,1992,Company - Private,200,15
+468,Tetra Tech,1966,Company - Public,10000,39
+469,Freedom Mortgage,1990,Company - Private,5000,4
+470,Eastern Airlines LLC,-1,Company - Private,50,14
+471,The Judge Group,1970,Company - Private,5000,12
+472,amerihealth,1997,Subsidiary or Business Segment,10000,20
+473,A2C Consulting,1994,Company - Private,50,19
+474,Eurofins,1987,Company - Private,10000,29
+475,Cooper University Health Care,1887,Hospital,10000,2
+476,Forfeiture Support Associates,2004,Company - Private,5000,12
+477,"Management Decisions, Inc.",-1,Company - Public,50,8
+478,SRG Woolf,1995,Company - Private,50,12
+479,Adaptimmune Ltd,-1,Company - Public,500,29
+480,Trillium Solutions Group,2002,Private Practice / Firm,50,15
+481,TE Connectivity,2007,Company - Public,10000,64
+482,Future Technologies Inc.,-1,Company - Private,5000,18
+483,Fox Chase Cancer Center,1974,Nonprofit Organization,5000,2
+484,"Technocrafts, Inc.",-1,Company - Private,50,11
+485,Principle Auto,2014,Company - Private,1000,41
+486,H E B,1905,Company - Private,10000,68
+487,"CICONIX, LLC",-1,Company - Private,50,16
+488,NJVC,2001,Company - Private,5000,15
+489,Randstad,-1,Subsidiary or Business Segment,5000,12
+490,Deacon Recruiting,-1,Company - Private,50,12
+491,PETCO,1965,Company - Private,10000,69
+492,LMI,1961,Nonprofit Organization,5000,19
+493,CAMRIS International,2003,Company - Private,500,16
+494,General Dynamics Information Technology,1996,Subsidiary or Business Segment,10000,15
+495,Chenega Healthcare Services,1974,Subsidiary or Business Segment,1000,12
+496,"Cherokee Nation Businesses, LLC",-1,Company - Private,5000,18
+497,Spectrum Comm,1999,Company - Private,200,38
+498,Peyton Resource Group,2001,Company - Private,50,12
+499,CDO Technologies Inc,1995,Company - Private,500,11
+500,Strategic Staffing Solutions,1990,Contract,5000,12
+501,University of California,1868,College / University,10000,23
+502,"BD (Becton, Dickinson and Company)",-1,Company - Private,,14
+503,HealthStream,1990,Company - Public,1000,70
+504,Sayva Solutions,2014,Company - Private,200,12
+505,The Rock Church,-1,Nonprofit Organization,50,14
+506,Stem,2009,Company - Private,200,31
+507,Illumina,1998,Company - Public,10000,29
+508,General Dynamics,1952,Company - Public,10000,38
+509,"Dexcom, Inc.",1999,Company - Public,5000,29
+510,BD,1897,Company - Public,10000,56
+511,UC San Diego,1960,College / University,10000,23
+512,Web Shop Manager,2000,Company - Private,50,11
+513,Intuit,1983,Company - Public,10000,11
+514,University of California - San Diego Medical Centers,1966,Hospital,10000,2
+515,Interpreta,-1,Company - Private,50,14
+516,"Verity, A HealthStream Company",1985,Subsidiary or Business Segment,500,11
+517,Amentum,-1,Company - Public,10000,14
+518,Russell Tobin & Associates,2010,Subsidiary or Business Segment,200,12
+519,Perspecta,2018,Company - Public,10000,38
+520,MedImpact,1989,Company - Private,5000,58
+521,Sycuan Casino,1983,Company - Private,5000,22
+522,California State University,1962,College / University,10000,23
+523,"Sunrise Systems, Inc.",1990,Company - Private,1000,15
+524,World Wide Technology,1990,Company - Private,10000,11
+525,The Carrera Agency,2002,Company - Private,200,12
+526,Kelly IT,-1,Company - Private,1000,12
+527,SBG Techology Solutions,2004,Company - Private,200,15
+528,Lidl,1994,Company - Private,10000,68
+529,Addison Group,1999,Company - Private,1000,12
+530,PeopleFun,-1,Company - Private,50,71
+531,The Richards Group,1957,Company - Private,1000,8
+532,Federal Reserve Bank,1914,Company - Private,5000,72
+533,Atos,1919,Company - Public,10000,15
+534,Precision,-1,Company - Private,50,14
+535,Match Group,1998,Company - Private,5000,8
+536,Texas Scottish Rite Hospital for Children,1921,Nonprofit Organization,5000,2
+537,Dallas ISD,1867,School / School District,10000,37
+538,Dallas Independent School District,1867,School / School District,10000,37
+539,Signify Health,2017,Company - Private,1000,2
+540,Federal Reserve Bank (FRB),1913,Government,5000,16
+541,L&T Infotech,1997,Company - Public,10000,15
+542,Federal Reserve Bank of Richmond,1914,Nonprofit Organization,5000,10
+543,Atmos Energy Corp.,1906,Company - Public,5000,62
+544,Apex Systems,1995,Subsidiary or Business Segment,5000,12
+545,RealPage,1998,Company - Public,10000,11
+546,Mary Kay,1963,Company - Private,10000,35
+547,Apptricity Corporation,1999,Company - Private,200,11
+548,PriceSenz,-1,Company - Public,,14
+549,MOA,1997,Unknown,200,14
+550,NTT DATA,1967,Company - Public,10000,15
+551,Mosaic Sales Solutions,1947,Company - Private,10000,8
+552,"One Call Claims, LLC",-1,Company - Private,500,20
+553,LeadsOnline LLC,-1,Company - Private,50,14
+554,PROLIM Global Corporation,2005,Company - Private,500,24
+555,ADT,1874,Company - Public,10000,27
+556,"Pinnacle Technical Resources, Inc.",1996,Company - Private,10000,12
+557,eDataForce consulting LLC,2012,Company - Private,50,15
+558,"ServiceLink, a Black Knight Company",1967,Subsidiary or Business Segment,5000,9
+559,Lightbeam Health Solutions,-1,Company - Private,200,2
+560,"Telnet (Rockville, MD)",-1,Company - Private,200,19
+561,Tarrant County,-1,Government,50,52
+562,Vastika,-1,Company - Private,50,21
+563,University of Texas at Arlington,1967,College / University,5000,23
+564,Fairway Independent Mortgage Corporation,1996,Company - Private,10000,9
+565,Colfax Corporation,1995,Company - Public,10000,36
+566,Bloomfield Homes,-1,Subsidiary or Business Segment,50,53
+567,ServiceLink,1967,Subsidiary or Business Segment,5000,9
+568,Onyx CenterSource,2013,Company - Private,500,51
+569,Fleishman-Hillard Inc,1946,Subsidiary or Business Segment,5000,8
+570,LifePath Systems,-1,Government,200,14
+571,Horn Solutions Inc.,2008,Company - Private,50,19
+572,DJO Global,1978,Subsidiary or Business Segment,10000,56
+573,silverXis inc,-1,Other Organization,50,15
+574,CTG,-1,Company - Private,,14
+575,Radiant Digital,-1,Company - Private,50,14
+576,PeopleNTech LLC,-1,Contract,50,15
+577,Ava Consulting,-1,Company - Public,50,15
+578,Molex,1938,Company - Private,10000,64
+579,Net2Source,2007,Company - Private,5000,12
+580,Community Hospital,-1,Hospital,500,2
+581,Mill Creek Residential Trust,2011,Company - Private,1000,44
+582,Employbridge,2006,Company - Private,5000,12
+583,FirstAmerica,1995,Company - Private,10000,49
+584,Peyton Resource Group (PRG),2001,Company - Private,50,12
+585,Frontend Arts,2013,Company - Private,50,24
+586,OneMain Financial,1912,Company - Public,10000,9
+587,NVIDIA,1993,Company - Public,10000,11
+588,Risk Management Solutions (RMS),1989,Company - Private,5000,24
+589,Alteryx,1997,Company - Public,5000,24
+590,Cognoa,-1,Company - Private,50,2
+591,Moveworks,2016,Company - Private,200,24
+592,Ursus,-1,Company - Private,50,15
+593,Nuro,2016,Company - Private,500,11
+594,Netflix,1997,Company - Public,5000,3
+595,Poshmark,2011,Company - Private,500,3
+596,Calsoft Labs,1992,Company - Private,5000,15
+597,Exact Sciences Corporation,1995,Company - Public,5000,2
+598,Stanford University,1891,College / University,10000,23
+599,"John Wiley & Sons, Inc.",1807,Company - Public,10000,30
+600,Cadence Design Systems,1988,Company - Public,10000,11
+601,Stanford School of Medicine,-1,College / University,10000,23
+602,Beezwax Datatools,1994,Company - Private,50,11
+603,IntelliPro Group Inc.,-1,Company - Private,500,14
+604,Milestone Technologies Inc.,1997,Company - Private,5000,15
+605,Stanford University School of Medicine,-1,College / University,10000,23
+606,Technosoft Corporation,1996,Company - Private,5000,15
+607,AbbVie,2013,Company - Public,10000,29
+608,SRA OSS,2006,Company - Private,200,15
+609,Adwait Algorithm,2015,Company - Private,200,15
+610,Zoom,2011,Company - Public,5000,15
+611,Verb Surgical,-1,Company - Private,500,2
+612,MentorX Corp.,-1,Company - Private,50,14
+613,Introlligent Inc.,-1,Company - Private,50,8
+614,IT Coalition,-1,Company - Private,50,18
+615,Tachyon Technologies LLC,2011,Company - Private,500,15
+616,Mackin,1960,Company - Private,200,39
+617,Lark Health,2011,Company - Private,200,2
+618,Mizuho OSI,1978,Company - Private,500,36
+619,Splunk,2003,Company - Public,5000,24
+620,Course Hero,2006,Company - Private,500,23
+621,Vaco,2002,Company - Private,1000,19
+622,Cepheid,1996,Company - Private,5000,29
+623,Lodestone,2007,Company - Private,500,3
+624,DynPro Inc.,1996,Company - Private,200,15
+625,eHealth,1997,Company - Public,5000,73
+626,Centrillion,2009,Company - Private,50,29
+627,Creative Circle,2002,Company - Public,500,12
+628,SOFTHQ INC,2010,Company - Private,200,11
+629,Fortinet,2000,Company - Public,10000,11
+630,Crystal Equation,2006,Company - Private,200,15
+631,Akorbi,2003,Company - Private,500,19
+632,Anzu Global,2006,Company - Private,50,19
+633,Omega Solutions,-1,Other Organization,50,15
+634,"Cadence Design Systems, Inc.",1988,Company - Public,10000,11
+635,"GenapSys, Inc.",2010,Company - Private,200,29
+636,Optima Global Solutions,2001,Company - Private,50,15
+637,i-CST,1996,Company - Private,1000,12
+638,Alexza Pharmaceuticals,2000,Company - Private,50,29
+639,Ampcus Incorporated,2004,Company - Private,1000,19
+640,Yochana,2009,Company - Private,500,12
+641,Bill.Com,2006,Company - Public,1000,51
+642,eBay,1995,Company - Public,10000,3
+643,Healthgrades,1998,Company - Private,1000,3
+644,Assembly,2014,Subsidiary or Business Segment,500,8
+645,Texas Health & Human Services Commission,1912,Government,10000,74
+646,OnlineMedEd,2014,Company - Private,200,23
+647,Taskrabbit,2008,Company - Private,500,3
+648,KGS,2010,Company - Private,200,4
+649,Teacher Retirement System of Texas,1937,Government,1000,4
+650,Pushnami,2017,Company - Private,50,8
+651,GroupBy Inc.,2012,Company - Private,200,24
+652,Wargaming,1998,Company - Private,5000,25
+653,TalentCare,2013,Company - Private,50,2
+654,Facebook,2004,Company - Public,10000,3
+655,Q2eBanking,2004,Company - Public,5000,4
+656,Allegan General Hospital,1938,Company - Private,500,14
+657,Santanna Energy Services,1988,Company - Private,50,31
+658,TEXAS EDUCATION AGENCY,-1,Government,1000,74
+659,Vsion Technologies Inc,-1,Company - Private,200,15
+660,"ARK Solutions, Inc.",2015,Company - Private,50,19
+661,MedSeek,1996,Company - Private,200,11
+662,Gemalto,2006,Company - Public,10000,11
+663,Sonic Healthcare USA,1987,Company - Public,10000,2
+664,Ascension,1999,Nonprofit Organization,10000,2
+665,TxDOT,1991,Government,10000,74
+666,ISHPI Information Technologies,2006,Company - Private,500,15
+667,Sense Corp,1996,Company - Private,500,18
+668,SMIT Solutions,-1,Unknown,,14
+669,Central Health,-1,Government,200,2
+670,BayOne Solutions,-1,Company - Private,5000,15
+671,Texas Water Development Board,1957,Government,500,74
+672,GasPedal,2007,Company - Private,50,59
+673,"Smartwebs, Inc.",-1,Company - Private,,8
+674,Hyliion,2015,Company - Private,50,75
+675,"Quantilus, Inc",-1,Company - Private,50,15
+676,Texas Education Agency,-1,Government,1000,74
+677,TEXAS DEPARTMENT OF PUBLIC SAFETY,-1,Government,5000,52
+678,Deutsche Bank,1870,Company - Public,10000,4
+679,Kemper,1990,Company - Public,10000,20
+680,ARC Group,-1,Company - Private,200,4
+681,American Recruiting & Consulting Group,1982,Company - Private,200,12
+682,Reef Systems,-1,Company - Public,50,14
+683,CornerStone Staffing,1991,Company - Private,200,12
+684,Lockheed Martin,1995,Company - Public,10000,38
+685,GM Financial,1992,Company - Public,10000,9
+686,"SUNSET LOGISTICS, INC",-1,Company - Private,200,49
+687,Prudent Technologies & Consulting,1998,Company - Private,200,15
+688,System Soft Technologies,1999,Company - Private,500,15
+689,Fidelity TalentSource,1986,Company - Private,5000,12
+690,InfoQuest Consulting Group,-1,Company - Private,50,11
+691,"Global Technical Talent, LLC",1999,Company - Private,1000,15
+692,Nationwide Children's Hospital,1892,Nonprofit Organization,10000,2
+693,Abercrombie & Fitch Co.,1892,Company - Public,10000,47
+694,Abbott Laboratories,1888,Company - Public,10000,2
+695,Economic and Community Development Institute,-1,Nonprofit Organization,50,9
+696,Buckeye Health Plan,2004,Company - Public,5000,2
+697,Buckeye Community Health Plan,-1,Company - Private,200,14
+698,Revel IT,1997,Company - Private,500,15
+699,"Dedicated Tech Services, Inc.",2008,Private Practice / Firm,50,15
+700,Abbott,1888,Company - Public,10000,2
+701,Nationwide Childrens Hospital,1892,Nonprofit Organization,10000,2
+702,"JPMorgan Chase Bank, N.A.",1799,Company - Public,10000,4
+703,Creative Financial Staffing,1994,Company - Private,500,12
+704,Wells Fargo,1852,Company - Public,10000,10
+705,Brighthouse Financial,2017,Company - Public,5000,20
+706,pureIntegration,2004,Company - Private,200,24
+707,Vaco Technology,2002,Company - Private,1000,19
+708,OrthoCarolina,2005,Company - Private,1000,2
+709,American Tire Distributors,1935,Company - Private,5000,60
+710,Truist,2019,Company - Public,10000,4
+711,"Shimento, Inc.",-1,Company - Private,50,14
+712,"Conch Technologies, Inc",-1,Company - Private,200,19
+713,PCR Staffing,-1,Company - Private,50,11
+714,Tek Leaders,2016,Company - Private,1000,15
+715,DATA Inc.,1983,Company - Private,1000,15
+716,London Stock Exchange Group,1698,Company - Public,5000,76
+717,NTT DATA Services,1967,Company - Public,10000,15
+718,Cardinal Innovations Healthcare,-1,Company - Public,1000,2
+719,CYNET SYSTEMS,2010,Company - Private,1000,15
+720,Collabera,1991,Company - Private,10000,15
+721,"Infovisa, Inc.",-1,Company - Private,50,11
+722,Open Systems Technologies (NYC),1990,Company - Private,200,12
+723,Lowe's,1946,Company - Public,10000,77
+724,Canvas InfoTech Inc.,2006,Company - Private,50,12
+725,"PruTech Solutions, Inc.",1998,Company - Private,500,15
+726,Transportation Insight,1999,Company - Private,200,60
+727,Midan Marketing,2004,Company - Private,50,8
+728,Accenture Federal Services,1975,Subsidiary or Business Segment,5000,15
+729,Autodesk,1982,Company - Public,10000,11
+730,Vionic Group,2006,Subsidiary or Business Segment,200,47
+731,Freedom Financial Network,2002,Company - Private,5000,4
+732,PubNub,2011,Company - Private,200,3
+733,SigmaWay,-1,Company - Private,50,14
+734,Giving Assistant,2014,Company - Private,50,8
+735,LiveCareer,2005,Company - Private,1000,3
+736,Elevate Labs,-1,Company - Private,50,11
+737,Deliverr Inc,2017,Company - Private,200,60
+738,"Rodan and Fields, LLC",2002,Company - Private,1000,78
+739,Coinbase,2012,Company - Private,1000,3
+740,Trifacta,2012,Company - Private,200,11
+741,Wilbur Labs,2016,Company - Private,50,3
+742,Credible,2012,Company - Public,200,9
+743,Priceonomics,-1,Company - Private,50,3
+744,BOLD,2004,Company - Private,500,3
+745,"Impaq International, Llc",2001,Company - Private,500,19
+746,Turn/River Capital,-1,Company - Private,50,54
+747,Vinsari LLC,-1,Other Organization,200,14
+748,"Evolver, Inc.",2000,Company - Private,500,15
+749,Lyft,2012,Company - Public,10000,11
+750,First Republic Bank,1985,Company - Public,5000,10
+751,Omada Health,2011,Company - Private,500,2
+752,Chime,2013,Company - Private,500,10
+753,Twitter,2006,Company - Public,5000,3
+754,SACC,-1,Company - Private,,15
+755,"Netpace, Inc",1996,Company - Private,200,24
+756,Qualys,1999,Company - Public,1000,11
+757,United IT Solutions,2010,Company - Private,50,19
+758,Snowflake Computing,2012,Company - Private,5000,24
+759,Perfect Day,2014,Company - Private,200,29
+760,Twitch,2011,Subsidiary or Business Segment,5000,3
+761,Square,2009,Company - Public,5000,11
+762,Hinge Health,2014,Company - Private,500,2
+763,Rose International,1993,Company - Private,5000,12
+764,"Netpace, Inc.",1996,Company - Private,200,24
+765,Arkhya Tech,2017,Company - Private,50,15
+766,Stem Inc,2009,Company - Private,200,31
+767,"PRIMUS Global Services, Inc",2002,Company - Private,1000,19
+768,Redfin,2004,Company - Public,5000,44
+769,Bio-Rad,1952,Company - Public,10000,29
+770,Saama,2007,Company - Private,50,11
+771,OKCoin,2013,Company - Private,1000,3
+772,Hazelcast,2012,Company - Private,200,11
+773,"LeadStack, Inc.",2016,Company - Private,200,15
+774,University of California Berkeley,1682,College / University,10000,23
+775,addastaff,-1,Company - Private,50,12
+776,HireTalent,1997,Company - Private,500,12
+777,"TalentBurst, Inc.",2002,Company - Private,1000,15
+778,"I.T. Solutions, Inc.",-1,Other Organization,500,15
+779,Alliance IT,2011,Company - Private,200,15
+780,Square Trade,1999,Company - Private,500,20
+781,"Next Level Business Services, Inc.",2007,Company - Private,10000,15
+782,GoAhead Solutions,2001,Company - Private,50,15
+783,Sutter Health System,1981,Nonprofit Organization,10000,2
+784,Incedo Inc,2012,Company - Private,5000,15
+785,Ascent,2000,Company - Private,5000,12
+786,Saama Technologies Inc,1997,Company - Private,1000,29
+787,Epikso,2015,Company - Private,200,5
+788,"ZS Associates, Inc.",-1,Company - Private,10000,14
+789,The Ascent Services Group,2000,Company - Private,5000,12
+790,City and County of San Francisco,-1,Government,10000,16
+791,Epikso Inc,2015,Company - Private,200,5
+792,Central Garden & Pet Company,1980,Company - Public,5000,35
+793,Concept Software & Services Inc,1998,Company - Private,50,19
+794,Upper Hand,2012,Company - Private,50,24
+795,"Alpha Rae Personnel, Inc.",-1,Company - Private,5000,12
+796,Gallega Software Solutions Inc,-1,Company - Private,50,14
+797,Keywords Studios,1998,Company - Public,10000,15
+798,Kuehne + Nagel,1890,Company - Private,10000,60
+799,Health & Hospital Corporation,1951,Company - Private,5000,2
+800,Franciscan Health,1875,Nonprofit Organization,10000,2
+801,Vespa Group LLC,-1,Company - Private,50,79
+802,Little Raymond's Print Shop,-1,Franchise,200,47
+803,CNO Financial Group,1979,Company - Public,5000,20
+804,Lionbridge,1996,Company - Private,10000,15
+805,Remitly,2011,Company - Private,5000,10
+806,Washington Federal,1917,Company - Public,5000,10
+807,Costco Wholesale Corporation,1976,Company - Public,10000,80
+808,Microsoft Corporation,1975,Company - Public,10000,11
+809,"Resource Logistics, Inc.",1997,Company - Private,200,60
+810,"iSpot.tv, Inc.",-1,Company - Private,200,14
+811,Subex,1992,Company - Public,1000,24
+812,Fred Hutch,1975,Nonprofit Organization,5000,1
+813,Protingent,2001,Company - Private,200,12
+814,Nintendo,-1,Company - Public,10000,25
+815,Zen3 Infosolutions America Inc,2016,Company - Private,5000,11
+816,NuWest Group,1990,Company - Private,200,12
+817,Resource Informatics Group,2012,Nonprofit Organization,50,15
+818,W3Global,2006,Company - Private,500,12
+819,Johns Hopkins University,1876,College / University,10000,23
+820,Protingent Staffing,2001,Company - Private,200,12
+821,University of Georgia,1785,College / University,10000,23
+822,"Advent Global Solutions, Inc.",1997,Company - Private,1000,15
+823,CoreSite,2001,Company - Public,500,15
+824,Twilio,2008,Company - Public,5000,3
+825,Strive Health,2018,Company - Private,50,2
+826,Xcel Energy,1909,Company - Public,10000,34
+827,CitiusTech,2005,Company - Private,5000,15
+828,The Motley Fool,1993,Company - Private,500,3
+829,Ibotta,2012,Company - Private,1000,3
+830,State of Colorado,-1,Government,10000,74
+831,Charles Schwab Corporation,1973,Company - Public,10000,4
+832,Broadridge,2007,Company - Public,10000,51
+833,Government Accountability Office,1921,Government,5000,16
+834,Century Communities,2002,Company - Public,1000,53
+835,Weston Solutions,1957,Company - Private,5000,62
+836,RxRevu,-1,Company - Private,50,2
+837,Recondo Technology,2007,Company - Private,200,24
+838,Y-Axis Inc,-1,Company - Private,50,19
+839,Unison Systems Inc.,-1,Company - Private,50,14
+840,Legislative Branch,1789,Government,1000,74
+841,CenturyLink,1930,Company - Public,10000,81
+842,Comcast,1963,Company - Public,10000,14
+843,DW Simpson,1989,Company - Private,200,12
+844,Signature Retail Services,1991,Company - Private,1000,77
+845,Global Healthcare Exchange,2000,Company - Private,1000,24
+846,V.L.S. Systems,2006,Company - Private,500,19
+847,GHX,1937,Subsidiary or Business Segment,1000,58
+848,22nd Century Staffing,-1,Company - Private,200,12
+849,Telligen,1972,Company - Private,1000,2
+850,Arrow Electronics,1935,Company - Public,10000,58
+851,Contingent Network Services,1984,Company - Private,500,24
+852,SCL Health,1864,Nonprofit Organization,10000,2
+853,"SPINS, LLC",1995,Company - Private,500,19
+854,Aerotek,1983,Company - Private,10000,12
+855,Clovity Inc,-1,Company - Private,500,15
+856,BankFinancial,2005,Company - Public,500,10
+857,Steiner Electric Company,1916,Company - Private,500,58
+858,VDart Inc.,2007,Company - Private,5000,15
+859,Sierra Business Solution LLC,-1,Unknown,200,14
+860,Kelsey-Seybold,1949,Private Practice / Firm,5000,2
+861,"CSAA Insurance Group, a AAA Insurer",1914,Company - Private,5000,20
+862,Tokyo Electron America,1963,Company - Public,10000,36
+863,"Haley & Aldrich, Inc",1957,Company - Private,1000,19
+864,"Resourcesoft, Inc.",-1,Company - Private,200,19
+865,circle k,1951,Company - Public,10000,65
+866,Alpha Consulting,1994,Company - Private,500,12
+867,Penn Medicine,1993,Hospital,10000,2
+868,UBC,-1,Company - Private,50,14
+869,DLL,1969,Company - Private,10000,4
+870,BOEING,1916,Company - Public,10000,38
+871,Digital Creative Institute,2015,Company - Private,50,70
+872,University Health System,1955,Nonprofit Organization,5000,2
+873,UnitedHealth Group,1977,Company - Public,10000,2
+874,Camris International,2003,Company - Private,500,16
+875,Enterprise Solutions Inc,2000,Company - Private,200,12
+876,San Diego Gas & Electric,1995,Subsidiary or Business Segment,5000,31
+877,Qualcomm,1985,Company - Public,10000,11
+878,Texas Capital Bancshares,1998,Company - Public,5000,10
+879,Pioneer Consulting Services LLC,-1,Company - Private,50,15
+880,"InfoVision, Inc.",1995,Company - Private,5000,15
+881,Citibank,-1,Company - Private,5000,9
+882,DISYS,1994,Company - Private,5000,15
+883,Privacera,-1,Unknown,50,24
+884,ClearStory Data,2011,Company - Private,200,24
+885,"Radiansys, Inc.",-1,Company - Private,50,8
+886,Vaco Staffing,2002,Company - Private,1000,19
+887,Cisco Systems - Customer Experience,1984,Company - Private,10000,11
+888,MW Partners,-1,Company - Private,200,14
+889,Workday,2005,Company - Public,10000,24
+890,TaskRabbit,2008,Company - Private,500,3
+891,"GroupBy, Inc",2012,Company - Private,200,24
+892,Ascension Technologies,1999,Nonprofit Organization,10000,2
+893,ByteDance,2012,Company - Private,10000,3
+894,Four Hands,1996,Company - Private,500,82
+895,CommUnityCare,2009,Nonprofit Organization,5000,2
+896,Booz Allen Hamilton Inc.,1914,Company - Public,10000,19
+897,Home Depot,1978,Company - Public,10000,14
+898,Crowley Maritime,1892,Company - Private,10000,83
+899,Alluvion Staffing,2000,Company - Private,50,12
+900,Florida Blue,1944,Nonprofit Organization,10000,20
+901,"Wellbox, Inc.",2015,Company - Private,200,2
+902,FIS,1968,Company - Public,10000,51
+903,Capital Staffing Solutions,-1,Company - Private,1000,12
+904,Venus Fashion,1982,Company - Private,1000,47
+905,SNI Technology,1998,Company - Public,500,12
+906,ProKatchers LLC,-1,Company - Private,200,15
+907,Prutech Solutions,1998,Company - Private,500,15
+908,Biesse Group,-1,Company - Public,,14
+909,Cardinal Innovations Healthcare Solutions,-1,Company - Public,1000,2
+910,NerdWallet,2009,Company - Private,500,72
+911,Wish,2011,Company - Private,1000,32
+912,Invitae,2010,Company - Public,5000,29
+913,HoneyBook,2013,Company - Private,200,3
+914,Moody's Analytics,2008,Company - Public,10000,72
+915,Moody's,1900,Company - Public,10000,72
+916,Dropbox,2007,Company - Private,5000,11
+917,FOCUSKPI INC,-1,Company - Private,200,8
+918,Samuel Merritt University,-1,College / University,500,23
+919,Indiana University Health,-1,Hospital,10000,2
+920,Pinnacle Partners,2000,Company - Public,5000,10
+921,Genuine Parts Company,1928,Company - Public,10000,45
+922,Mindteck US,1991,Company - Public,5000,15
+923,Trimedx,1998,Company - Private,5000,2
+924,Lilt,2015,Company - Private,200,3
+925,Eskenazi Health,1859,Hospital,5000,2
+926,Beckman Coulter Life Sciences,1935,Subsidiary or Business Segment,10000,56
+927,RedCloud Consulting,1995,Company - Private,200,19
+928,OfferUp,2011,Company - Private,500,11
+929,Allen Institute,2003,Nonprofit Organization,500,5
+930,Costco Wholesale,1976,Company - Public,10000,80
+931,Charlie's Produce,1978,Company - Private,5000,58
+932,Nordstrom,1901,Company - Public,10000,47
+933,The Polyclinic,1960,Private Practice / Firm,5000,2
+934,Microsoft,1975,Company - Public,10000,11
+935,Nayamode,-1,Company - Private,50,8
+936,Lenora systems,2012,Company - Private,500,15
+937,PATH,1977,Nonprofit Organization,5000,1
+938,Ab Ovo Inc.,2010,Company - Private,200,19
+939,Expedia.com,-1,Company - Public,,14
+940,Sogeti,1967,Subsidiary or Business Segment,5000,15
+941,Kent School District,1943,School / School District,5000,37
+942,FAA,1958,Government,10000,16
+943,Logic20/20,2005,Company - Private,500,19
+944,"Paula's Choice, LLC",1995,Company - Private,500,78
+945,US Department of Transportation,1967,Government,10000,16
+946,doxo,-1,Company - Private,50,11
+947,Paula's Choice Skincare,1995,Company - Private,500,78
+948,"Programetrix, LLC",2015,Company - Private,50,8
+949,"IMPAQ International, LLC",2001,Company - Private,500,19
+950,Expedia,-1,Company - Private,500,14
+951,Assurance Careers,2016,Company - Private,200,73
+952,CircleCI,2011,Company - Private,500,3
+953,"Metron, Inc.",1982,Company - Private,500,19
+954,Mark Paneth,1907,Private Practice / Firm,1000,18
+955,BAE Systems USA,1999,Subsidiary or Business Segment,10000,38
+956,American Institutes for Research,1946,Nonprofit Organization,5000,1
+957,Mars,1911,Company - Private,10000,40
+958,E3 Federal Solutions,2004,Company - Private,1000,19
+959,Mission Essential,2004,Company - Private,5000,38
+960,Asta CRS Inc.,-1,Company - Private,200,21
+961,Apple Federal Credit Union,1956,Nonprofit Organization,500,10
+962,"Credible Behavioral Health, Inc.",2000,Company - Private,200,11
+963,Compass Strategy Solutions,-1,Company - Private,,14
+964,Vintun,-1,Company - Private,50,14
+965,"Technomics, Inc",1984,Company - Private,200,38
+966,Leidos Holdings Inc.,1969,Company - Public,10000,38
+967,RiskSpan,2001,Company - Private,200,72
+968,RxAnte,-1,Subsidiary or Business Segment,50,14
+969,MDW Associates,2012,Company - Private,50,14
+970,West 4th Strategy,2016,Company - Private,200,16
+971,United We Dream,-1,Nonprofit Organization,50,1
+972,Frederick National Laboratory,-1,Company - Private,5000,14
+973,"Contracting Resources Group, Inc.",2002,Company - Private,50,19
+974,Principle Group,2015,Hospital,50,2
+975,Navigant Consulting,1996,Company - Private,10000,19
+976,L&E Meridian,-1,Company - Private,200,14
+977,"Latitude, Inc.",-1,Company - Private,50,19
+978,Alliance Global Tech Inc.,2013,Company - Private,50,14
+979,Ho Chunk,1995,Company - Private,500,84
+980,Brillient,2006,Company - Private,1000,15
+981,Afiniti,-1,Company - Private,1000,24
+982,CNA Corporation,1942,Nonprofit Organization,1000,38
+983,Global TechPro,-1,Company - Private,200,15
+984,ASRC Federal Holding Company LLC,2003,Company - Private,10000,38
+985,phia,-1,Company - Private,50,14
+986,ALEX Alternative Experts LLC,1987,Company - Private,200,19
+987,DuckerFrontier,-1,Company - Private,,14
+988,ACHP,-1,Nonprofit Organization,50,85
+989,Chenega MIOS,2005,Company - Private,5000,38
+990,National Education Association,1857,Nonprofit Organization,1000,59
+991,K&M Systems,1999,Company - Private,200,19
+992,Grant Thornton,1924,Company - Private,10000,18
+993,CompQsoft,1997,Company - Private,200,19
+994,"M.C. Dean, Inc.",1949,Company - Private,5000,39
+995,Islamic Relief USA,1993,Nonprofit Organization,200,86
+996,Ampcus Inc,2004,Company - Private,1000,19
+997,MVM,1979,Company - Private,,12
+998,"Onyx Government Services,LLC",2006,Company - Private,200,24
+999,"Iconma, L.L.C.",2000,Company - Private,5000,12
+1000,Knowledge Link,-1,Company - Public,50,39
+1001,SAIC,2013,Company - Public,10000,24
+1002,"MVM, Inc.",1979,Company - Private,,12
+1003,Jacobs,1947,Company - Public,10000,39
+1004,AdSTM,-1,Company - Private,200,19
+1005,DC Water,-1,Government,1000,34
+1006,US Customs and Border Protection,1927,Government,10000,16
+1007,BAE Systems,1999,Company - Public,10000,38
+1008,B3 Group Inc,-1,Company - Private,50,14
+1009,Arc Aspicio,2004,Company - Private,200,19
+1010,Elegant Enterprise Wide Solutions,-1,Company - Private,50,87
+1011,Otsuka America Pharmaceutical,1989,Company - Private,5000,29
+1012,JCS Solutions LLC,2014,Contract,200,15
+1013,TMCI,-1,Company - Private,50,14
+1014,Accentuate IT Solutions,-1,Company - Private,200,14
+1015,Softthink,-1,Company - Private,50,15
+1016,"Beacon Hill Staffing Group, LLC",2000,Company - Private,1000,12
+1017,RBR Technologies,2011,Company - Private,200,11
+1018,Consumer Financial Protection Bureau,2011,Government,5000,16
+1019,M9 Solutions,2007,Company - Private,200,15
+1020,Geisinger,1915,Nonprofit Organization,10000,2
+1021,Barbaricum,2008,Company - Private,200,19
+1022,PotomacWave Consulting,2007,Company - Private,500,19
+1023,Eccalon,2017,Company - Private,200,38
+1024,Akima Management Services,2003,Company - Private,10000,38
+1025,Amches,2003,Company - Private,50,11
+1026,eSolutionsFirst,2007,Company - Private,50,19
+1027,WSP USA,1959,Company - Public,10000,39
+1028,Partnership Employment,-1,Company - Public,50,8
+1029,eSource Technology LLC,-1,Company - Private,50,11
+1030,JWT,-1,Unknown,200,8
+1031,Centuria,-1,Company - Private,200,15
+1032,Native American Technology,-1,Company - Private,200,18
+1033,Analogiks,2017,Company - Private,50,15
+1034,Children's National Health System,1870,Nonprofit Organization,10000,2
+1035,Aptive,2012,Company - Private,200,19
+1036,Intelliware Systems,2005,Company - Private,500,16
+1037,Gridiron IT Solutions,2017,Company - Private,200,15
+1038,Leidos,1969,Company - Public,10000,38
+1039,"TAD PGS, Inc.",1997,Subsidiary or Business Segment,5000,12
+1040,Calhoun International,-1,Company - Private,50,19
+1041,Linquest Corporation,2004,Company - Private,1000,38
+1042,Veterans Enterprise Technology Solutions,2005,Company - Private,200,16
+1043,DynCorp International,1946,Company - Private,10000,38
+1044,MasterKey Consulting,-1,Company - Private,200,14
+1045,Afognak Native Corporation,-1,Company - Private,10000,60
+1046,Republican National Committee,1860,Nonprofit Organization,500,59
+1047,KL: Corporate,-1,Company - Public,50,46
+1048,Applied Memetics LLC,-1,Company - Public,200,19
+1049,"Business Management Associates, Inc.",2005,Company - Private,200,16
+1050,Washington Gas,-1,Company - Private,5000,34
+1051,Credence Management Solutions,-1,Company - Private,500,16
+1052,Interos,2005,Company - Private,200,24
+1053,TDI (Tetrad Digital Integrity),2001,Company - Private,50,11
+1054,"ALEX-Alternative Experts, LLC",1987,Company - Private,200,19
+1055,Telophase Corporation,1999,Company - Private,200,15
+1056,Advanced Concepts and Technologies International,-1,Company - Private,200,14
+1057,VETS,2005,Company - Private,200,16
+1058,"Credence Management Solutions, LLC",-1,Company - Private,500,16
+1059,"Culmen International, LLC",2004,Company - Private,500,16
+1060,National Science Foundation,1944,Government,5000,16
+1061,"K2 Group, Inc.",2004,Company - Private,50,38
+1062,ALL NATIVE GROUP,-1,Company - Private,1000,15
+1063,"eSolutionsFirst, LLC",2007,Company - Private,50,19
+1064,Data Trust,2005,Nonprofit Organization,200,1
+1065,ICS Global Soft INC,-1,Company - Private,200,14
+1066,"Whitney, Bradley and Brown",1981,Company - Private,1000,19
+1067,Rigid Tactical,-1,Company - Private,50,14
+1068,"Integrated Data Services, Inc.",-1,Company - Private,200,11
+1069,Chevo Consulting,2002,Company - Private,200,19
+1070,"AOC Solutions, Inc",1996,Company - Private,200,11
+1071,Redhorse Corporation,2008,Company - Private,200,15
+1072,ECS Corporate Services,1988,Company - Private,5000,39
+1073,Archimedes Global,-1,Contract,200,19
+1074,Triumph Enterprises,2005,Company - Private,200,16
+1075,Corner Alliance,2007,Company - Private,50,19
+1076,Salient CRGT,-1,Company - Private,5000,24
+1077,GCubed,-1,Company - Public,200,15
+1078,Xator Corporation,-1,Contract,1000,15
+1079,Gryphon Technologies,-1,Company - Private,5000,38
+1080,"Electronic Consulting Services, Inc.",2000,Company - Public,5000,15
+1081,Strategic Insight LTD,-1,Company - Private,50,14
+1082,CENTRA Technology,-1,Company - Private,500,15
+1083,GAP Solutions Inc,1999,Company - Private,1000,19
+1084,Octo Consulting Group,2006,Company - Private,1000,19
+1085,Navy Federal Credit Union,1933,Other Organization,10000,10
+1086,Wunderman Thompson Health,-1,Company - Public,10000,8
+1087,"Apogee Integration, LLC",1998,Company - Private,200,38
+1088,"Koniag, Inc.",-1,Company - Private,1000,19
+1089,"Science Systems and Applications, Inc",1977,Company - Private,1000,38
+1090,"Akira Technologies, Inc",-1,Company - Private,200,15
+1091,DC Public Schools,-1,School / School District,10000,37
+1092,EQRx,2019,Company - Private,50,29
+1093,GNS Healthcare,2000,Company - Private,200,29
+1094,Wayfair,2002,Company - Public,10000,82
+1095,Liberty Mutual Insurance,1912,Company - Private,10000,20
+1096,Beacon Health Options,2014,Company - Private,5000,2
+1097,Cogo Labs,2005,Company - Private,200,3
+1098,New Balance,1906,Company - Private,10000,32
+1099,Workhuman,1999,Company - Private,500,24
+1100,XCM Solutions,-1,Company - Private,500,11
+1101,adidas,1949,Company - Public,10000,35
+1102,Altair Management Consultants,2002,Company - Private,200,19
+1103,INFUSE Media,2012,Company - Private,500,8
+1104,Whitridge Associates,1991,Private Practice / Firm,200,15
+1105,MIT,1861,College / University,10000,23
+1106,WinterWyman,1972,Company - Private,200,12
+1107,ROI Solutions,1999,Company - Private,200,24
+1108,Massachusetts General Hospital,1811,Hospital,10000,2
+1109,Tufts University,1852,College / University,5000,23
+1110,Zoom Information Inc.,2000,Company - Public,5000,11
+1111,Ceres Group,-1,Company - Private,50,14
+1112,PowerAdvocate,1999,Company - Public,200,31
+1113,State of Massachusetts,-1,Government,5000,14
+1114,STG International,1997,Company - Private,5000,12
+1115,Gooch and Housego,1947,Company - Public,1000,50
+1116,Cognizant,1994,Company - Public,10000,14
+1117,Boston University,1839,College / University,10000,23
+1118,KBR,1901,Company - Public,10000,31
+1119,Freyr,-1,Company - Private,1000,19
+1120,Grand Circle LLC,1958,Company - Private,1000,88
+1121,HaystackID,-1,Company - Private,50,19
+1122,Lowell General Hospital,1891,Hospital,5000,2
+1123,"Wellington Management Company, LLP",1979,Company - Private,5000,4
+1124,Takeda,1781,Company - Public,10000,29
+1125,Mass General Brigham,1994,Nonprofit Organization,10000,2
+1126,Hopjump,2012,Company - Private,50,88
+1127,RISK STRATEGIES COMPANY,1997,Company - Private,5000,73
+1128,NTT DATA Corporation,1967,Company - Public,10000,15
+1129,CEI Group,1983,Company - Private,50,15
+1130,Global Partners LP,1933,Company - Public,5000,62
+1131,Odyssey Systems,1997,Company - Private,1000,19
+1132,Tufts Medical Center,1796,Company - Private,5000,2
+1133,Boston Conservatory,1998,College / University,500,23
+1134,Professional Staffing Group,1996,Company - Private,200,12
+1135,"HarborOne Bancorp, Inc.",1917,Company - Private,500,10
+1136,Verisk Analytics,1971,Company - Public,10000,5
+1137,MathWorks,1984,Company - Private,10000,11
+1138,Dana-Farber Cancer Institute,1947,Nonprofit Organization,5000,2
+1139,UniFirst,1936,Company - Public,10000,89
+1140,Boston Children's Hospital,1869,Nonprofit Organization,10000,2
+1141,AVID Technical Resources,2003,Company - Private,200,12
+1142,NTT DATA SERVICES,1967,Company - Public,10000,15
+1143,ADPI LLC,-1,Company - Private,50,19
+1144,Suffolk University,1906,College / University,1000,23
+1145,Brigham and Women's Hospital,1996,Subsidiary or Business Segment,10000,2
+1146,Bridge Over Troubled Waters,-1,Nonprofit Organization,50,1
+1147,South Shore Health System,1922,Nonprofit Organization,5000,2
+1148,Beth Israel Lahey Health,2012,Hospital,10000,2
+1149,Lahey Health,1958,Nonprofit Organization,5000,2
+1150,Partners Healthcare System,1994,Nonprofit Organization,10000,2
+1151,Kennison & Associates,-1,Company - Private,50,12
+1152,IT Trailblazers,-1,Company - Private,200,19
+1153,Federal Reserve Bank of Boston,1914,Nonprofit Organization,5000,10
+1154,NEPC,1986,Company - Private,500,4
+1155,University of Massachusetts Medical School,1962,College / University,10000,23
+1156,Financial Recovery Technologies,2008,Company - Private,200,51
+1157,ProClinical,2005,Company - Private,200,12
+1158,Massachusetts Institute of Technology,1861,College / University,10000,23
+1159,Partners in Health,1987,Nonprofit Organization,10000,1
+1160,State Street Corporation,1792,Company - Public,10000,4
+1161,Aite Group,2005,Company - Private,200,5
+1162,AstraZeneca,1913,Company - Public,10000,29
+1163,Sanofi,1973,Company - Public,10000,29
+1164,Olmstead Associates,1994,Company - Private,50,19
+1165,Department of Elementary and Secondary Education,1780,Government,10000,74
+1166,Abiomed,1981,Company - Public,5000,29
+1167,Exec Office of Technology Services and Security,1780,Government,10000,74
+1168,People's United Bank,1842,Company - Public,5000,4
+1169,"Oncology Analytics, Inc.",2009,Company - Private,200,2
+1170,Boston Medical Center,1996,Nonprofit Organization,5000,2
+1171,Steward Health Care,-1,Hospital,10000,2
+1172,Raytheon Missiles & Defense,2020,Subsidiary or Business Segment,10000,38
+1173,South Shore Health,1979,Company - Private,1000,2
+1174,Department of Environmental Protection,1780,Government,10000,74
+1175,Home Health Foundation,1896,Nonprofit Organization,1000,2
+1176,Laboure College Inc.,-1,College / University,,23
+1177,Sun Life,1865,Company - Public,10000,20
+1178,PTC,1985,Company - Public,10000,11
+1179,Alpha Consulting Corp.,1994,Company - Private,500,12
+1180,Spaulding Rehabilitation Hospital,1996,Nonprofit Organization,5000,2
+1181,Sun Life Financial,-1,Company - Private,500,20
+1182,Chelsea Jewish Lifecare,1919,Nonprofit Organization,1000,1
+1183,Yesway,2014,Company - Public,500,32
+1184,TotalMed Staffing,2005,Company - Private,500,2
+1185,Urban Science,1977,Company - Private,1000,15
+1186,AllianceBernstein,1967,Company - Public,5000,4
+1187,IHS Markit,2016,Company - Public,10000,19
+1188,"BluWave, LP",-1,Company - Private,200,13
+1189,Asurion,1994,Company - Private,10000,15
+1190,iHeartRadio,1972,Company - Public,10000,90
+1191,Tractor Supply,1938,Company - Public,10000,77
+1192,RePublic Schools,2011,School / School District,200,48
+1193,Randstad Technologies,-1,Subsidiary or Business Segment,5000,12
+1194,Tractor Supply Co,1938,Company - Public,10000,77
+1195,Citius Tech,2005,Company - Private,5000,15
+1196,Marcum LLP,1951,Company - Private,5000,18
+1197,eviCore healthcare,1992,Company - Public,10000,2
+1198,Clover Health,2013,Company - Private,1000,2
+1199,SJS,-1,Company - Private,200,14
+1200,Vanderbilt University Medical Center,1874,Nonprofit Organization,10000,2
+1201,Community Health Systems,1985,Company - Public,10000,2
+1202,Plante Moran,1924,Company - Private,5000,18
+1203,General Motors,1908,Company - Public,10000,91
+1204,Lochbridge,1973,Company - Private,5000,15
+1205,FLAGSTAR BANK,1987,Company - Public,5000,10
+1206,Ford Motor Company,1903,Company - Public,10000,91
+1207,Dataspace,1994,Company - Private,50,15
+1208,Michigan Health Plan,1984,Company - Public,10000,20
+1209,Graham Healthcare Group,2016,Company - Private,200,2
+1210,Common Ground,-1,Company - Private,50,14
+1211,Beaumont Health,2014,Hospital,10000,2
+1212,Advantasure,-1,Company - Private,1000,24
+1213,ICONMA,2000,Company - Private,5000,12
+1214,Detroit Public Schools,-1,School / School District,10000,37
+1215,Ally Financial,1919,Company - Public,10000,4
+1216,MICHIGAN CONFERENCE OF TEAMSTERS WELFARE FUND,-1,Nonprofit Organization,200,14
+1217,"Accident Fund Holdings, Inc",1994,Subsidiary or Business Segment,5000,20
+1218,Neapco,1924,Company - Private,5000,50
+1219,Emergent Holdings,-1,Subsidiary or Business Segment,5000,20
+1220,Synergy Computer Solutions,1995,Company - Private,50,15
+1221,Santa Fe Public Schools,-1,School / School District,5000,48
+1222,Ally,-1,Self-employed,50,14
+1223,Beaumont Hospital,1985,Company - Private,5000,14
+1224,Gtech Services,-1,Company - Private,50,14
+1225,State of Oklahoma,1990,Government,10000,74
+1226,Integris Health,1983,Nonprofit Organization,10000,2
+1227,University of Oklahoma,1890,College / University,10000,23
+1228,Centuria Corporation,-1,Company - Private,200,15
+1229,Pyramid Consulting,1996,Company - Private,5000,11
+1230,JMA Solutions,2005,Company - Private,200,16
+1231,Nike,1972,Company - Public,10000,35
+1232,Serverlogic,1992,Company - Private,50,15
+1233,Oregon Child Development Coalition,1971,Nonprofit Organization,500,1
+1234,Edgelink,2003,Company - Private,50,12
+1235,ASML,1984,Company - Public,10000,64
+1236,Biotronik,-1,Company - Public,,14
+1237,Themesoft Inc,2004,Company - Private,200,15
+1238,DaBella,2011,Company - Private,500,53
+1239,AZAD Technology Partners,1992,Company - Private,,15
+1240,ODS Companies,-1,Company - Private,200,34
+1241,Lifeline Connections,-1,Nonprofit Organization,200,2
+1242,Native American Rehabilitation Association (NARA),1970,Nonprofit Organization,200,1
+1243,"BizTek People, Inc.",2010,Company - Private,200,19
+1244,Peopleforce INC,2013,Company - Private,50,12
+1245,Banfield Pet Hospital,1955,Company - Private,10000,2
+1246,PHSA,2001,Nonprofit Organization,10000,2
+1247,Credit One Bank,1984,Company - Private,1000,9
+1248,EOK Technologies Inc,-1,Company - Private,50,15
+1249,St. Jude Children's Research Hospital,1962,Nonprofit Organization,5000,2
+1250,Porter-Leath,1850,Nonprofit Organization,1000,37
+1251,Cooper Pest Solutions,1955,Company - Private,200,7
+1252,University of Tennessee,1794,College / University,10000,23
+1253,Terminix,1986,Subsidiary or Business Segment,10000,7
+1254,Mississippi Baptist Health Systems,-1,Hospital,5000,2
+1255,Baptist Memorial Health Care,1912,Nonprofit Organization,10000,2
+1256,First Horizon,1864,Subsidiary or Business Segment,10000,4
+1257,AmeriCorps,-1,Government,5000,16
+1258,University of Tennessee Health Science Center,-1,College / University,10000,23
+1259,Techlink Systems,1998,Company - Private,500,15
+1260,El Toro,2013,Company - Private,200,3
+1261,Vivid Impact,-1,Company - Public,200,8
+1262,Papa John's,1984,Company - Public,10000,92
+1263,AIG,1919,Company - Public,10000,20
+1264,Knipper,-1,Company - Private,1000,8
+1265,Heartland Payment Systems,1997,Subsidiary or Business Segment,5000,51
+1266,Rawlings Group,1977,Company - Private,5000,73
+1267,Remedi SeniorCare,2002,Company - Private,5000,2
+1268,T. Rowe Price,1937,Company - Public,10000,4
+1269,Emergent BioSolutions,1998,Company - Public,5000,29
+1270,CORMAC,2002,Company - Private,50,11
+1271,TekPartners,2002,Subsidiary or Business Segment,1000,12
+1272,The Amynta Group,-1,Company - Private,200,24
+1273,Mercy Health Services,1874,Hospital,5000,2
+1274,"RELI Group, Inc.",2013,Company - Private,500,16
+1275,The Maxfield Group,-1,Company - Private,50,14
+1276,Zolon Tech Solutions Inc.,1998,Company - Private,500,15
+1277,BITHGROUP,-1,Company - Private,50,15
+1278,Medifast,1980,Company - Public,1000,21
+1279,Powersolv,1995,Company - Private,50,15
+1280,Crossfire Consulting,-1,Company - Private,200,19
+1281,"Vistronix, Inc.",1990,Company - Private,1000,15
+1282,Analytica,2009,Company - Private,200,15
+1283,University of Maryland Medical System,1984,Other Organization,10000,2
+1284,IDS International,2006,Company - Private,200,27
+1285,SURVICE Engineering Company,1981,Company - Private,500,38
+1286,Hepco,1973,Company - Private,500,18
+1287,FREEDOM CONSULTING GROUP,2004,Company - Private,200,15
+1288,Vheda Health,2013,Company - Private,50,2
+1289,Vision,-1,Company - Private,500,8
+1290,Mind Over Machines,1989,Private Practice / Firm,200,15
+1291,AT&T,1983,Company - Public,10000,43
+1292,"Versar, Inc.",1969,Company - Private,500,39
+1293,Outreach Process Partners,-1,Company - Private,50,14
+1294,By Light Professional IT Services,2002,Company - Private,1000,15
+1295,St. Agnes Healthcare,1999,Nonprofit Organization,10000,2
+1296,"Vision Technology Services, LLC",2001,Subsidiary or Business Segment,200,12
+1297,Energetics,-1,Subsidiary or Business Segment,200,19
+1298,By Light Professional IT Services LLC,2002,Company - Private,1000,15
+1299,Flash Technology Group LLC,-1,Contract,50,15
+1300,CenCore LLC,2010,Company - Private,200,16
+1301,Associated Bank,1870,Company - Public,5000,10
+1302,ADVENT,2004,Company - Private,200,2
+1303,Ageatia Technology Consultancy Services,2002,Company - Private,200,12
+1304,Prolim Global,2005,Company - Private,500,24
+1305,MillerCoors,-1,Subsidiary or Business Segment,10000,40
+1306,Heartland Business Systems,1994,Company - Private,1000,39
+1307,Master Lock,1921,Subsidiary or Business Segment,5000,35
+1308,MARS Solutions Group,-1,Company - Private,50,19
+1309,Northwestern Mutual,1857,Company - Private,10000,6
+1310,Molson Coors,1774,Company - Public,10000,40
+1311,Codeworks L.L.C,-1,Company - Private,500,11
+1312,City of Albuquerque,1706,Company - Private,10000,52
+1313,Segue Technologies Inc,1997,Company - Private,200,15
+1314,MHC Healthcare,1957,Nonprofit Organization,500,2
+1315,Horizon Health and Wellness,-1,Nonprofit Organization,1000,14
+1316,VSP,1955,Nonprofit Organization,5000,20
+1317,Caltrans,1970,Government,10000,74
+1318,PTP,2004,Company - Private,200,15
+1319,HHS Technology Group,-1,Company - Private,200,14
+1320,California Department of Health Services,1998,Government,5000,74
+1321,Amerit Consulting,2002,Company - Private,200,74
+1322,MMC Group,1993,Company - Private,1000,19
+1323,VSP Global,1955,Company - Private,5000,2
+1324,Magellan Health,1969,Company - Public,10000,2
+1325,Wollborg Michelson Recruiting,1973,Company - Private,500,12
+1326,California Prison Health Care Services,-1,Company - Public,50,74
+1327,Tri Counties Bank,1975,Company - Public,1000,4
+1328,Dell Technologies,1984,Company - Public,10000,15
+1329,McKenney's Inc.,-1,Company - Private,1000,39
+1330,InComm,1992,Company - Private,5000,51
+1331,Forward Air,1981,Company - Public,5000,75
+1332,United Parcel Service (UPS),-1,Subsidiary or Business Segment,50,93
+1333,UPS,1907,Company - Public,10000,60
+1334,Atlanta Public Schools,-1,School / School District,10000,23
+1335,KARNA,2008,Company - Private,50,15
+1336,Cardlytics,2008,Company - Public,500,8
+1337,TowerPoint,-1,Company - Private,200,54
+1338,"Graphic Packaging International, Inc.",1995,Company - Public,10000,36
+1339,Emory University,1974,College / University,10000,23
+1340,UCB,-1,Company - Public,10000,29
+1341,T-Mobile,2001,Company - Public,10000,43
+1342,RELX Group,1880,Company - Public,10000,24
+1343,CTOON,-1,Subsidiary or Business Segment,500,17
+1344,Q2 Solutions,2015,Company - Private,5000,29
+1345,CharterUP,2017,Company - Private,200,3
+1346,State of Georgia,-1,Government,10000,74
+1347,HD Supply,2007,Company - Public,10000,53
+1348,Gwinnett County,1818,Government,5000,16
+1349,GAP Solutions Inc. (GAPSI),1999,Company - Private,1000,19
+1350,"Maximus, Inc.",1975,Company - Public,10000,12
+1351,Warner Media LLC,2003,Subsidiary or Business Segment,10000,17
+1352,Focus,-1,Company - Private,200,3
+1353,LexisNexis Risk Solutions,2000,Company - Public,5000,19
+1354,USAN,1989,Company - Private,200,11
+1355,McKinsey & Company,1926,Company - Private,10000,19
+1356,Calendly,2013,Company - Private,200,11
+1357,Forward Air Solutions,-1,Company - Private,50,49
+1358,Target MarkeTeam,-1,Company - Private,50,8
+1359,alight,2017,Company - Private,10000,19
+1360,Zep,2001,Company - Public,5000,46
+1361,Intercontinental Exchange,2000,Company - Public,5000,4
+1362,Georgia Tech Research Institute,1943,Subsidiary or Business Segment,5000,5
+1363,Townsend,-1,Company - Private,200,2
+1364,Ole Mexican Foods,1987,Company - Private,1000,40
+1365,Voya Financial,2013,Company - Public,10000,4
+1366,Graphic Packaging,1995,Company - Public,10000,36
+1367,Method360,2000,Company - Private,200,15
+1368,"InfoMart, Inc.",1989,Company - Private,200,7
+1369,"Townsend & Associates, Inc.",1999,Company - Public,200,12
+1370,Logisticare,1994,Company - Public,5000,49
+1371,Axis Capital Holdings,2001,Company - Public,5000,20
+1372,MaxisIT,2004,Company - Private,500,11
+1373,IQVIA,2017,Company - Public,10000,29
+1374,"PRIMUS Global Services Inc.,",2002,Company - Private,1000,19
+1375,Quest Analytics,2003,Company - Private,200,11
+1376,Imperial PFS,1977,Company - Private,1000,4
+1377,Security Benefit,1891,Company - Private,5000,4
+1378,Black & Veatch,1915,Company - Private,10000,39
+1379,Honeywell,1885,Company - Public,10000,11
+1380,Cerner,1979,Company - Public,10000,11
+1381,WellSky,1980,Company - Private,5000,11
+1382,GavinHeath,2015,Company - Private,50,12
+1383,Occam Solutions,-1,Company - Private,50,19
+1384,ASRC Federal,2003,Company - Private,10000,38
+1385,NorthStar Financial Services Group LLC,2003,Company - Private,1000,51
+1386,Kiewit Corporation,1884,Company - Private,10000,53
+1387,First National Bank of Omaha,1857,Company - Private,5000,4
+1388,Orion Advisor Technology,1999,Company - Private,500,19
+1389,Bank of the West,1874,Subsidiary or Business Segment,10000,10
+1390,BNP Paribas,-1,Company - Public,,14
+1391,Aureus Group,1969,Company - Private,1000,12
+1392,Red Hat,1993,Company - Public,10000,11
+1393,Epic Games,1991,Company - Private,5000,25
+1394,Aptar Group,1993,Company - Public,10000,36
+1395,Certara,-1,Company - Private,1000,29
+1396,PennyMac,2008,Company - Public,5000,9
+1397,iTalent Digital,2005,Company - Private,500,19
+1398,Keylent,-1,Unknown,50,14
+1399,Blue Cross and Blue Shield of North Carolina,1933,Company - Private,5000,20
+1400,Beacon Hill Staffing Group,2000,Company - Private,1000,12
+1401,State of North Carolina,-1,Government,10000,74
+1402,Radeas,-1,Company - Private,200,2
+1403,Kairos Technologies,2003,Company - Private,200,15
+1404,"DISYS - Digital Intelligence Systems, LLC",1994,Company - Private,5000,15
+1405,IntraHealth International,1979,Nonprofit Organization,1000,1
+1406,Carillon Assisted Living,1996,Company - Private,1000,2
+1407,Gravity IT Resources,2014,Company - Private,50,15
+1408,"IntellecTechs, Inc.",2008,Company - Private,500,16
+1409,VF Corporation,1889,Company - Public,10000,47
+1410,Volt,-1,Company - Public,,14
+1411,Ascent Services Group,2000,Company - Private,5000,12
+1412,Reperio Human Capital Inc.,2011,Company - Private,50,12
+1413,HireNetworks,2001,Company - Private,50,12
+1414,NetApp,1992,Company - Public,10000,24
+1415,LUXOFT USA INC,2000,Company - Public,10000,15
+1416,Mindteck,1991,Company - Public,5000,15
+1417,Infinity Consulting Solutions,2001,Company - Private,1000,12
+1418,Fidelity Investments,1946,Company - Private,10000,4
+1419,Alcora Corporation,-1,Company - Private,200,14
+1420,Alliance Laundry,1908,Company - Private,5000,89
+1421,UBoxes,-1,Company - Private,50,14
+1422,Southern Glazer's Wine & Spirits,1968,Company - Private,10000,58
+1423,Chewy,2011,Company - Public,10000,69
+1424,Baptist Health South Florida,1960,Nonprofit Organization,10000,2
+1425,Bayview Financial,1974,Company - Private,5000,4
+1426,Bayview Asset Management,1995,Company - Private,5000,4
+1427,Baptist Health,1963,Nonprofit Organization,5000,2
+1428,Lakeview Loan Servicing,-1,Company - Private,50,4
+1429,MobilityWare,1990,Company - Private,200,25
+1430,Edwards Lifesciences,1958,Company - Public,10000,56
+1431,BlueLabs,-1,Company - Private,50,5
+1432,"Quiksilver, Inc.",1969,Company - Private,10000,47
+1433,CalOptima,1993,Government,5000,74
+1434,Boardriders,-1,Company - Private,10000,14
+1435,Evriholder Products,-1,Company - Private,200,35
+1436,JMAC Lending,1998,Company - Private,200,9
+1437,Marquee Staffing,1989,Company - Private,50,12
+1438,"Dave, Inc.",2016,Company - Private,50,10
+1439,Weedmaps,2008,Company - Private,500,3
+1440,Platinum Resource Group,2008,Company - Private,50,12
+1441,UC Irvine Health,1976,Hospital,5000,2
+1442,"Montrose Environmental Group, Inc.",2012,Company - Private,5000,19
+1443,"ReqRoute,Inc",-1,Company - Private,50,12
+1444,Prospect Medical,1996,Hospital,10000,2
+1445,Alta Hospitals System,1996,Hospital,5000,2
+1446,CHOC Children's,1964,Nonprofit Organization,5000,2
+1447,Prospect Medical Holdings,1996,Hospital,10000,2
+1448,Nihon Kohden,1979,Company - Private,500,29
+1449,Prospect Medical Systems,-1,Company - Private,1000,2
+1450,Pacific Life,1868,Company - Private,5000,20
+1451,Dogwood Management Partners,-1,Company - Public,200,14
+1452,Sumitomo Drive Technologies,-1,Subsidiary or Business Segment,5000,64
+1453,"The Squires Group, Inc",1995,Company - Private,200,15
+1454,Eastern Virginia Medical School,1964,College / University,5000,23
+1455,Human Solutions Inc,1997,Company - Private,5000,38
+1456,Epsilon Systems Inc,1998,Company - Private,1000,42
+1457,Diversant LLC,2005,Company - Private,5000,12
+1458,AMI Network,2010,Company - Private,50,12
+1459,Boyd Company,1998,Company - Private,10000,36
+1460,Bright Health,2015,Company - Private,500,2
+1461,Hennepin County,1852,Government,10000,74
+1462,University of Minnesota,1851,College / University,10000,23
+1463,Medica,1991,Nonprofit Organization,5000,20
+1464,Sezzle,2016,Company - Public,200,3
+1465,University of St. Thomas,1885,College / University,5000,23
+1466,Meadows Group,1995,Nonprofit Organization,200,2
+1467,Target,1962,Company - Public,10000,80
+1468,Korn/Ferry International,1969,Company - Public,10000,19
+1469,Infinite Computing Systems,1997,Company - Private,500,24
+1470,Ovative Group,2009,Company - Private,200,8
+1471,Aon,1892,Company - Public,10000,73
+1472,"AMS Staffing, Inc.",-1,Company - Private,50,14
+1473,C.H. Robinson,1905,Company - Public,10000,60
+1474,"Patterson Companies, Inc.",1877,Company - Public,10000,58
+1475,CHS Inc.,1929,Company - Public,10000,94
+1476,State Of Minnesota,1967,Government,10000,74
+1477,VIVA USA,1996,Company - Private,200,15
+1478,Hy-Vee,1930,Company - Private,10000,68
+1479,Bluestone Physician Services,2006,Company - Private,500,2
+1480,TriCom Technical Services,1994,Company - Private,200,12
+1481,Be The Match,1987,Nonprofit Organization,1000,2
+1482,Cognizant Technology Solutions,1994,Company - Public,10000,14
+1483,Tanson Corp,-1,Company - Public,,14
+1484,Net2Source Inc.,2007,Company - Private,5000,12
+1485,JoCo,2006,Company - Private,200,12
+1486,Kruse Staffing,-1,Company - Private,200,14
+1487,Community Health Connection,-1,Nonprofit Organization,50,2
+1488,Quest Integrity,1996,Company - Public,500,62
+1489,PwC,1998,Company - Private,10000,18
+1490,Ability Network,2000,Company - Public,500,11
+1491,AACSB International,1916,Nonprofit Organization,200,59
+1492,H. Lee Moffitt Cancer Center & Research Institute,1984,Hospital,10000,2
+1493,affinitiv,2016,Company - Private,500,8
+1494,ESolutions Inc,1999,Company - Private,500,15
+1495,BayCare Health System,1997,Nonprofit Organization,10000,2
+1496,Maxar Technologies,-1,Company - Public,10000,38
+1497,Morton Plant Hospital,1916,Hospital,5000,2
+1498,Mindlance,1999,Company - Private,5000,12
+1499,Health Services Advisory Group,1979,Company - Private,500,2
+1500,Raymond James Financial,1962,Company - Public,10000,6
+1501,Pozent,-1,Contract,50,14
+1502,"Metis Solutions, LLC",2010,Company - Private,500,38
+1503,Eliassen Group,1989,Company - Private,5000,12
+1504,Intecon,1999,Company - Private,200,38
+1505,Alion Science & Technology,2001,Company - Private,5000,5
+1506,Axelon Services Corporation,-1,Company - Private,1000,12
+1507,Bristol-Myers Squibb,1858,Company - Public,10000,29
+1508,Webstaurantstore,2004,Company - Private,5000,32
+1509,ApTask,2010,Company - Private,500,15
+1510,Far Ridgeline Engagements Inc,-1,Company - Private,200,52
+1511,METIS Solutions,2010,Company - Private,500,38
+1512,Far Ridgeline Engagements,-1,Company - Private,200,52
+1513,St Pete College,1927,Nonprofit Organization,5000,23
+1514,Checkers & Rally's Drive-In Restaurants,1985,Company - Private,5000,92
+1515,On Call Staffing,-1,Company - Private,200,8
+1516,iSeatz,1999,Company - Private,200,24
+1517,Healthcare Finance Direct,2009,Company - Private,200,51
+1518,Kern County Superintendent of Schools,-1,School / School District,5000,37
+1519,Preformed Line Products Company,1947,Company - Public,5000,95
+1520,Medical Mutual of Ohio,1945,Nonprofit Organization,5000,20
+1521,Applied Industrial Technologies,1923,Company - Public,10000,58
+1522,USG Corporation,1901,Company - Private,10000,95
+1523,University Hospitals,1863,Nonprofit Organization,10000,2
+1524,Greater Cleveland Regional Transit Authority,-1,Government,5000,96
+1525,Broadridge Financial Solutions,2007,Company - Public,10000,51
+1526,TCL North America,1981,Company - Public,10000,97
+1527,ReleasePoint,1971,Company - Private,200,5
+1528,The Wonderful Company,1980,Company - Private,10000,35
+1529,Accurate Background LLC,1997,Company - Private,1000,12
+1530,"NTT Data Services, Inc.",-1,Company - Private,500,18
+1531,"CIty and County of Honolulu, Hawaii",1907,Government,10000,52
+1532,Queen's Health Systems,-1,Nonprofit Organization,5000,2
+1533,Child and Family Service,1899,Company - Private,500,21
+1534,"Dynamic Planning & Response, LLC.",-1,Company - Private,50,14
+1535,Lynker Technologies,2007,Company - Private,200,24
+1536,The Buffalo Group,2010,Company - Private,1000,15
+1537,Wahiawa General Hospital,1944,Hospital,1000,2
+1538,Inland Empire Health Plan,1996,Company - Public,5000,2
+1539,Hired By Matrix,1986,Company - Private,500,12
+1540,Loma Linda University Medical Center,1967,Nonprofit Organization,10000,2
+1541,Texas Health and Human Services Commission,1912,Government,10000,74
+1542,Health Plan of San Joaquin,1996,Nonprofit Organization,500,2
+1543,"Animal Health International, Inc.",1989,Company - Private,200,69
+1544,DatamanUSA,-1,Company - Private,200,15
+1545,Solutran,1982,Company - Private,200,51
+1546,AtriCure,2000,Company - Public,1000,56
+1547,UC HEALTH LLC,-1,Nonprofit Organization,10000,2
+1548,The Engine Group,-1,Company - Private,1000,8
+1549,Von Lehman and Co,1946,Company - Private,200,18
+1550,Medpace,1992,Company - Public,5000,29
+1551,Cinfed Credit Union,-1,Company - Public,200,14
+1552,ADM,-1,Company - Public,,14
+1553,Envision LLC,1994,Company - Private,500,12
+1554,"LockerDome, Inc.",2008,Company - Private,200,3
+1555,"Denken Solutions, Inc.",2010,Company - Private,500,15
+1556,Edward Jones - Home Office,1922,Company - Private,10000,4
+1557,MilliporeSigma,2014,Subsidiary or Business Segment,10000,29
+1558,Bayer,1863,Company - Private,10000,29
+1559,Emerson Electric Co,1890,Company - Public,10000,64
+1560,Denken Solutions,2010,Company - Private,500,15
+1561,Time Warner Cable,2003,Subsidiary or Business Segment,10000,17
+1562,Washington University in St. Louis,1853,College / University,10000,23
+1563,Ameren,1904,Company - Public,10000,34
+1564,National Geospatial-Intelligence Agency,1996,Government,10000,38
+1565,EMD Millipore,1668,Subsidiary or Business Segment,10000,29
+1566,Bayer AG,-1,Company - Public,,14
+1567,Merck KGaA,1668,Company - Public,10000,29
+1568,Reliv International,1988,Company - Public,500,29
+1569,UNCOMN LLC,2010,Company - Private,200,19
+1570,VantageLinks,2006,Company - Private,200,15
+1571,"CNET Global Solutions, INC",-1,Company - Private,500,15
+1572,ARCO the Design/Build Experts,1992,Company - Private,5000,53
+1573,Guarantee Electrical,1945,Company - Private,1000,53
+1574,"UNCOMN, LLC",2010,Company - Private,200,19
+1575,neteffects,1995,Company - Private,200,11
+1576,Unisys Federal,1886,Company - Public,10000,15
+1577,Hussmann,1906,Company - Private,10000,36
+1578,Applet Systems,-1,Company - Private,50,11
+1579,LevelUP HCS,2012,Company - Private,200,12
+1580,"Sawdey Solution Services, Inc.",2001,Company - Public,500,38
+1581,Metro Systems Inc,2005,Company - Private,500,12
+1582,Adaptive Solutions Group,2002,Company - Private,200,12
+1583,FHLBank Pittsburgh,1932,Company - Private,500,10
+1584,Oxford Solutions,1998,Company - Private,50,12
+1585,University of Pittsburgh,1787,College / University,10000,23
+1586,Login Consulting Services Inc.,-1,Company - Private,200,19
+1587,Babel Health,2014,Company - Private,50,24
+1588,Highmark Health,-1,Nonprofit Organization,10000,2
+1589,UPMC,1982,Nonprofit Organization,10000,2
+1590,"Pyramid Consulting Group, Inc",-1,Company - Private,50,19
+1591,SSI,1978,Company - Private,50,11
+1592,pddninc.net,-1,Company - Private,200,21
+1593,Novus Group,-1,Company - Private,200,12
+1594,Crown Castle,1994,Company - Public,5000,43
+1595,"Novus Group, LLC",-1,Subsidiary or Business Segment,200,8
+1596,84 Lumber,1956,Company - Private,10000,7
+1597,"Federated Hermes, Inc.",1955,Company - Public,5000,4
+1598,North Carolina A&T State University,-1,College / University,5000,23
+1599,Rockingham County,1976,Government,5000,52
+1600,MedCost LLC,1984,Company - Public,500,73
+1601,Celerion,2010,Company - Private,5000,29
+1602,University of Nebraska–Lincoln,1869,College / University,500,23
+1603,GCI,1979,Company - Public,5000,81
+1604,Peoplefun,-1,Company - Private,50,71
+1605,Evolve Mortgage Services,-1,Contract,200,14
+1606,MoneyGram International,1940,Company - Public,5000,51
+1607,Paylocity,1997,Company - Public,5000,24
+1608,"TekEdge Solution,Inc.",2018,Company - Public,50,12
+1609,City of Altamonte Springs,-1,Government,500,52
+1610,Conexess,-1,Company - Private,200,18
+1611,Unissant,2006,Company - Private,200,15
+1612,McGaw.io,2014,Company - Private,50,19
+1613,AssuredPartners,2011,Company - Private,5000,73
+1614,Club Assist US LLC,1991,Company - Private,500,59
+1615,ADP,1949,Company - Public,10000,19
+1616,City of New York,1625,Government,10000,52
+1617,Joules Limited,1989,Company - Public,50,47
+1618,Riviera Consulting,-1,Company - Private,50,15
+1619,Northbound Search,2010,Company - Private,50,12
+1620,NYU Langone,1841,Hospital,10000,2
+1621,CDS Logistics,-1,Company - Private,200,60
+1622,"Universal Technical Resource Services, Inc.",-1,Government,500,15
+1623,Highbridge Consulting LLC,-1,Company - Private,50,14
+1624,DataFactZ,2002,Company - Private,1000,15
+1625,Knowledgent,2009,Company - Private,50,19
+1626,KVRA Tech Inc,2012,Company - Private,200,19
+1627,Strategic Employment,2006,Company - Private,200,12
+1628,New York City Taxi and Limousine Commission,1971,Government,1000,52
+1629,The Walt Disney Company,1923,Company - Public,10000,13
+1630,Sumitomo Mitsui Banking Corporation,1996,Company - Public,10000,4
+1631,Sabert,1983,Company - Private,5000,36
+1632,Durlston Partners,2010,Company - Private,50,12
+1633,Kiss Products,1989,Company - Private,1000,35
+1634,Redefined Corp,-1,Company - Private,200,19
+1635,"Agile Global Solutions, Inc",2003,Company - Private,200,15
+1636,Global Technology Associates,-1,Contract,500,15
+1637,Software Guidance & Assistance,1981,Company - Private,200,12
+1638,Aspen Insurance,-1,Company - Public,5000,20
+1639,Dentsu Aegis Network,-1,Company - Public,10000,8
+1640,Seqirus,2015,Company - Public,5000,29
+1641,Sunrise Systems Inc,1990,Company - Private,1000,15
+1642,Red Hat Inc.,1993,Company - Public,10000,11
+1643,UNC Chapel Hill,1789,College / University,10000,23
+1644,INC Research,2017,Company - Public,10000,29
+1645,UNC Health Care,-1,Hospital,10000,2
+1646,ProMedica,1986,Nonprofit Organization,10000,2
+1647,Do It Best Corp,-1,Company - Private,5000,77
+1648,Intelligent Waves LLC,2006,Company - Private,500,24
+1649,Blue Cross and Blue Shield of Vermont,1980,Nonprofit Organization,500,20
+1650,Parsons Corporation,1944,Company - Public,10000,15
+1651,Sawdey Solution Services Inc,2001,Company - Public,500,38
+1652,Optum,-1,Company - Public,1000,2
+1653,American Strategic Insurance,1997,Subsidiary or Business Segment,5000,20
+1654,R&K Enterprise Solutions,-1,Contract,500,16
+1655,TRAX International,-1,Company - Private,500,18
+1656,VATC,-1,Company - Public,200,19
+1657,Sentar Inc,1990,Company - Private,500,38
+1658,Vatc,-1,Company - Public,200,19
+1659,The Garrett Group,-1,Company - Private,200,27
+1660,Urner Barry,-1,Company - Private,,30
+1661,Global Data Management,2008,Company - Private,200,15
+1662,EXL,1999,Company - Public,10000,19
+1663,IEEE,1963,Nonprofit Organization,5000,98
+1664,E*TRADE Financial,1982,Company - Public,5000,6
+1665,J&J Family of Companies,1887,Company - Public,10000,29
+1666,Vertigon Consulting,-1,Company - Private,50,19
+1667,Johnson & Johnson Family of Companies,-1,Company - Private,200,14
+1668,"Messer North America, Inc.",-1,Company - Private,10000,62
+1669,Inspira Health Network,1899,Hospital,10000,2
+1670,Messer North America,1898,Company - Private,10000,46
+1671,State of Wisconsin,1848,Government,10000,74
+1672,Cyclomedia Technology Inc,-1,Company - Private,200,14
+1673,"Digitek Software, Inc.",-1,Company - Private,,11
+1674,Landmark Services Cooperative,1933,Other Organization,500,94
+1675,Sundial Software,1996,Company - Private,50,15
+1676,"Xylo Technologies, Inc.",2000,Company - Private,200,15
+1677,KE Staffing,-1,Company - Private,50,14
+1678,Institute for Community Alliances,-1,Nonprofit Organization,200,15
+1679,Intervarsity,1941,Nonprofit Organization,5000,23
+1680,TDS Telecommunications,1969,Subsidiary or Business Segment,5000,81
+1681,Telephone & Data Systems,1969,Company - Public,10000,43
+1682,Alliant Energy,1917,Company - Public,5000,34
+1683,MID Healthcare,-1,Company - Private,,14
+1684,Prime Healthcare,2001,Company - Private,10000,2
+1685,M&T Bank,1856,Company - Public,10000,10
+1686,Western New York Urology Associates,-1,Private Practice / Firm,50,14
+1687,Hanesbrands,2005,Company - Public,10000,35
+1688,Hanes Brands,2005,Company - Public,10000,35
+1689,Wake Forest Baptist Medical Center,1902,Hospital,10000,2
+1690,Enterprise Integration,1998,Company - Private,200,15
+1691,Maestro Technologies,2003,Company - Private,200,15
+1692,Jane Street,2000,Company - Private,1000,4
+1693,Oscar Health,2012,Company - Private,5000,73
+1694,Teza Technologies,2009,Company - Private,200,72
+1695,Conductor,2010,Company - Private,500,3
+1696,7Park Data,2012,Company - Private,200,5
+1697,Veeva Systems,2007,Company - Public,5000,24
+1698,CEF Solutions Inc.,-1,Company - Public,50,14
+1699,OpenSlate,2012,Company - Private,200,30
+1700,PA Consulting,1943,Company - Private,5000,19
+1701,Aetna,1853,Company - Public,10000,20
+1702,Colgate-Palmolive,1806,Company - Public,10000,35
+1703,PepsiCo,1965,Company - Public,10000,40
+1704,Medidata Solutions,1999,Company - Public,5000,24
+1705,DoubleVerify,2008,Company - Private,500,3
+1706,MayStreet,2012,Company - Private,50,72
+1707,Arrow Fastener,1929,Company - Private,500,35
+1708,AVANADE,2000,Company - Private,10000,15
+1709,Point72,2014,Company - Private,5000,4
+1710,Sirius XM,1990,Company - Public,5000,90
+1711,Vimeo,2004,Subsidiary or Business Segment,1000,3
+1712,Balyasny Asset Management,2001,Company - Private,1000,4
+1713,Teachers Pay Teachers,2006,Company - Private,200,3
+1714,Millennium,1989,Company - Private,5000,4
+1715,Elevano,2009,Company - Private,50,12
+1716,Spotify,2006,Company - Public,5000,3
+1717,Affirm,2012,Company - Private,1000,9
+1718,Nasdaq,1971,Company - Public,5000,76
+1719,Addepar,2009,Company - Private,500,24
+1720,"Pandora Media, Inc.",2000,Company - Public,5000,90
+1721,FourSquare,2009,Company - Private,500,3
+1722,Getty Images,1995,Company - Private,5000,99
+1723,PlaceIQ,2010,Company - Private,200,11
+1724,Nokia,1865,Company - Public,10000,43
+1725,Memorial Sloan-Kettering,1884,Nonprofit Organization,10000,2
+1726,Red Balloon Security,2011,Company - Private,50,11
+1727,Jun Group Productions LLC,2005,Company - Private,200,3
+1728,ingenium.agency,2016,Company - Private,50,12
+1729,Ring,2012,Company - Private,5000,11
+1730,Spokeo,2006,Company - Private,200,3
+1731,Internap Network Services,1996,Company - Public,1000,3
+1732,Hyperloop Transportation Technologies,2013,Company - Private,1000,49
+1733,DRINKS,2013,Company - Private,200,61
+1734,Exponent,1967,Company - Public,5000,19
+1735,mGage,2002,Company - Private,500,24
+1736,Signal Sciences,2014,Company - Private,200,24
+1737,Vertical Mass,-1,Unknown,50,14
+1738,Foursquare,2009,Company - Private,500,3
+1739,Greenlots,2008,Company - Private,200,31
+1740,Wpromote,2001,Company - Private,500,8
+1741,China Unicom,2000,Company - Public,10000,43
+1742,Socalgas,1929,Subsidiary or Business Segment,10000,34
+1743,Aviana Global Technologies,1994,Company - Private,50,15
+1744,Dollar Shave Club,2011,Company - Private,500,78
+1745,Nasa Jet Propulsion Laboratory,1936,Nonprofit Organization,10000,16
+1746,Lab126,2004,Subsidiary or Business Segment,5000,11
+1747,DineEquity,2007,Company - Public,1000,79
+1748,LegalZoom,2001,Company - Private,1000,3
+1749,Bambee,2016,Company - Private,200,7
+1750,Unilever,1872,Company - Public,10000,35
+1751,GoGuardian,2014,Company - Private,200,48
+1752,Taboola,2007,Company - Private,5000,8
+1753,Medtronic Inc.,1949,Company - Public,10000,29
+1754,Acorns,-1,Company - Private,500,6
+1755,NeuroLogica,2004,Company - Private,200,56
+1756,American Public Media,-1,Nonprofit Organization,50,90
+1757,Honey,2012,Subsidiary or Business Segment,500,3
+1758,"ENSCO, Inc.",1969,Company - Private,1000,38
+1759,KPMG,1987,Subsidiary or Business Segment,10000,18
+1760,Woz U,2017,Company - Private,200,70
+1761,Riot Games,2006,Company - Private,5000,25
+1762,Larsen & Toubro Infotech Ltd.,1997,Company - Public,10000,15
+1763,WAVSYS,-1,Company - Private,500,12
+1764,Retention Science,2013,Company - Private,200,24
+1765,Bird,2017,Company - Private,1000,11
+1766,"VDart, Inc.",2007,Company - Private,5000,15
+1767,Thales,2000,Company - Public,10000,38
+1768,Boulevard,2016,Company - Private,50,24
+1769,Beyond Limits,2014,Company - Private,200,5
+1770,NEXT Trucking,2015,Company - Private,200,60
+1771,NortonLifeLock,2019,Company - Public,5000,3
+1772,Age of Learning,2007,Company - Private,1000,48
+1773,Solekai Systems Corp,2002,Company - Private,50,11
+1774,ProSearch Strategies,-1,Company - Private,50,18
+1775,Clever Devices,1987,Company - Private,1000,11
+1776,SteelHouse,2009,Company - Private,200,8
+1777,Bobrick Washroom Equipment,1906,Company - Private,1000,50
+1778,Cornerstone OnDemand,1999,Company - Public,5000,24
+1779,Cadre Inc,-1,Company - Private,50,14
+1780,Applied Intuition,-1,Company - Public,50,14
+1781,Relativity,2001,Company - Private,5000,24
+1782,The Climate Corporation,2006,Subsidiary or Business Segment,1000,24
+1783,Sterling Trading Tech,-1,Company - Private,200,24
+1784,Centro,2001,Company - Private,1000,3
+1785,VillageMD,2013,Company - Private,5000,2
+1786,Structured Communication Systems,1992,Company - Private,200,15
+1787,Kin + Carta,2001,Company - Public,5000,19
+1788,Akuna Capital,2011,Company - Private,500,72
+1789,Numerator,2004,Company - Private,5000,15
+1790,Integral Ad Science,2009,Company - Private,1000,3
+1791,IMC Financial Markets,1989,Company - Private,1000,76
+1792,Jump Trading,1999,Company - Private,1000,4
+1793,Group O,1974,Company - Private,5000,12
+1794,All Campus,2012,Company - Private,200,23
+1795,Ocient,-1,Company - Private,50,14
+1796,Kazoo,2013,Company - Private,200,11
+1797,Morningstar,1984,Company - Public,10000,72
+1798,Reverb,2013,Company - Public,200,32
+1799,Strata Decision Technology,1996,Subsidiary or Business Segment,500,11
+1800,Crescent Electric Supply,1919,Company - Private,5000,58
+1801,New Relic,2008,Company - Public,5000,11
+1802,"Netrix, LLC",1989,Company - Private,500,15
+1803,Myticas Consulting,-1,Company - Private,50,15
+1804,Maven Wave Partners,2008,Company - Private,500,19
+1805,Thrivent,1902,Nonprofit Organization,10000,20
+1806,PayPal,1998,Company - Public,10000,3
+1807,Couchbase,2011,Company - Private,500,11
+1808,ServiceNow,2004,Company - Public,10000,24
+1809,Donnelley Financial Solutions,2016,Company - Public,5000,15
+1810,American Family Insurance,1927,Company - Private,10000,20
+1811,Uline,1980,Company - Private,10000,58
+1812,Yello,2008,Company - Private,200,24
+1813,Collective Health,2013,Company - Private,500,24
+1814,Connect Search LLC,2012,Company - Private,200,12
+1815,QuantumBlack,2009,Company - Private,1000,19
+1816,Kershner Trading Group,-1,Company - Private,200,4
+1817,Unravel Data,2013,Company - Private,200,24
+1818,Edgilent Corp.,2015,Subsidiary or Business Segment,50,15
+1819,NorthBay Solutions,2011,Company - Private,500,15
+1820,4C Insights,2011,Company - Private,500,8
+1821,Photon Infotech,1999,Company - Private,5000,15
+1822,Corptax,1974,Company - Private,500,24
+1823,Federal Reserve Bank of Chicago,1914,Government,5000,16
+1824,"Emtec, Inc.",1995,Company - Private,1000,24
+1825,KeyBank National Association,1849,Company - Public,10000,10
+1826,Foot Locker,1974,Company - Public,10000,47
+1827,Guaranteed Rate,2000,Company - Private,10000,9
+1828,"RGM Advisors, LLC",1992,Company - Private,5000,4
+1829,American Access Casualty Company,1999,Company - Private,500,20
+1830,Gambit Technologies,2004,Company - Private,50,12
+1831,K-Tek Resourcing LLC,2006,Company - Private,500,15
+1832,Reyes Beer Division,1976,Company - Private,5000,58
+1833,Pinterest,2010,Company - Public,5000,3
+1834,"Collinwood Technology Partners, LLC",2014,Company - Private,200,15
+1835,Civis Analytics,2013,Company - Private,200,24
+1836,Avtech solutions,-1,Company - Private,50,14
+1837,Martin-Brower,1956,Subsidiary or Business Segment,10000,58
+1838,Avaap,2006,Company - Private,1000,15
+1839,Clearcover,2016,Company - Private,200,20
+1840,PeopleReady,1989,Subsidiary or Business Segment,10000,12
+1841,Grind (TX),2016,Company - Private,50,35
+1842,Trendminer,2006,Company - Public,200,11
+1843,"alliantgroup, LP",2001,Company - Private,1000,19
+1844,Venterra Realty,2001,Company - Private,1000,44
+1845,"Lockwood, Andrews, & Newnam",1935,Company - Private,500,39
+1846,Trio Electric,2003,Company - Private,500,53
+1847,Alliant Group,-1,Company - Private,1000,4
+1848,Houston Methodist,1919,Nonprofit Organization,10000,2
+1849,Halliburton,1919,Company - Public,10000,62
+1850,"Computex, Inc.",1987,Company - Private,200,15
+1851,Air Products,1940,Company - Public,10000,46
+1852,Tachyus,2014,Company - Private,50,62
+1853,Competentia Holding,-1,Company - Private,1000,14
+1854,HashMap*,-1,Company - Private,50,14
+1855,McDermott,1923,Company - Public,10000,31
+1856,Applied Optoelectronics,1997,Company - Public,5000,97
+1857,Reliant Vision Group,-1,Company - Private,200,14
+1858,Aequor Technologies Inc,1998,Company - Private,500,15
+1859,TC Energy,1951,Company - Public,10000,62
+1860,Blue Ocean Ventures,-1,Company - Private,200,12
+1861,CIA,1947,Government,,16
+1862,"Infogium Technologies, LLC",-1,Company - Private,50,14
+1863,Wise Men Consultants,1997,Company - Private,1000,15
+1864,Rice University,1912,College / University,5000,23
+1865,Source One Technical Solutions,2003,Company - Private,500,12
+1866,"Lonza, Inc.",1897,Company - Public,10000,29
+1867,"KnightHawk Engineering, Inc.",-1,Company - Private,50,19
+1868,RightWorks Inc,2008,Company - Private,200,12
+1869,TEAM International,1991,Company - Private,500,15
+1870,Enhance IT,-1,Company - Private,200,14
+1871,C3.ai,2009,Company - Private,500,24
+1872,Delphi-US,-1,Company - Private,50,12
+1873,"VMware, Inc.",1998,Company - Public,10000,11
+1874,The Fountain Group,2001,Company - Private,5000,12
+1875,NERI,1989,Company - Private,50,44
+1876,Scality,2009,Company - Private,500,11
+1877,Sparx Engineering,2005,Company - Private,50,5
+1878,Mashpoint,2012,Company - Private,200,15
+1879,Tavant,2000,Company - Private,5000,24
+1880,LyondellBasell,2007,Company - Public,10000,46
+1881,Discover,1985,Company - Public,10000,51
+1882,Transystems,1966,Company - Private,1000,39
+1883,BCS Data Center Operations,-1,Company - Private,50,14
+1884,SHI International,1989,Company - Private,5000,11
+1885,PREDICTif Solutions,-1,Company - Private,10000,18
+1886,McKinstry,1960,Company - Private,5000,53
+1887,Kimmel & Associates,1981,Company - Private,200,8
+1888,ENGIE,2008,Company - Public,10000,31
+1889,Purity Technology LLC,-1,Company - Private,50,14
+1890,iSphere,2000,Company - Private,200,15
+1891,Bergaila,1987,Company - Private,500,62
+1892,G.A.S. Global,1970,Company - Private,10000,19
+1893,Analysts International,1966,Company - Public,1000,15
+1894,Engineering Research,1993,Company - Private,500,7
+1895,SAIPSIT,-1,Company - Private,50,8
+1896,"GeoControl Systems, Inc.",-1,Company - Private,50,18
+1897,"Aerodyne Industries, Inc.",-1,Contract,200,38
+1898,AIT Resource Group,-1,Company - Private,50,15
+1899,"Jacobs Engineering Group, Inc.",1947,Company - Public,10000,39
+1900,Klanik Consulting,2011,Private Practice / Firm,500,19
+1901,Ascend Performance Materials,2009,Company - Private,5000,46
+1902,exp.,1906,Company - Private,5000,39
+1903,Andiamo,-1,Company - Private,500,79
+1904,Apache Corporation,1954,Company - Public,5000,100
+1905,Wood PLC,-1,Company - Private,,14
+1906,LivaNova,2015,Company - Public,5000,29
+1907,ExterNetworks Inc.,2001,Company - Private,500,15
+1908,Stress Engineering Services,1972,Private Practice / Firm,200,39
+1909,ACS Solutions,1998,Company - Private,10000,15
+1910,"E-Solutions, Inc.",2003,Company - Private,5000,12
+1911,ObjectWin Technology Inc,1997,Company - Private,200,15
+1912,USAA,1922,Company - Private,10000,20
+1913,InEight,1989,Subsidiary or Business Segment,1000,11
+1914,Nikola Motor Company,2014,Company - Public,500,91
+1915,Digital Air Strike,2010,Company - Private,200,11
+1916,Civtech Inc.,2002,Company - Private,50,49
+1917,Discount Tire,1960,Company - Private,10000,45
+1918,Schwab,-1,Company - Public,,14
+1919,Shutterfly,1999,Company - Private,5000,3
+1920,Modis,1994,Subsidiary or Business Segment,10000,12
+1921,Hawaiian Airlines,1929,Company - Public,10000,93
+1922,DOWL,1962,Company - Private,500,39
+1923,Clairvoyant,2012,Company - Private,1000,15
+1924,Nationwide,1925,Company - Private,10000,14
+1925,Metasys Technologies,2000,Company - Private,500,12
+1926,IntraEdge,2002,Company - Private,1000,15
+1927,Very Good Security,2015,Private Practice / Firm,200,11
+1928,Sysmind LLC,1999,Company - Private,200,24
+1929,Juniper Networks,1996,Company - Public,10000,43
+1930,"Allstate Insurance - 1202 Irving, TX",1931,Company - Public,10000,73
+1931,Enexus Global,-1,Company - Private,200,14
+1932,Nextiva,2006,Company - Private,5000,24
+1933,Intel,1968,Company - Public,10000,11
+1934,Silicon Valley Bank,1983,Company - Public,5000,10
+1935,Apex 2000,2000,Company - Private,50,11
+1936,VentureSoft Global,1996,Company - Private,1000,15
+1937,"Airetel Staffing, Inc",2000,Company - Private,50,12
+1938,Sendoso,2016,Company - Private,500,24
+1939,Intel Corporation,1968,Company - Public,10000,11
+1940,Global Force USA,-1,Company - Private,50,18
+1941,Choice Hotels,1939,Company - Public,5000,85
+1942,Humana,1961,Company - Public,10000,20
+1943,Foresight Intelligence,2008,Company - Private,50,11
+1944,Truckstop.com,1995,Company - Private,1000,60
+1945,SunSoft Online,2006,Company - Private,50,19
+1946,Fox Corporation,2019,Company - Public,10000,17
+1947,Tahzoo,2010,Company - Private,200,8
+1948,Red River,1995,Company - Private,1000,15
+1949,Health Union,2009,Company - Private,200,30
+1950,"Efficient IP, Inc.",2004,Company - Private,200,11
+1951,Crane Payment Innovations,2013,Subsidiary or Business Segment,5000,64
+1952,Aegis Project Controls,2006,Company - Private,200,53
+1953,Cozen O Connor,1970,Company - Private,5000,101
+1954,"Daman, Inc.",-1,Company - Private,50,14
+1955,In-Depth Engineering Corporation,-1,Government,200,14
+1956,De Lage Landen,1969,Company - Private,10000,4
+1957,Talend,2006,Company - Public,5000,11
+1958,HYDE ENGINEERING + CONSULTING,1993,Company - Private,500,29
+1959,Federal Reserve Bank of Philadelphia,1914,Company - Private,1000,51
+1960,WalkerHealthcareIT,2007,Company - Private,200,12
+1961,TapRecruit,-1,Unknown,50,14
+1962,TekTree,-1,Company - Private,50,21
+1963,Amerihealth,1997,Subsidiary or Business Segment,10000,20
+1964,"Becker Technical Staffing, Inc.",-1,Company - Private,50,12
+1965,"Queen Consulting Group, Inc.",-1,Unknown,200,14
+1966,GSK,1830,Company - Public,10000,29
+1967,AETEA Information Technology Inc,2004,Company - Private,500,15
+1968,"MetaSense, Inc.",1999,Company - Private,50,15
+1969,FreedomPay,2000,Company - Private,200,24
+1970,Susquehanna International Group,1987,Company - Private,5000,76
+1971,Tata Elxsi,-1,Company - Public,5000,24
+1972,"Digital Intelligence Systems, LLC",1994,Company - Private,5000,15
+1973,Tata Elxsi Limited,-1,Company - Public,5000,24
+1974,Listrak,1999,Company - Private,500,11
+1975,O3 World,2005,Company - Private,200,8
+1976,"VSE, Inc.",-1,Company - Private,50,81
+1977,ISGIT,-1,Company - Private,200,15
+1978,OPEX Corporation,1975,Company - Private,5000,36
+1979,Jconnect Infotech Inc,-1,Company - Private,500,14
+1980,HealthVerity,2014,Company - Private,200,24
+1981,Enverus,1999,Company - Private,5000,31
+1982,"Pyramid Consulting, Inc.",1996,Company - Private,5000,11
+1983,nfolks,-1,Company - Private,50,8
+1984,White Label Communications LLC,2011,Company - Private,50,43
+1985,Capax Global,1998,Subsidiary or Business Segment,200,15
+1986,"1819, LLC",-1,Company - Private,50,14
+1987,AMERICAN SYSTEMS,1975,Company - Private,5000,15
+1988,PPD,1985,Company - Public,10000,29
+1989,IT Pros,2011,Company - Private,50,12
+1990,The Meet Group,-1,Company - Public,200,3
+1991,"Brinjac Engineering, Inc.",1968,Company - Private,200,14
+1992,ORS Partners,2012,Company - Private,200,12
+1993,"Turnberry Solutions, Inc",2001,Company - Private,1000,15
+1994,Wodify,2012,Company - Private,200,11
+1995,"Genuent Global, LLC",2006,Company - Private,500,12
+1996,"ITMC Systems, LLC",-1,Company - Private,50,14
+1997,Tiger Analytics,2011,Company - Private,500,19
+1998,Wambi,2016,Other Organization,50,2
+1999,Ettain Group,1996,Company - Private,5000,12
+2000,AmeriHealth Caritas,1983,Company - Private,10000,20
+2001,EY,1989,Company - Private,10000,18
+2002,JLA,1973,Company - Private,1000,34
+2003,ManTech International Corporation,1968,Company - Public,10000,5
+2004,Southwest Research Institute,1947,Nonprofit Organization,5000,5
+2005,Noblis,1996,Nonprofit Organization,5000,19
+2006,Aviat Networks,2007,Company - Public,1000,43
+2007,OptumCare,-1,Company - Public,1000,2
+2008,Futurex,1981,Company - Private,200,11
+2009,"LJA Engineering, Inc.",1997,Company - Private,5000,39
+2010,B.E.A.T.,2008,Company - Private,200,24
+2011,B E A T LLC,-1,Company - Private,50,43
+2012,Frontier Technology Inc.,1985,Company - Private,500,38
+2013,Ecsion,-1,Company - Private,50,11
+2014,Valero,1980,Company - Public,10000,31
+2015,Marathon Petroleum Corporation,1887,Company - Public,10000,100
+2016,Rackspace,1998,Company - Private,10000,15
+2017,ELEVI Associates,2002,Company - Private,50,12
+2018,Wastequip,1989,Company - Private,5000,36
+2019,Rx Technology,-1,Company - Private,50,14
+2020,Johnson Controls,1885,Company - Public,10000,36
+2021,Department of Defense,-1,Government,10000,16
+2022,HCL Technologies Ltd.,1991,Company - Public,10000,11
+2023,HCL Technologies,1991,Company - Public,10000,11
+2024,Flow Data,1997,Company - Private,50,62
+2025,Security Service Federal Credit Union,1956,Nonprofit Organization,5000,10
+2026,Valero Energy Corporation,1980,Company - Public,10000,31
+2027,"CONSOR Engineers, LLC",-1,Company - Private,1000,49
+2028,Harland Clarke,1874,Subsidiary or Business Segment,5000,8
+2029,U.S. Air Force,1947,Government,10000,16
+2030,SST Truck Company,1902,Company - Public,10000,91
+2031,Wits Solutions,-1,Company - Public,500,12
+2032,Mei Inc,1992,Company - Private,500,38
+2033,Dizzion,2011,Company - Private,50,15
+2034,Accenture,1989,Company - Public,10000,19
+2035,Scaleworks,2016,Company - Private,50,11
+2036,"Tetra Tech, Inc.",1966,Company - Public,10000,39
+2037,CDW,1984,Company - Public,10000,15
+2038,ManTech,1968,Company - Public,10000,5
+2039,Elbit Systems of America,-1,Subsidiary or Business Segment,5000,38
+2040,Constellation Brands,1945,Company - Public,10000,40
+2041,CloudWave,-1,Company - Private,200,15
+2042,CNF Technologies,-1,Company - Private,50,14
+2043,iHeartMedia,1972,Company - Public,10000,90
+2044,Applied Research Solutions,2012,Contract,500,38
+2045,Deeproot,-1,Company - Private,,11
+2046,Novetta,2012,Company - Private,1000,24
+2047,Prudent Technology,-1,Company - Private,50,24
+2048,Bitdefender,2001,Company - Private,5000,11
+2049,NetImpact Strategies,2009,Company - Private,500,19
+2050,University of Texas at San Antonio,1969,College / University,5000,23
+2051,WellAware,-1,Company - Private,200,14
+2052,TuSimple,2015,Company - Private,500,11
+2053,Alion,2001,Company - Private,5000,5
+2054,IDEA Public Schools,2000,School / School District,5000,48
+2055,"Pyramid Consulting, Inc",1996,Company - Private,5000,11
+2056,Webber,-1,Company - Private,5000,53
+2057,International Trucks,1987,Subsidiary or Business Segment,5000,91
+2058,Liquid Web,1997,Company - Private,1000,24
+2059,Southwest Research Institute Inc.,1947,Nonprofit Organization,5000,5
+2060,Garver,1919,Private Practice / Firm,1000,39
+2061,JLL,-1,Company - Public,10000,44
+2062,AECOM,1990,Company - Public,10000,39
+2063,"BB&E, Inc.",-1,Company - Public,10000,10
+2064,General Dynamics Mission Systems,1952,Subsidiary or Business Segment,10000,38
+2065,Maania Consultancy Services,-1,Company - Private,50,14
+2066,North American Development Bank,-1,Company - Public,200,16
+2067,Terracon,1965,Company - Private,5000,39
+2068,pSemi,1990,Company - Private,1000,64
+2069,Shield AI,2015,Company - Private,200,11
+2070,Qualcomm Incorporated,1985,Company - Public,10000,11
+2071,Kareo Inc,2004,Company - Private,1000,11
+2072,"TrellisWare Technologies, Inc",2000,Company - Private,200,43
+2073,Quartus Engineering,1997,Company - Private,200,39
+2074,Poseida Therapeutics,2015,Company - Private,200,29
+2075,Commercial Energy,1997,Company - Private,50,34
+2076,"CliniComp, Intl.",1983,Company - Private,200,11
+2077,Tealium,2008,Company - Private,500,11
+2078,"Kitu Systems, Inc.",2009,Company - Private,50,24
+2079,Progenity,2011,Company - Private,1000,29
+2080,Wondersign,2007,Company - Private,50,8
+2081,Verimatrix,2000,Company - Private,500,11
+2082,General Atomics,1955,Company - Private,10000,38
+2083,Axos Bank,2000,Company - Public,5000,10
+2084,ResMed,1989,Company - Public,10000,29
+2085,IDC Technologies,2003,Company - Private,5000,15
+2086,Daybreak Games,2015,Company - Private,500,25
+2087,VLink Inc.,2006,Company - Private,500,15
+2088,PRA Health Sciences,1976,Company - Public,10000,29
+2089,MITRE,1958,Nonprofit Organization,10000,16
+2090,Dexcom,1999,Company - Public,5000,29
+2091,Jack Henry,1976,Company - Public,10000,10
+2092,Housecall Pro,2013,Company - Private,200,11
+2093,"Verticalmove, Inc.",-1,Company - Private,50,8
+2094,Epsilon,1969,Subsidiary or Business Segment,10000,8
+2095,Sorrento Therapeutics,-1,Unknown,200,14
+2096,"TEKsystems, Inc",1983,Subsidiary or Business Segment,5000,12
+2097,Truvian Sciences,2015,Company - Private,50,29
+2098,Whova,-1,Company - Private,50,14
+2099,Doctible,2013,Company - Private,200,2
+2100,Sendlane,-1,Company - Private,50,11
+2101,L3Harris,2019,Company - Public,10000,38
+2102,Scientific Research Corporation,1988,Company - Private,5000,15
+2103,"Murata Electronics North America, Inc.",1973,Subsidiary or Business Segment,5000,64
+2104,Cubic,1951,Company - Public,10000,38
+2105,Dynam.AI,1952,Company - Public,10000,38
+2106,Mount Indie,-1,Unknown,50,14
+2107,ICW Group,1972,Company - Private,1000,20
+2108,Ansaldo STS,-1,Company - Public,5000,91
+2109,Teradata Corporation,1979,Company - Public,10000,11
+2110,Classy,2006,Company - Private,200,11
+2111,ClickUp,2017,Company - Private,200,15
+2112,Titanium Cobra Solutions,2010,Company - Public,50,38
+2113,Holonis,2010,Company - Private,200,3
+2114,SVK Technology Solutions,-1,Company - Public,,14
+2115,Federal Reserve Bank of Dallas,1914,Company - Public,5000,10
+2116,Avantax Wealth Management,1983,Company - Public,1000,6
+2117,Axxess,2007,Company - Private,500,15
+2118,Daugherty Business Solutions,1985,Company - Private,5000,15
+2119,Collinwood Technology Partners,2014,Company - Private,200,15
+2120,cxLoyalty,1981,Company - Private,5000,8
+2121,JC Penney,1902,Company - Public,10000,47
+2122,CyrusOne,2000,Company - Public,500,44
+2123,PLUMMER,1978,Company - Private,200,39
+2124,Omnitracs,1988,Company - Private,5000,11
+2125,Spireon,2002,Company - Private,500,11
+2126,VARIDESK,2013,Company - Private,500,32
+2127,Capital One,1994,Company - Public,10000,10
+2128,BICP,2009,Company - Private,50,15
+2129,Allstate,1931,Company - Public,10000,73
+2130,IMEG Corp,2015,Company - Private,5000,19
+2131,Catapult Systems,1993,Company - Private,500,15
+2132,Tachyon Technologies,2011,Company - Private,500,15
+2133,Boston Consulting Group,1963,Company - Private,10000,19
+2134,Dealersocket,2001,Company - Private,5000,11
+2135,"TierPoint, LLC",2010,Company - Private,1000,15
+2136,Whitley Penn,1983,Private Practice / Firm,1000,18
+2137,Foresite Group,2003,Company - Private,200,39
+2138,"cyberThink, Inc.",1996,Company - Private,500,15
+2139,Imperva,2002,Company - Private,5000,11
+2140,Company Page,-1,Company - Public,50,30
+2141,OTSI,-1,Company - Private,50,14
+2142,Thryv,-1,Company - Private,5000,8
+2143,Caris Life Sciences,-1,Company - Private,500,5
+2144,Digital Dhara,-1,Company - Private,50,14
+2145,Tekstrom Inc,1999,Company - Private,50,15
+2146,YOH,1940,Company - Private,5000,12
+2147,"Onica, a Rackspace Company",2017,Company - Private,500,15
+2148,"US Tech Solutions, Inc.",2000,Company - Private,5000,12
+2149,"ZeniMax Media, Inc.",1999,Company - Private,500,25
+2150,Lob,2013,Company - Private,50,11
+2151,"Object Technology Solutions, Inc.",1999,Company - Private,200,15
+2152,InfoWay Solutions LLC,-1,Company - Public,50,3
+2153,"DIVERSANT, LLC",2005,Company - Private,5000,12
+2154,FleishmanHillard,1946,Subsidiary or Business Segment,5000,8
+2155,YASMESOFT INC,-1,Company - Private,50,15
+2156,Eitacies,-1,Company - Private,50,11
+2157,Lucid Technologies,-1,Company - Private,50,11
+2158,TMS LLC,2011,Company - Private,200,2
+2159,Intelliswift Software Inc,1998,Company - Private,500,12
+2160,Jones Lange Lasalle Inc.,-1,Company - Public,10000,44
+2161,HMS Holdings,1974,Company - Public,5000,2
+2162,Samsung Research America,1988,Subsidiary or Business Segment,5000,11
+2163,Y Media Labs,2009,Company - Private,500,11
+2164,Clumio,2017,Company - Private,200,24
+2165,Leia,2014,Company - Private,200,11
+2166,NextNav,2007,Company - Private,200,24
+2167,Alameda County Water District,1914,Government,500,34
+2168,Baidu USA,2000,Company - Public,200,3
+2169,Astreya,2001,Company - Private,5000,15
+2170,Edelman Financial Engines,1986,Company - Private,5000,4
+2171,Tredence,2013,Company - Private,1000,19
+2172,Equinix,1998,Company - Public,10000,24
+2173,Comet Group,1948,Company - Public,5000,64
+2174,Absolute,1993,Company - Public,500,11
+2175,Netskope,2012,Company - Private,1000,24
+2176,Cisco Systems - Engineering - Software,1984,Company - Private,10000,11
+2177,ooma,2004,Company - Public,500,97
+2178,Tesla Motors,2003,Company - Public,10000,91
+2179,Pluto7,2015,Company - Private,200,24
+2180,Affinity Solutions,1998,Company - Private,200,8
+2181,Xilinx,1984,Company - Public,10000,11
+2182,F5 Networks,1996,Company - Public,10000,11
+2183,Western Digital,1970,Company - Public,10000,11
+2184,Houzz,2009,Company - Private,5000,3
+2185,"CLARA analytics, Inc.",2016,Company - Private,50,11
+2186,Khan Academy,2007,Nonprofit Organization,200,48
+2187,Caffeine,2016,Company - Private,200,3
+2188,Cohesity,2013,Company - Private,5000,11
+2189,realtor.com,1993,Company - Private,5000,3
+2190,Atlassian,2002,Company - Public,5000,11
+2191,Akamai,1998,Company - Public,10000,15
+2192,Strivr,2015,Company - Private,200,11
+2193,Rockwell Automation,1903,Company - Public,10000,36
+2194,DeepMap,2016,Company - Private,200,11
+2195,DataStax,2010,Company - Private,1000,11
+2196,Nevro,2006,Company - Public,1000,29
+2197,Yochana IT Solutions,2009,Company - Private,500,12
+2198,Taos,1989,Company - Private,1000,15
+2199,Mercari,2013,Company - Private,5000,3
+2200,SciPlay,1998,Company - Public,500,25
+2201,Sysco Labs,2011,Company - Private,500,11
+2202,Blackbaud,1981,Company - Public,5000,11
+2203,Flex,1969,Company - Public,10000,64
+2204,Abrigo,2001,Company - Private,500,24
+2205,AffiniPay,2005,Company - Private,200,51
+2206,Iodine Software,2010,Company - Private,50,2
+2207,Zynga,2007,Company - Public,5000,25
+2208,Applied Information Sciences,1982,Company - Private,1000,15
+2209,Cognite,2016,Company - Private,500,24
+2210,Scientific Games,1984,Company - Public,10000,11
+2211,"Q2 Software, Inc",2004,Company - Public,5000,4
+2212,Ercot,1986,Nonprofit Organization,1000,34
+2213,Mastercard,1966,Company - Public,10000,51
+2214,Silicon Labs,1996,Company - Public,5000,64
+2215,Spectrum,2016,Subsidiary or Business Segment,10000,81
+2216,The Home Depot,1978,Company - Public,10000,14
+2217,Dimensional Fund Advisors,1981,Company - Private,5000,4
+2218,IPT Associates,1992,Company - Private,200,19
+2219,Arm,1990,Subsidiary or Business Segment,10000,11
+2220,SailPoint Technologies,2005,Company - Public,5000,24
+2221,Applied Materials,1967,Company - Public,10000,64
+2222,Cirrus Logic,1984,Company - Public,5000,64
+2223,"Amiti Consulting, Inc",-1,Company - Private,50,19
+2224,Cision,1892,Company - Private,5000,11
+2225,RunTitle,2012,Company - Private,50,100
+2226,SpyCloud,2016,Unknown,50,14
+2227,The Zebra,2012,Company - Private,200,73
+2228,Bazaarvoice,2005,Company - Private,1000,24
+2229,"Treehouse Technology Group, LLC",2013,Company - Private,50,15
+2230,Tech Mahindra (Americas) Inc.,1986,Company - Public,10000,15
+2231,Axiom Group,1987,Company - Private,200,91
+2232,Quora,2009,Company - Private,500,3
+2233,Compass,2012,Company - Private,5000,24
+2234,Ethos Life,2016,Company - Private,200,3
+2235,"Aunt Bertha, a Public Benefit Corp.",2010,Company - Private,200,3
+2236,BigCommerce,2009,Company - Private,1000,24
+2237,"NextXap, Inc.",2003,Company - Private,1000,11
+2238,Ethos,-1,Company - Private,50,8
+2239,"LeanDNA, Inc.",-1,Company - Private,50,14
+2240,LPL Financial,1968,Company - Public,5000,4
+2241,Dun & Bradstreet,1841,Company - Public,5000,15
+2242,Medallia,2001,Company - Public,5000,24
+2243,Applied Research Laboratories,-1,College / University,1000,23
+2244,Procore Technologies,2002,Company - Private,5000,11
+2245,Ademco Inc.,-1,Company - Private,1000,58
+2246,Integral,-1,Company - Private,500,53
+2247,Forcepoint,2016,Company - Private,5000,24
+2248,Hellas Construction,2003,Company - Private,1000,53
+2249,BrainTree Consulting Inc,2004,Other Organization,50,19
+2250,"EtiVenture, Inc.",2008,Company - Private,50,19
+2251,Visa Inc.,1958,Company - Public,10000,15
+2252,Valkyrie Intelligence,2017,Company - Private,50,11
+2253,ZT Systems,1994,Company - Private,5000,11
+2254,Accolite Inc,2007,Company - Private,1000,15
+2255,Blue Horizon Tek Solutions,1987,Company - Private,50,12
+2256,"Software Resources, Inc.",1992,Company - Private,200,19
+2257,"RF-SMART, a division of ICS",1982,Company - Private,500,11
+2258,Lutech Resources,1992,Company - Private,500,12
+2259,American Recruiting and Consulting Group,1982,Company - Private,200,12
+2260,Blue Cross Blue Shield of Florida,1944,Nonprofit Organization,10000,20
+2261,Availity,2001,Company - Private,1000,2
+2262,Jinko Solar US,2006,Company - Public,10000,36
+2263,"Net Health Systems, Inc.",1993,Company - Private,1000,24
+2264,CE Broker,2003,Company - Private,200,24
+2265,Florida East Coast Railway,1961,Subsidiary or Business Segment,1000,102
+2266,Department Of Labor,-1,Government,500,74
+2267,VT Group,1966,Company - Private,5000,38
+2268,International Flavors and Fragrances,1889,Company - Public,10000,46
+2269,"Stratus Technology Services, LLC",-1,Company - Private,200,15
+2270,Tata Consultancy Services,1968,Company - Public,10000,11
+2271,ITEL Laboratories Inc.,-1,Company - Public,200,14
+2272,On-Board Companies,1976,Company - Private,5000,19
+2273,TEKsystems,1983,Subsidiary or Business Segment,5000,12
+2274,Iron Systems,1987,Company - Private,500,15
+2275,CIT Group,1908,Company - Public,5000,10
+2276,"iVenture Solutions, Inc.",2000,Company - Private,200,15
+2277,"Iron Systems, Inc",1987,Company - Private,500,15
+2278,"LogistiCare, Inc.",1994,Company - Public,5000,49
+2279,Collaborative Systems INC,-1,Company - Private,50,11
+2280,Vmware,1998,Company - Public,10000,11
+2281,VNE LLC,-1,Company - Private,200,14
+2282,Project Farma,2013,Company - Private,200,29
+2283,"Synergy Technologies, LLC",-1,Company - Private,200,14
+2284,Synergy Technologies,-1,Company - Private,200,14
+2285,ProAutomated Inc.,2007,Company - Private,200,53
+2286,Maantic,-1,Company - Private,200,14
+2287,HCL Global,-1,Company - Private,10000,19
+2288,Acosta Sales & Marketing,1927,Company - Private,10000,8
+2289,CloudHesive,2014,Company - Private,50,15
+2290,Citizens Property Insurance Corporation,2002,Government,5000,20
+2291,The Perillo Group,-1,Company - Private,200,41
+2292,Deloitte,1850,Company - Private,10000,18
+2293,Editech Staffing,-1,Company - Private,50,19
+2294,BFX Fire Apparatus,-1,Company - Private,50,91
+2295,POWER Engineers,1976,Company - Private,5000,34
+2296,Freese and Nichols,1894,Company - Private,1000,39
+2297,"Quadrant, Inc.",2002,Company - Private,1000,12
+2298,United Software Group,2002,Company - Private,500,15
+2299,NEC,-1,Company - Private,50,15
+2300,Connections IT Services,2012,Company - Private,200,15
+2301,American Airlines,1926,Company - Public,10000,93
+2302,Cynet Systems,2010,Company - Private,1000,15
+2303,NCR Corporation,1884,Company - Public,10000,11
+2304,Physician Partners of America,2013,Company - Private,500,2
+2305,CGI,1976,Company - Public,10000,19
+2306,Cushman & Wakefield,1917,Company - Public,10000,44
+2307,Ryder System,1933,Company - Public,10000,49
+2308,Vizient,1977,Company - Private,5000,2
+2309,Bell Helicopter,1935,Subsidiary or Business Segment,10000,38
+2310,Burns & McDonnell,1898,Company - Private,10000,39
+2311,"APN Software Services, Inc",-1,Company - Private,200,11
+2312,Textron,1923,Company - Public,10000,38
+2313,Donatech Corporation,1987,Company - Private,500,12
+2314,CoreLogic,2010,Company - Public,10000,15
+2315,Howell Instruments,1951,Company - Private,200,36
+2316,Maveric NXT Inc,2000,Company - Private,5000,11
+2317,Freese & Nichols Inc,1894,Company - Private,1000,39
+2318,NCR,1884,Company - Public,10000,11
+2319,Aimbridge Hospitality,2003,Company - Private,10000,85
+2320,LaunchTWS,2011,Company - Private,1000,12
+2321,"EITAcies, Inc.",-1,Company - Private,50,11
+2322,I.T. Software Solutions,-1,Company - Private,50,11
+2323,Syncroness,1998,Company - Private,200,39
+2324,"Health Management Systems, Inc.",1983,Company - Private,500,19
+2325,Butler Technical Group,-1,College / University,1000,14
+2326,"Adroit Software, Inc.",-1,Company - Private,50,19
+2327,Wipro Ltd.,1945,Company - Public,10000,15
+2328,Koddi,2013,Company - Private,200,3
+2329,PMG Global,-1,Company - Private,50,11
+2330,Albin Engineering Services,1993,Company - Private,200,12
+2331,Cincinnati Bell Technology Solutions,-1,Company - Private,1000,15
+2332,Seated,2017,Company - Private,50,3
+2333,Fujitsu,1935,Company - Public,10000,14
+2334,Tapad,2010,Company - Private,200,3
+2335,Mark43,2012,Company - Private,200,24
+2336,B12,2015,Company - Private,50,3
+2337,GNY Insurance Companies,1914,Company - Private,500,20
+2338,D. E. Shaw & Co.,1988,Company - Private,5000,4
+2339,FanDuel,2009,Company - Private,1000,103
+2340,Freestar,2016,Company - Private,50,8
+2341,PulsePoint,2011,Company - Private,200,3
+2342,Albert (CA),2015,Company - Private,200,72
+2343,SADA,2000,Company - Private,200,15
+2344,CrowdRise,2010,Company - Private,500,3
+2345,The Honest Company,2012,Company - Private,500,3
+2346,Idealab,2006,Company - Private,1000,4
+2347,NBC Universal,1906,Company - Public,10000,17
+2348,Tapcart,2017,Company - Private,50,24
+2349,ZEFR,-1,Company - Private,500,13
+2350,J. Paul Getty Trust,1954,Nonprofit Organization,5000,98
+2351,TEEMA,2008,Company - Private,500,12
+2352,Direct Agents,2003,Company - Private,200,8
+2353,ViacomCBS,2019,Company - Public,10000,13
+2354,mPulse Mobile,2014,Company - Private,200,2
+2355,Analog Devices,1965,Company - Public,10000,64
+2356,Agilisium LLC,2012,Company - Private,500,15
+2357,Ledgent Technology,-1,Company - Public,1000,14
+2358,Sense360,2014,Unknown,50,24
+2359,BlackLine,2001,Company - Public,1000,11
+2360,Aspiration,2013,Company - Private,500,6
+2361,TrueCar,2005,Company - Public,1000,3
+2362,Gilead Sciences,1987,Company - Public,10000,29
+2363,FabFitFun,2010,Company - Private,500,21
+2364,Techstyle Group LLC,-1,Company - Private,200,36
+2365,Sagence,2009,Company - Private,50,19
+2366,Grubhub,2004,Company - Public,5000,3
+2367,Apervita,2013,Company - Private,200,24
+2368,Strike Social,2013,Company - Private,200,8
+2369,Involgix,-1,Company - Private,200,15
+2370,Kalderos,2016,Company - Private,50,24
+2371,Zai Global,-1,Self-employed,50,14
+2372,Brad's Deals,2001,Company - Private,200,3
+2373,Riskonnect,2007,Company - Private,500,24
+2374,"Level Ex, Inc.",2015,Company - Private,200,25
+2375,"Relevante, Inc",2002,Company - Private,200,19
+2376,Concurrency,1989,Company - Private,200,15
+2377,Sinai Health System,1918,Nonprofit Organization,5000,2
+2378,Kani Solutions,2009,Company - Private,500,12
+2379,RAPP,1965,Subsidiary or Business Segment,1000,8
+2380,Trident Consulting,-1,Company - Public,200,14
+2381,"Insight Enterprises, Inc.",1988,Company - Public,10000,24
+2382,GoHealth,2001,Company - Private,1000,2
+2383,"ServiceNow, Inc.",2004,Company - Public,10000,24
+2384,"ePromptus,Inc",2005,Company - Private,50,15
+2385,Infoway Software,-1,Company - Private,200,11
+2386,Informatic Technologies Inc,-1,Company - Private,50,14
+2387,CultureFit Technology Staffing,1997,Company - Private,50,8
+2388,SIMPLIFIED IT SOLUTIONS Inc,-1,Company - Private,50,15
+2389,Alphascript Pharmacy,2012,Company - Private,50,29
+2390,Trace3,2002,Company - Private,1000,15
+2391,Slalom,2001,Company - Private,10000,19
+2392,"TelligenTech, Inc",-1,Company - Private,200,14
+2393,Irvine Technology Corporation,2000,Company - Private,500,12
+2394,LyondellBasell Industries,2007,Company - Public,10000,46
+2395,"Alpha Net Consulting, LLC",2001,Company - Private,500,15
+2396,Itbrainiac,-1,Other Organization,50,15
+2397,Tokio Marine HCC,1974,Company - Private,5000,20
+2398,Sprouts Farmers Market,2002,Company - Public,10000,61
+2399,Digital dhara,-1,Company - Private,50,14
+2400,Blue Rose Technologies LLC,2010,Company - Private,500,15
+2401,Headfarmer,-1,Company - Public,50,14
+2402,Zoom Video Communications,2011,Company - Public,5000,15
+2403,Swift Refrigerated,1966,Company - Public,10000,75
+2404,VincentBenjamin,-1,Company - Private,200,12
+2405,DEREX TECHNOLOGIES INC.,1996,Company - Private,200,24
+2406,thredUP,2009,Company - Private,5000,47
+2407,Cable One,1986,Company - Public,5000,81
+2408,Axon,1991,Company - Public,5000,11
+2409,Hewlett Packard Enterprise,2015,Company - Public,10000,24
+2410,Impetus,-1,Company - Public,,14
+2411,StrongMind,2000,Company - Private,200,48
+2412,Impetus Technologies,1991,Company - Private,5000,11
+2413,"Clarivoyant, LLC",-1,Company - Private,50,14
+2414,Kollasoft Inc.,-1,Company - Private,50,15
+2415,U-Haul,1945,Company - Public,10000,66
+2416,"Cable One, Inc.",1986,Company - Public,5000,81
+2417,Blue Rose Technologies,2010,Company - Private,500,15
+2418,Buchanan & Edwards,1998,Company - Private,500,15
+2419,Auritas LLC,2003,Company - Private,500,15
+2420,TekShapers,-1,Company - Public,50,15
+2421,Deloitte & Touche L.L.P.,1850,Company - Private,10000,18
+2422,Integrated Resources,1996,Company - Private,500,12
+2423,Voca,2005,Company - Private,500,12
+2424,"Partners Consulting, Inc.",-1,Company - Private,,14
+2425,Staffing the Universe,1995,Company - Private,5000,12
+2426,Slyce,2012,Subsidiary or Business Segment,50,24
+2427,Philadelphia District Attorney's Office,-1,Government,1000,52
+2428,Turnberry Solutions,2001,Company - Private,1000,15
+2429,STEVENS CAPITAL MANAGEMENT LP,2002,Company - Private,200,72
+2430,Black Knight Inc,2013,Company - Public,10000,15
+2431,RennerBrown,-1,Other Organization,,15
+2432,IntePros,1997,Company - Private,500,19
+2433,US Tech Solutions Inc.,2000,Company - Private,5000,12
+2434,Globex Digital Solutions,-1,Company - Private,50,14
+2435,"York Solutions, LLC",1989,Company - Private,200,12
+2436,Speridian Technologies LLC,2003,Company - Private,1000,15
+2437,Victory Capital Management Inc.,2013,Company - Public,500,4
+2438,Mercato,2015,Company - Private,50,14
+2439,Kaygen Inc,-1,Company - Private,50,19
+2440,Itility,2006,Company - Private,200,15
+2441,StepStone,1996,Company - Private,5000,59
+2442,SmartDrive Systems,2004,Company - Private,500,11
+2443,Logic Planet,-1,Company - Private,500,15
+2444,"HFE, Inc",-1,Company - Private,50,14
+2445,Curemetrix,-1,Company - Private,50,14
+2446,Inseego,1996,Company - Public,1000,43
+2447,American Specialty Health Incorporated,1987,Company - Private,5000,2
+2448,Vinli,2014,Company - Private,50,11
+2449,Athreya Inc,2002,Company - Private,50,15
+2450,Onica Group,2017,Company - Private,500,15
+2451,"DataSys Consulting and Software, Inc",-1,Company - Private,50,19
+2452,IQuest Solutions Corp,-1,Company - Private,50,15
+2453,Vaco Financial,2002,Company - Private,1000,19
+2454,Alt Shift USA,-1,Company - Private,50,14
+2455,Anblicks,-1,Company - Private,200,15
+2456,Jnit Technologies,-1,Company - Private,50,15
+2457,loanDepot,2010,Company - Private,10000,9
+2458,Ksquare Solutions INC.,2007,Company - Private,200,15
+2459,nFolks Ltd,-1,Company - Private,50,8
+2460,Mr. Cooper,1994,Company - Public,10000,9
+2461,"HumCap, Inc.",2001,Company - Private,50,19
+2462,Tata Consultancy Services (North America),1968,Subsidiary or Business Segment,10000,15
+2463,Camden Kelly Corporation,2013,Company - Private,50,15
+2464,Interstate Battery System of America Inc,1950,Company - Private,5000,47
+2465,InfoVision,1995,Company - Private,5000,15
+2466,Horizontal Talent,2003,Company - Private,1000,12
+2467,Fairway Independent Mortgage,1996,Company - Private,10000,9
+2468,First Tech Federal Credit Union,1952,Company - Private,5000,10
+2469,Plume,2015,Company - Private,200,3
+2470,Luminar Technologies,2012,Company - Private,500,11
+2471,Slalom LLC.,2001,Company - Private,10000,19
+2472,SpringML,2015,Company - Private,50,24
+2473,Entefy,2012,Company - Private,50,3
+2474,Lucid Motors,2007,Company - Private,5000,91
+2475,AppLovin,2012,Company - Private,500,25
+2476,Cadence,2014,Company - Private,50,5
+2477,Telaria,2017,Company - Public,200,8
+2478,HCL America Inc.,1991,Company - Public,10000,11
+2479,"Amick Brown, LLC",-1,Company - Public,50,14
+2480,Indrasol,-1,Subsidiary or Business Segment,50,14
+2481,Jade Global,2003,Company - Private,1000,15
+2482,Nextgen Technologies,2006,Company - Private,200,15
+2483,Sonus Software Solutions Inc.,-1,Company - Private,,14
+2484,Clinicient,2004,Company - Private,200,11
+2485,"Pilytix, LLC",-1,Company - Private,50,14
+2486,Atos Syntel Inc.,1980,Subsidiary or Business Segment,10000,15
+2487,"Phunware, Inc",2009,Company - Public,200,11
+2488,Staffing Technologies,1994,Company - Private,500,12
+2489,Uplink Talent Solutions,-1,Company - Private,50,12
+2490,WorldQuant,2007,Company - Private,1000,4
+2491,OBXtek,2009,Company - Private,1000,15
+2492,Saicon Consultants Inc.,1998,Company - Private,500,11
+2493,NRCCUA,1972,Company - Private,200,70
+2494,Unizin,2014,Nonprofit Organization,50,23
+2495,Dutech Systems Inc,2015,Company - Private,200,15
+2496,Infoblox Inc.,1999,Company - Private,5000,24
+2497,Pro-Sphere Tek,2006,Company - Private,500,24
+2498,"Resideo Technologies, Inc.",2018,Company - Public,10000,11
+2499,Ethoca,-1,Company - Private,200,51
+2500,Praetorian,2010,Company - Private,200,24
+2501,Energy Authority,-1,Government,500,31
+2502,BTG,1921,Company - Public,50,8
+2503,"Clearsense, LLC",-1,Company - Private,50,24
+2504,"Amvotech Solutions, Inc",2015,Company - Private,200,15
+2505,NT Concepts,1998,Company - Private,1000,15
+2506,Cash Store,1996,Company - Private,5000,9
+2507,"Hilltop Holdings, Inc.",1998,Company - Public,5000,10
+2508,Cottonwood Financial,1996,Company - Private,5000,9
+2509,Terminal Contacts LLC,-1,Company - Private,50,15
+2510,HMS,-1,Company - Private,50,14
+2511,Root Insurance,2015,Company - Private,1000,20
+2512,Beam Dental,2012,Company - Private,200,20
+2513,Finite State,2017,Company - Private,50,27
+2514,Kognetics,-1,Company - Private,50,14
+2515,State Auto Insurance Companies,1921,Company - Public,5000,20
+2516,ROSEN USA,-1,Company - Private,500,62
+2517,JASStek Inc.,2004,Company - Private,50,11
+2518,Artech LLC,1992,Company - Private,10000,12
+2519,Deemsys Inc,1998,Company - Private,200,104
+2520,Huntington Bancshares Inc,1866,Company - Public,10000,10
+2521,Safelite,1947,Company - Private,10000,105
+2522,ComResource,1991,Company - Private,500,15
+2523,"PDS Tech, Inc.",1977,Company - Private,10000,12
+2524,Data Resource Technologies,-1,Company - Private,50,18
+2525,Hopper,2007,Company - Private,1000,88
+2526,Noom US,2008,Company - Private,5000,21
+2527,Sapphire Digital,2019,Company - Private,500,3
+2528,United Entertainment Group,2007,Company - Private,200,8
+2529,IFG Companies,1985,Company - Private,500,20
+2530,PDT Partners,1993,Company - Private,200,4
+2531,Paige,2018,Company - Private,50,24
+2532,Quartet Health,2014,Company - Private,500,24
+2533,Etsy,2005,Company - Public,1000,32
+2534,Citadel Securities,2002,Company - Private,500,6
+2535,WITHIN,2015,Company - Private,200,8
+2536,Datadog,2010,Company - Public,5000,11
+2537,Hungryroot,2015,Company - Private,50,21
+2538,Caserta,2001,Company - Private,200,15
+2539,IBG LLC,1990,Company - Private,500,6
+2540,CLEAR,2010,Company - Private,5000,27
+2541,infarm,2013,Company - Private,1000,61
+2542,Bowery Farming,2015,Company - Private,200,87
+2543,NorthOne,-1,Company - Private,50,14
+2544,Braze,2011,Company - Private,1000,8
+2545,Crisis Text Line,2013,Nonprofit Organization,200,33
+2546,Casper,2014,Company - Public,1000,82
+2547,Tower Research Capital,1998,Company - Private,1000,72
+2548,Codecademy,2011,Company - Private,200,70
+2549,viagogo,2006,Company - Private,1000,3
+2550,Gallup,1935,Company - Private,5000,19
+2551,Snappy,2015,Company - Private,50,3
+2552,Aptus Health,2008,Company - Private,500,8
+2553,Known,2004,Company - Private,500,8
+2554,Liberty Lending,2015,Company - Private,200,9
+2555,DoSomething.org,1993,Nonprofit Organization,200,1
+2556,UCI,-1,Company - Private,50,14
+2557,Forbes Media,1917,Company - Private,500,30
+2558,Interactive Brokers,-1,Company - Public,5000,6
+2559,"LivePerson, Inc.",1995,Company - Public,5000,3
+2560,Koch Industries,1940,Company - Private,10000,100
+2561,Gate Staffing LLC,2010,Self-employed,50,15
+2562,Tapestry,2017,Company - Public,10000,32
+2563,CKM Advisors,2011,Company - Private,200,19
+2564,Averity,2014,Company - Private,50,12
+2565,The CARIAN Group,-1,Company - Private,50,19
+2566,Committee of 100,-1,Company - Private,50,1
+2567,DMGT,1896,Company - Public,10000,54
+2568,ubergig,2009,Company - Private,50,7
+2569,OneWire,2007,Company - Private,50,12
+2570,Thomas,1898,Company - Private,500,8
+2571,TBWA\Chiat\Day,1968,Company - Public,5000,8
+2572,Internal Revenue Service,1862,Government,10000,16
+2573,"Harry and David, LLC",1934,Company - Public,1000,61
+2574,Mphasis limited,1992,Company - Public,10000,11
+2575,Ripple,2012,Company - Private,500,24
+2576,Spring Health,2016,Company - Private,50,2
+2577,SkillSoniq,-1,Company - Public,,14
+2578,Arena,2014,Company - Private,50,11
+2579,Strategic Financial Solutions,2007,Company - Private,1000,106
+2580,Audible,1995,Subsidiary or Business Segment,5000,13
+2581,Voice,-1,Company - Private,,14
+2582,NYC Data Science Academy,2014,Company - Private,50,70
+2583,Roku,2002,Company - Public,5000,15
+2584,Oliver Wyman,1984,Subsidiary or Business Segment,5000,19
+2585,Whip Media Group,2016,Company - Private,200,14
+2586,JAG Capital,-1,Company - Private,50,40
+2587,NPD,1966,Company - Private,5000,5
+2588,1-800-Flowers,1976,Company - Public,5000,58
+2589,Flatiron Health,2012,Company - Private,1000,24
+2590,MediaMath,2007,Company - Private,1000,8
+2591,Via Transportation,2012,Company - Private,1000,3
+2592,Building Service 32BJ Benefit Funds,-1,Nonprofit Organization,500,2
+2593,Marsh,1871,Subsidiary or Business Segment,10000,73
+2594,Undertone,2001,Subsidiary or Business Segment,500,8
+2595,Simple Health,2015,Company - Private,200,3
+2596,Galileo,-1,Company - Private,50,2
+2597,Catholic Health Services of Long Island,1997,Nonprofit Organization,10000,2
+2598,"Marsh & McLennan Companies, Inc.",1871,Company - Public,10000,73
+2599,Mediaocean,1967,Company - Private,1000,24
+2600,The Trade Desk,2009,Company - Public,5000,3
+2601,Samsung NEXT,2012,Company - Public,500,11
+2602,Landis,2017,Company - Private,50,14
+2603,NewtonX,2017,Company - Private,50,3
+2604,Spot.IM,2012,Company - Private,200,3
+2605,Thrasio,2018,Company - Private,200,32
+2606,Vettery,2013,Company - Private,500,3
+2607,"TEKREQS, Inc.",-1,Company - Private,50,14
+2608,Slice (NY),2010,Company - Private,200,3
+2609,Comtech Global Inc,-1,Company - Private,200,21
+2610,Temboo,-1,Company - Private,50,15
+2611,Argo Group US,1948,Company - Public,5000,20
+2612,FINRA,2007,Nonprofit Organization,5000,6
+2613,Prolancer,-1,Company - Private,50,14
+2614,TRANZACT,1989,Company - Private,5000,8
+2615,Havas Worldwide,1999,Subsidiary or Business Segment,10000,8
+2616,Healthfirst (New York),1993,Nonprofit Organization,5000,20
+2617,Slice,2016,Company - Private,500,9
+2618,Credibly,2010,Company - Private,200,9
+2619,Current,-1,Company - Public,500,14
+2620,WCG,2001,Company - Private,500,8
+2621,The Trevor Project,-1,Nonprofit Organization,200,1
+2622,First Health Group,1853,Company - Private,10000,20
+2623,Better.com,2014,Company - Private,1000,3
+2624,My Job Tank,-1,Company - Private,200,15
+2625,Komodo Health,2014,Company - Private,200,24
+2626,TMP WORLDWIDE,2006,Company - Private,1000,8
+2627,ERGO Group,1993,Company - Private,500,24
+2628,DBRS Morningstar,1976,Company - Private,500,72
+2629,Five Rings Capital,-1,Company - Private,200,72
+2630,Medly Pharmacy,2017,Unknown,500,2
+2631,Macquarie Group,1969,Company - Public,10000,4
+2632,Hadiamondstar Software Solutions LLC,-1,Company - Private,50,15
+2633,SoftStandard Solutions,-1,Company - Private,200,14
+2634,Mulberry Technology,-1,Company - Private,50,14
+2635,Bombas,2013,Company - Private,200,32
+2636,Bey,-1,Company - Private,50,14
+2637,ASB Resources,2004,Company - Private,50,15
+2638,Job Juncture,1992,Company - Private,5000,12
+2639,"EDO, Inc.",-1,Company - Private,50,3
+2640,Guy Carpenter,1922,Subsidiary or Business Segment,5000,73
+2641,MassMutual,1851,Company - Private,10000,20
+2642,Mythical Games,2018,Company - Private,50,25
+2643,Starz,1994,Subsidiary or Business Segment,1000,17
+2644,The Aerospace Corporation,1960,Nonprofit Organization,5000,38
+2645,Oaktree Capital Management,1995,Company - Public,1000,4
+2646,Headspace,2010,Company - Private,500,3
+2647,Ipsos,1975,Company - Public,10000,19
+2648,Steady,2017,Company - Private,50,3
+2649,Zest AI,2009,Company - Private,200,72
+2650,ConsumerTrack,2004,Company - Private,200,3
+2651,Center for Sustainable,1996,Nonprofit Organization,200,31
+2652,City of Hope,1913,Nonprofit Organization,10000,2
+2653,L.A. Care Health Plan,1997,Nonprofit Organization,5000,2
+2654,Anchor Loans LP,1998,Company - Private,200,44
+2655,Gurucul,2010,Company - Private,200,11
+2656,Opendoor,2014,Company - Private,1000,44
+2657,Magic Brush,-1,Company - Private,50,53
+2658,Wellth Inc.,2014,Company - Private,50,24
+2659,iRobot,1990,Company - Public,5000,107
+2660,BioPhase Solutions,-1,Company - Private,50,29
+2661,true[x],2007,Company - Public,200,8
+2662,Snap,2011,Company - Public,5000,11
+2663,SDL,1992,Company - Private,5000,24
+2664,PeerStreet,-1,Company - Private,200,44
+2665,Loot Crate,2012,Company - Private,500,32
+2666,Dot818,2011,Company - Private,50,8
+2667,Ad.net,2001,Company - Private,50,8
+2668,Connect International,-1,Nonprofit Organization,50,14
+2669,CodeForce 360,2010,Company - Private,200,15
+2670,21st Century Fox,1993,Subsidiary or Business Segment,5000,17
+2671,Grifols,1909,Company - Public,10000,29
+2672,PUBG Santa Monica,2017,Company - Private,1000,25
+2673,Lucky Day,2014,Company - Private,50,3
+2674,HITRECORD,-1,Company - Private,50,14
+2675,V Group Inc.,1997,Company - Private,1000,12
+2676,Galvanize Inc.,2012,Company - Private,500,70
+2677,Beyond Meat,2009,Company - Public,200,40
+2678,"Relevante, Inc.",2002,Company - Private,200,19
+2679,Genentech,1976,Subsidiary or Business Segment,10000,29
+2680,Langan Engineering and Environmental Services,1970,Company - Private,5000,39
+2681,Miro,2015,Company - Private,500,11
+2682,US Department of Energy,1977,Government,10000,16
+2683,Cenergy,-1,Company - Private,200,53
+2684,Beachbody,1998,Company - Private,1000,21
+2685,Superior Court of California County of Los Angeles,-1,Government,5000,52
+2686,UCLA Extension,-1,College / University,500,23
+2687,TutorMe,2015,Subsidiary or Business Segment,200,23
+2688,Los Angeles County,1850,Government,10000,52
+2689,"iSpace, Inc",2000,Company - Private,200,15
+2690,Kite Pharma,2008,Company - Public,5000,29
+2691,Tilde Staff Inc.,-1,Company - Private,50,14
+2692,"ConsultNet, LLC",1996,Company - Private,500,12
+2693,Scale Media,-1,Company - Public,50,8
+2694,JM Eagle,1983,Company - Private,5000,36
+2695,Tillster,2001,Company - Private,200,24
+2696,Galvanize,2012,Company - Private,500,70
+2697,Swinerton Builders,1888,Company - Private,5000,53
+2698,UtopiaCompression Corporation,-1,Company - Private,50,11
+2699,ServiceTitan,2013,Company - Private,1000,11
+2700,Icon Media Direct,2000,Company - Private,200,8
+2701,Casting Networks,2002,Company - Private,200,24
+2702,"Icon Media Direct, Inc.",2000,Company - Private,200,8
+2703,Arete Associates Inc,2008,Company - Private,200,15
+2704,Computershare,1978,Company - Public,10000,51
+2705,Thermo Fisher Scientific,1902,Company - Public,10000,29
+2706,"Adroit Worldwide Media, Inc. (AWM Smart Shelf)",-1,Company - Private,50,14
+2707,PlayQ,2007,Company - Private,200,25
+2708,Activision Publishing,1979,Subsidiary or Business Segment,5000,25
+2709,TVGla,-1,Company - Private,200,13
+2710,Epiq,1988,Company - Private,10000,101
+2711,Systech Business Solutions,1993,Company - Private,500,15
+2712,SAG-AFTRA Health Plan and SAG-Producers Pension Plan,-1,Company - Private,,14
+2713,BioDiscovery Inc,1997,Company - Private,50,11
+2714,Eurofins Scientific,1987,Company - Private,10000,29
+2715,Arize Corporation,-1,Company - Private,500,30
+2716,Eurofins USA Environment Testing,2005,Company - Private,500,94
+2717,Yorke Engineering,1831,College / University,10000,23
+2718,Farmers & Merchants Bank,-1,Company - Public,1000,4
+2719,NxT Level,2017,Company - Private,50,15
+2720,CSL Behring,2004,Company - Public,10000,29
+2721,"Integrated Resources, Inc",1996,Company - Private,500,12
+2722,Oxford Road,2013,Company - Private,50,8
+2723,Cadreon,2009,Subsidiary or Business Segment,1000,8
+2724,Perkinelmer,1937,Company - Public,10000,29
+2725,T.H.E. Health & Wellness Centers,-1,Company - Private,200,14
+2726,Mobilityware,1990,Company - Private,200,25
+2727,Provivi,-1,Company - Private,50,14
+2728,California Hospital Medical Center,-1,Nonprofit Organization,10000,2
+2729,DISQO,2014,Company - Private,200,5
+2730,Frontier Communications,1935,Company - Public,10000,81
+2731,Farmers Insurance,1928,Subsidiary or Business Segment,10000,20
+2732,To Help Everyone Health & Wellness Centers,-1,Nonprofit Organization,500,14
+2733,Advantage Resourcing,1969,Company - Private,10000,12
+2734,XSELL Technologies,2014,Company - Private,200,24
+2735,Wolverine Trading,1994,Company - Private,500,4
+2736,Magnetar Capital,2005,Company - Private,500,4
+2737,Wintrust Financial,1991,Company - Public,5000,10
+2738,Cboe Global Markets,1973,Company - Public,1000,76
+2739,Uptake,2014,Company - Private,1000,11
+2740,NCSA - Next College Student Athlete,2000,Company - Private,1000,103
+2741,Waystar,-1,Company - Private,1000,24
+2742,Goodway Group,1929,Company - Private,500,8
+2743,Kraft Heinz Company,2015,Company - Public,10000,40
+2744,Fetch Rewards,2013,Company - Private,200,11
+2745,HNI,1944,Company - Public,10000,35
+2746,Sutoer,-1,Company - Private,50,8
+2747,Triplebyte,2015,Company - Private,200,11
+2748,Green Key Technologies,2014,Company - Private,50,11
+2749,CreditNinja,-1,Company - Private,50,9
+2750,Fisec Global,-1,Company - Private,50,15
+2751,5thColumn,2012,Company - Private,50,24
+2752,Saggezza,2006,Company - Private,1000,15
+2753,STATS PERFORM,2019,Company - Private,5000,17
+2754,SEI,1992,Company - Private,500,19
+2755,Care Advisors Inc,-1,Company - Private,50,11
+2756,iManage,2015,Company - Private,1000,11
+2757,BCforward,1998,Company - Private,5000,15
+2758,Argonne National Laboratory,1946,Nonprofit Organization,5000,16
+2759,Caterpillar,1925,Company - Public,10000,36
+2760,DRW Trading Group,1992,Company - Private,5000,4
+2761,"Smart Synergies, Inc.",-1,Company - Private,50,19
+2762,STATS LLC,1981,Company - Private,1000,28
+2763,Unicom Technologies INC,-1,Company - Private,200,15
+2764,Alcatraz Cruises,-1,Company - Public,200,108
+2765,Nielsen,1923,Company - Public,10000,24
+2766,Underwriters Laboratories,1894,Company - Private,10000,19
+2767,1-800-Flowers.com,1976,Company - Public,5000,58
+2768,Kraken Digital Asset Exchange,2011,Company - Private,1000,3
+2769,"Sunrise Futures, LLC",2007,Company - Private,200,72
+2770,Spectrum Communications and Consulting,1992,Company - Private,200,8
+2771,Medix,2001,Company - Private,500,12
+2772,TreeHouse Foods,2005,Company - Public,10000,40
+2773,Strive Consulting,2006,Company - Private,1000,19
+2774,Old Mission Capital,2008,Private Practice / Firm,200,6
+2775,The University of Chicago,1890,College / University,10000,23
+2776,Peterson Technology Partners,1997,Contract,500,11
+2777,Kehe,1954,Company - Private,10000,58
+2778,Ferrara Candy Company,1908,Company - Private,10000,40
+2779,Ann & Robert H. Lurie Children's Hospital of Chicago,2012,Nonprofit Organization,5000,2
+2780,Fooda,2011,Company - Private,500,15
+2781,MDLIVE Inc,2009,Company - Private,500,2
+2782,Exelon,2000,Company - Public,10000,31
+2783,3Red Partners,2011,Company - Private,50,72
+2784,Collaborative Solutions,2003,Company - Private,1000,15
+2785,Feeding America,1979,Nonprofit Organization,200,1
+2786,Unitedhealth Group,1977,Company - Public,10000,2
+2787,"CTI Clinical Trial Services, Inc",1999,Company - Private,1000,2
+2788,First Stop Health,2011,Company - Private,50,2
+2789,Hornblower Cruises and Events,1980,Company - Private,5000,108
+2790,Belvedere Trading,2002,Company - Private,500,54
+2791,UST Global,1999,Company - Private,10000,15
+2792,KBS Solutions,-1,Company - Private,200,14
+2793,Riskonnect Inc,2007,Company - Private,500,24
+2794,KeyBank,1849,Company - Public,10000,10
+2795,Wavicle Data Solutions LLC,2014,Private Practice / Firm,200,15
+2796,CGN Global,1995,Company - Private,500,19
+2797,SkySource Solutions,2017,Company - Public,50,12
+2798,NICE Systems,-1,Company - Private,50,14
+2799,Leap,1991,Nonprofit Organization,200,1
+2800,West Monroe Partners,2002,Company - Private,5000,19
+2801,Chamberlain Group Inc,1900,Company - Private,5000,35
+2802,Old World Industries,1973,Company - Private,500,46
+2803,Quantlab,1998,Company - Private,200,4
+2804,BenchPrep,-1,Company - Private,200,70
+2805,360pi,-1,Company - Private,50,24
+2806,Pharmaceutical Product Development,1985,Company - Public,10000,29
+2807,Conagra Brands,1919,Company - Public,10000,40
+2808,Antuit,2013,Company - Private,500,24
+2809,Smith Hanley Associates,1980,Company - Private,50,12
+2810,"Fast Switch, LTD",1996,Company - Private,1000,15
+2811,Systems Evolution,1992,Company - Private,500,19
+2812,Kelly Mitchell Group,1998,Company - Private,5000,12
+2813,Wavicle Data,2014,Private Practice / Firm,200,15
+2814,MRINetwork,1965,Subsidiary or Business Segment,5000,14
+2815,MWRD of Greater Chicago,-1,Government,5000,16
+2816,STATS,1981,Company - Private,1000,28
+2817,Athletico,-1,Company - Private,5000,2
+2818,Marcel Media,2003,Company - Private,50,8
+2819,Northwestern Memorial Healthcare,1965,Hospital,10000,2
+2820,Avanciers,2015,Company - Private,50,15
+2821,Trianz,2001,Company - Private,5000,15
+2822,Epiq Systems,1988,Company - Private,10000,101
+2823,"Veterans Affairs, Veterans Health Administration",1930,Government,10000,16
+2824,OSF Healthcare System,1877,Nonprofit Organization,10000,2
+2825,"Stampede Meat, Inc.",-1,Company - Private,5000,40
+2826,Parallel Partners,-1,Unknown,200,44
+2827,Publicis Groupe,1926,Company - Public,10000,8
+2828,LiveRamp,2005,Company - Public,5000,11
+2829,HIMSS,1961,Nonprofit Organization,500,2
+2830,IlliniCare Health Plan,-1,Company - Public,5000,14
+2831,BDO USA,1910,Company - Private,10000,18
+2832,Sysco,1969,Company - Public,10000,58
+2833,Aramco Services Company,1988,Company - Private,500,34
+2834,National Oilwell Varco,1841,Company - Public,10000,62
+2835,Sercel,1956,Company - Private,1000,34
+2836,CGG,1931,Company - Private,10000,62
+2837,N.F. Smith & Associates,1984,Company - Private,500,58
+2838,Dascena,-1,Company - Private,50,15
+2839,RiceTec,1985,Company - Private,500,40
+2840,University of Houston,-1,College / University,10000,23
+2841,Kinder Morgan,1997,Company - Public,10000,62
+2842,Baylor College of Medicine,1900,College / University,10000,23
+2843,KPISOFT,2005,Company - Private,200,24
+2844,Techwave Consulting Inc.,2004,Company - Private,5000,15
+2845,Smith and Associates,-1,Self-employed,50,101
+2846,cPanel,1997,Company - Private,500,11
+2847,"OraSure Technologies, Inc.",2000,Company - Public,500,29
+2848,Invesco,1935,Company - Public,10000,4
+2849,Pro Lancer,-1,Company - Private,50,14
+2850,Pareto Systems,2012,Company - Private,50,15
+2851,Virtus Partners,2005,Company - Private,500,4
+2852,Horne LLP,1962,Company - Private,1000,18
+2853,Houston-Galveston Area Council,1966,Government,200,52
+2854,Management Solutions,2002,Company - Private,5000,19
+2855,McLane Global,1955,Company - Private,200,58
+2856,"Simplex info systems Inc,",-1,Company - Private,50,15
+2857,Excite Health Partners,-1,Company - Private,200,12
+2858,Lonza,1897,Company - Public,10000,29
+2859,GoExpedi,2017,Company - Private,200,100
+2860,S & R Professionals,-1,Company - Private,50,15
+2861,Natus Medical,1989,Company - Public,5000,56
+2862,CDM Smith,1947,Company - Private,10000,19
+2863,Golder,1960,Company - Private,10000,39
+2864,CooperSurgical,1990,Subsidiary or Business Segment,500,56
+2865,AspenTech,1981,Company - Public,5000,11
+2866,Luminess Cosmetics,2007,Company - Private,200,35
+2867,"Technet, LLC",-1,Company - Private,50,19
+2868,Raba-Kistner,1968,Company - Private,500,53
+2869,Ayata,-1,Company - Private,50,18
+2870,U.S. & Texas LawShield,-1,Company - Private,200,14
+2871,MD Anderson Cancer Center,1941,Hospital,10000,2
+2872,E&A,2010,Unknown,200,14
+2873,Virtus Partners LLC,2005,Company - Private,500,4
+2874,Hexagon PPM,1992,Company - Public,5000,11
+2875,Sunmerge Systems Inc,-1,Company - Private,200,21
+2876,Peterson Sullivan,-1,Private Practice / Firm,50,14
+2877,PinnacleART,2006,Company - Private,1000,62
+2878,Texas Transportation Institute,-1,Government,1000,19
+2879,Arcadis UK,-1,Company - Public,5000,53
+2880,Alliance Source Testing,2000,Unknown,200,39
+2881,Texas Dow Employees Credit Union,1955,Nonprofit Organization,1000,10
+2882,Catalent Pharma,2007,Company - Public,10000,29
+2883,American Institute of Aeronautics and Astronautics,1963,Nonprofit Organization,200,59
+2884,The University of Texas Medical Branch,1891,Hospital,10000,2
+2885,Varsity Tutors,2007,Company - Private,500,3
+2886,Integrate,2010,Company - Private,500,24
+2887,Offerpad,2015,Company - Private,500,44
+2888,"Berkeley Research Group, LLC",2010,Company - Private,5000,19
+2889,Scientific Technologies Corporation,1988,Company - Private,200,15
+2890,Soaren Management,2015,Company - Private,200,9
+2891,fulcrum worldwide,1999,Company - Private,1000,15
+2892,Viasat,1986,Company - Public,10000,43
+2893,NAGRA (Kudelski Group),1951,Company - Public,5000,97
+2894,Parker & Lynch,1992,Company - Public,1000,12
+2895,Gatestone & Co. Inc,-1,Company - Private,5000,12
+2896,Siemens Healthineers,1847,Company - Public,10000,2
+2897,The Paragon Group,1985,Company - Public,5000,10
+2898,Intel Corp.,1968,Company - Public,10000,11
+2899,Desert Financial,1939,Company - Public,5000,10
+2900,University of Phoenix,1976,College / University,5000,23
+2901,BlueOptima,2006,Company - Private,200,24
+2902,Tech Finders,1998,Company - Private,50,12
+2903,Equity Methods,-1,Company - Private,200,19
+2904,Career Evolutions,-1,Company - Private,50,14
+2905,TriWest Healthcare Alliance,1996,Company - Private,5000,2
+2906,PetSmart,1986,Company - Private,10000,69
+2907,U.S. Navy,1775,Government,5000,16
+2908,StateServ,2004,Company - Private,500,2
+2909,Net Orbit Inc,-1,Company - Private,1000,14
+2910,Phoenix Children's Hospital,1983,Nonprofit Organization,5000,2
+2911,"Groundwater & Environmental Services, Inc.",1985,Company - Private,1000,39
+2912,Sonora Quest Laboratories,1997,Company - Private,5000,2
+2913,COPA Health,1957,Nonprofit Organization,1000,2
+2914,Kineticom,2000,Company - Private,500,12
+2915,Arizona Department of Public Safety,1969,Government,5000,74
+2916,Na Ali'i,2003,Company - Private,500,19
+2917,Siemens,1843,Company - Public,10000,64
+2918,NXP Semiconductors,2006,Company - Public,10000,64
+2919,"DriveTime Automotive Group, Inc.",2002,Company - Private,10000,41
+2920,APN Staffing & Employment Solutions,1991,Company - Private,50,12
+2921,Allstate Insurance Company,-1,Company - Private,50,73
+2922,AllSTEM Connections,-1,Unknown,,14
+2923,STEVENS CAPITAL MANAGEMENT,2002,Company - Private,200,72
+2924,Children's Hospital of Philadelphia,1855,Nonprofit Organization,5000,2
+2925,Philadelphia 76ers,1946,Subsidiary or Business Segment,500,103
+2926,Avanceon Lp,-1,Company - Private,200,39
+2927,Veritis Group,-1,Company - Private,200,21
+2928,HBSE,2017,Company - Private,500,103
+2929,MarkMonitor,1999,Subsidiary or Business Segment,1000,24
+2930,Stratagem Group,2007,Company - Private,50,38
+2931,American Economic Association,-1,Company - Private,,4
+2932,InterDigital Communications Corporation,-1,Company - Public,500,64
+2933,Temple University,1888,College / University,10000,23
+2934,"QVC, Inc.",1986,Subsidiary or Business Segment,10000,47
+2935,STRATIS IoT Inc,2013,Company - Private,50,24
+2936,DMA Associates,1996,Company - Private,200,24
+2937,Principia Consulting,1995,Company - Private,50,19
+2938,Chubb,1792,Company - Public,10000,20
+2939,Acurian,-1,Company - Private,200,29
+2940,Seer Interactive,2002,Company - Private,200,3
+2941,Clarivate Analytics,2016,Company - Public,5000,5
+2942,NewRez,2018,Company - Public,5000,9
+2943,"Penn National Gaming, Inc.",1971,Company - Public,10000,22
+2944,Red Tettemer,-1,Company - Private,200,8
+2945,The GBS Group,2005,Company - Private,200,39
+2946,"Riffyn, Inc",2014,Company - Private,50,24
+2947,Jornaya,2011,Company - Private,200,11
+2948,Quotient Sciences,1990,Company - Private,1000,29
+2949,PMHCC Inc.,1987,Nonprofit Organization,1000,2
+2950,WebbMason Analytics,1989,Company - Private,500,8
+2951,Dextro Software Systems,1993,Company - Private,200,15
+2952,Eastern Metal Recycling,-1,Company - Private,5000,109
+2953,Tandigm Health LLC,2014,Company - Private,200,2
+2954,Qurate Retail Group,-1,Company - Public,10000,32
+2955,Techligent,-1,Company - Private,50,15
+2956,City of Philadelphia,1682,Government,10000,52
+2957,WuXi AppTec,2000,Subsidiary or Business Segment,10000,29
+2958,American Red Cross,1881,Nonprofit Organization,10000,1
+2959,TDI Technologies Inc.,-1,Company - Private,50,24
+2960,Citygate Automotive Ltd,-1,Company - Private,500,41
+2961,Ciright,1991,Company - Private,200,24
+2962,Cambridge Advisory Group,-1,Company - Private,50,19
+2963,Penn National Gaming,1971,Company - Public,10000,22
+2964,piano.io,-1,Company - Private,500,11
+2965,IsoPlexis,-1,Company - Private,50,14
+2966,Jazz Pharma,2003,Company - Public,5000,29
+2967,Contemporary Staffing Solutions,1994,Company - Private,5000,12
+2968,"Login Consulting Services, Inc",-1,Company - Private,200,19
+2969,Stell,-1,Company - Private,200,14
+2970,"Data-Core System, Inc.",1988,Company - Private,500,15
+2971,Carisma Therapeutics,-1,Company - Private,50,14
+2972,Spark Therapeutics,-1,Company - Public,500,29
+2973,PVK Corporation,-1,Company - Private,50,15
+2974,Adaptimmune,-1,Company - Public,500,29
+2975,"iTech Solutions, Inc",1995,Company - Private,200,12
+2976,University of the Sciences,-1,College / University,500,14
+2977,"SHS, Incorporated",-1,Company - Public,50,8
+2978,Swift,1973,Company - Private,5000,24
+2979,Abzena,2001,Company - Public,200,29
+2980,Elsevier,1880,Subsidiary or Business Segment,10000,30
+2981,Peoplentech,-1,Contract,50,15
+2982,Thomas Jefferson University Hospital,1824,Nonprofit Organization,10000,2
+2983,SDI Inc,1971,Company - Private,500,60
+2984,First Quality Enterprises Inc,1988,Company - Private,5000,35
+2985,Angeion Group,-1,Company - Private,50,19
+2986,AccessLex Institute,-1,Nonprofit Organization,200,23
+2987,Inovio Pharmaceuticals,-1,Company - Public,500,29
+2988,Profound,-1,Company - Private,50,14
+2989,NextGen Global Resources LLC,2009,Subsidiary or Business Segment,1000,81
+2990,InCyte,1991,Company - Public,1000,29
+2991,Merck,1891,Company - Public,10000,29
+2992,Arbutus Biopharma,-1,Company - Public,200,29
+2993,Axtria,2010,Company - Private,1000,19
+2994,Pfizer,1849,Company - Public,10000,29
+2995,RCM Technologies,1971,Company - Public,5000,15
+2996,M3 USA,-1,Company - Private,50,3
+2997,"Law School Admissions Council, Inc.",-1,Nonprofit Organization,500,1
+2998,Pharmaceutical,-1,Unknown,,14
+2999,Fred Beans,-1,Company - Private,5000,41
+3000,Eisai US,-1,Company - Private,500,29
+3001,Keystone Industries,-1,Company - Private,500,56
+3002,Flamma USA,-1,Company - Public,1000,14
+3003,Ubertal Inc,-1,Company - Private,200,14
+3004,Main Line Health,1985,Nonprofit Organization,10000,2
+3005,The Nature's Bounty Co.,1971,Company - Private,5000,35
+3006,Knowesis Inc.,2007,Company - Private,200,19
+3007,Alaka`ina Foundation Family of Companies,-1,Government,1000,14
+3008,ka-hoot,2015,Company - Private,50,12
+3009,Horizon Corp,1864,Subsidiary or Business Segment,10000,4
+3010,"Ke`aki Technologies, LLC",-1,Contract,5000,11
+3011,Ionidea,1991,Company - Private,5000,15
+3012,C2 GPS- Alamo Workforce,2010,Company - Private,1000,19
+3013,Vinsari,-1,Other Organization,200,14
+3014,Mylan Inc.,1961,Company - Public,10000,29
+3015,Huntington Ingalls Industries,2011,Company - Public,10000,38
+3016,"Amyx, Inc.",1999,Company - Private,1000,15
+3017,"IPSecure, Inc.",-1,Company - Private,200,14
+3018,Methodist Hospital Metropolitan,-1,Hospital,500,2
+3019,Methodist Hospital Northeast,1995,Company - Private,10000,2
+3020,Methodist Hospital Stone Oak,1995,Company - Private,10000,2
+3021,Leonie Industries,2006,Company - Private,200,16
+3022,Convene Technologies,2005,Company - Private,200,15
+3023,Air Force Materiel Command,-1,Government,10000,5
+3024,"The McConnell Group, Inc",1997,Company - Private,200,29
+3025,Texas Biomedical Research,1941,Nonprofit Organization,500,5
+3026,Oneida ESC Group,-1,Company - Private,,14
+3027,VIA Metropolitan Transit,1978,Government,5000,52
+3028,HP Inc.,1939,Company - Public,10000,11
+3029,Midland Credit Management,1953,Subsidiary or Business Segment,5000,10
+3030,Crown Bioscience,2006,Company - Private,1000,29
+3031,ProSci,-1,Company - Private,50,29
+3032,Cuker,2006,Company - Private,50,8
+3033,SiO Digital,2015,Company - Private,50,8
+3034,"Invivoscribe, Inc.",1995,Company - Private,200,29
+3035,Realty Income,1969,Company - Public,200,44
+3036,Seismic,2010,Company - Private,1000,24
+3037,Sekisui Diagnostics,-1,Company - Private,1000,14
+3038,Sysintelli,-1,Company - Private,200,18
+3039,Lilly,1876,Company - Public,10000,29
+3040,Vertex Pharmaceuticals,1989,Company - Public,5000,29
+3041,Synectics Inc.,1984,Company - Private,500,12
+3042,Cue,2010,Company - Private,200,29
+3043,Conflux Systems Inc.,-1,Company - Private,50,18
+3044,SDSU Research Foundation,-1,Nonprofit Organization,5000,98
+3045,"ASK Staffing, Inc.",1995,Company - Private,500,12
+3046,General Atomics and Affiliated Companies,1955,Company - Private,10000,38
+3047,Encore Capital Group,1953,Company - Public,10000,72
+3048,Neurocrine Biosciences,1992,Company - Public,1000,29
+3049,The Scripps Research Institute,1997,Nonprofit Organization,5000,5
+3050,ProSci Inc.,-1,Company - Private,50,29
+3051,Client Solution Architects,2003,Company - Private,500,38
+3052,VIA Technical,2005,Company - Private,50,12
+3053,Procede Software,2001,Company - Private,200,24
+3054,Millennium Health,2007,Company - Private,1000,29
+3055,Eli Lilly and Company,1876,Company - Public,10000,29
+3056,Park Computer Systems INC,-1,Company - Private,50,19
+3057,Sharp HealthCare,1946,Nonprofit Organization,10000,2
+3058,Cardea,-1,Nonprofit Organization,50,14
+3059,ProMedia,2010,Company - Private,50,8
+3060,Eli Lilly And Company,1876,Company - Public,10000,29
+3061,BTS Research,2007,Company - Private,200,29
+3062,Vividion Therapeutics,2016,Company - Private,200,29
+3063,Wood,1848,Company - Public,10000,62
+3064,PSI Pax,2005,Contract,200,15
+3065,Kuaishou Technology,2011,Company - Private,10000,3
+3066,BioDuro,2005,Company - Private,1000,29
+3067,Arrowhead Pharmaceuticals,2004,Company - Public,200,29
+3068,Tandem Diabetes Care,2006,Company - Public,5000,56
+3069,DFO Global Performance Commerce Limited,2011,Company - Private,200,8
+3070,Peraton Corporation,2017,Company - Private,5000,38
+3071,SVK Technology Solutions Inc,-1,Company - Public,,14
+3072,Fate Therapeutics,-1,Company - Public,200,18
+3073,"Fate Therapeutics, Inc.",-1,Company - Public,200,18
+3074,Potomac Management,-1,Nonprofit Organization,200,14
+3075,Absorption Systems,1996,Company - Private,200,29
+3076,"Samsung Semiconductor, Inc.",1983,Subsidiary or Business Segment,5000,11
+3077,BioLegend,2002,Company - Private,1000,29
+3078,Simply Biotech,-1,Company - Private,200,14
+3079,Samsung Electronics America,1938,Subsidiary or Business Segment,5000,11
+3080,Quidel Corporation,1979,Company - Public,5000,29
+3081,"1798, LLC",-1,Company - Private,50,19
+3082,Wondfo USA,-1,Company - Private,50,14
+3083,AnaptysBio Inc,2005,Company - Public,200,29
+3084,"AveXis, Inc.",-1,Company - Private,5000,29
+3085,Epic Sciences,2008,Company - Private,200,29
+3086,La Jolla Institute for Allergy and Immunology,1988,Nonprofit Organization,500,29
+3087,BroadPharm,-1,Company - Private,50,14
+3088,Hologic,1985,Company - Public,10000,56
+3089,Laboratory Corporation of America,1995,Company - Public,10000,5
+3090,INVIVOSCRIBE INC,1995,Company - Private,200,29
+3091,NantKwest,2015,Company - Public,200,29
+3092,Accelrys,1993,Company - Public,1000,11
+3093,Absorption,1996,Company - Private,200,29
+3094,Ferring Pharmaceuticals,1980,Company - Private,10000,29
+3095,Parkland Center for Clinical Innovation,2012,Nonprofit Organization,50,15
+3096,Cytracom,2008,Company - Private,50,24
+3097,40K INC,-1,Unknown,50,14
+3098,Lennox International,1895,Company - Public,10000,35
+3099,Ateroz,-1,Company - Public,,12
+3100,Predictive Research Inc,-1,Company - Private,50,19
+3101,Kubota Tractor Corporation,1971,Subsidiary or Business Segment,5000,36
+3102,"Six Flags, Inc.",1961,Company - Public,5000,110
+3103,Infosys,1981,Company - Public,10000,15
+3104,Pieces Technologies,2015,Company - Private,200,24
+3105,Parkland,1894,Hospital,10000,2
+3106,MSYS Inc.,-1,Company - Private,200,15
+3107,Prudent Technologies and Consulting,1998,Company - Private,200,15
+3108,UT Dallas,1969,College / University,5000,23
+3109,Dallas County,-1,Government,500,52
+3110,Dialexa,2010,Company - Private,200,11
+3111,PSG Global Solutions,2009,Company - Private,5000,12
+3112,Raytheon Intelligence & Space,2020,Subsidiary or Business Segment,10000,38
+3113,AmerisourceBergen,2001,Company - Public,10000,29
+3114,Trinity Industries,1933,Company - Public,10000,91
+3115,Neiman Marcus,1907,Company - Private,10000,47
+3116,"Telnet, Inc.",-1,Company - Private,200,19
+3117,Human Coalition,-1,Nonprofit Organization,500,14
+3118,IMG Systems,-1,Company - Private,50,19
+3119,Financial Additions,1999,Company - Private,50,4
+3120,TekniSMart Solutions,-1,Contract,50,14
+3121,VITALWARE LLC,2010,Company - Private,200,2
+3122,State Farm,1922,Company - Private,10000,20
+3123,Yum! Brands,1997,Company - Public,10000,92
+3124,Brinks Home Security,-1,Company - Public,5000,27
+3125,Meso Scale Diagnostics,-1,Company - Private,500,29
+3126,CAE,1947,Company - Public,10000,38
+3127,Hilltop Holdings,1998,Company - Public,5000,10
+3128,SysMind,1999,Company - Private,200,24
+3129,Reddy Ice,2003,Company - Public,5000,40
+3130,"7-Eleven, Inc.",1927,Subsidiary or Business Segment,10000,32
+3131,HumCap Inc.,2001,Company - Private,50,19
+3132,adept scripts,2013,Company - Private,50,15
+3133,IBM Corporation,1911,Company - Public,10000,15
+3134,National NeuroMonitoring,2008,Company - Private,200,2
+3135,PrideStaff,1978,Company - Private,10000,12
+3136,Pricesenz,-1,Company - Public,,14
+3137,McCall and Lee,-1,Company - Public,,14
+3138,Precision technologies corp,2008,Company - Private,500,15
+3139,Comtek Group,2001,Company - Private,200,12
+3140,DTCC,1973,Company - Private,5000,6
+3141,Vensoft Inc,-1,Company - Private,200,15
+3142,Exeter Finance,2006,Company - Private,5000,9
+3143,Trinity River Authority of Texas,1955,Government,500,34
+3144,Home Point Financial,2015,Company - Private,5000,9
+3145,CES Limited,2013,Company - Private,200,15
+3146,GTA,-1,Company - Private,1000,88
+3147,"The Brixton Group, Inc.",1998,Company - Private,200,12
+3148,EdvenSoft Solutions LLC,-1,Company - Public,50,14
+3149,DJO,1978,Subsidiary or Business Segment,10000,56
+3150,Ascendis Pharma,-1,Company - Public,200,14
+3151,Conduent,2017,Company - Public,10000,15
+3152,Toyota Connected,2016,Company - Private,200,15
+3153,Noor Staffing,2015,Company - Private,200,12
+3154,Production Resource Group,1995,Company - Private,5000,71
+3155,Staff Perm,2013,Company - Private,50,15
+3156,Gartner,1979,Company - Public,10000,19
+3157,Wingstop,1994,Company - Public,200,92
+3158,Della Infotech Inc.,2012,Company - Private,200,12
+3159,Southwestern Family of Companies,1855,Company - Private,10000,19
+3160,Bruker Corporation,1960,Company - Public,10000,29
+3161,Amobee,2005,Company - Private,1000,8
+3162,Waymo,2009,Company - Private,,11
+3163,Architecture Technology Corporation,1981,Company - Private,200,11
+3164,GRAIL,2016,Company - Private,500,29
+3165,Eversight,2013,Company - Private,200,24
+3166,Mentor Graphics,1981,Company - Public,10000,11
+3167,Joby Aviation,-1,Company - Private,200,14
+3168,Gigya,2006,Company - Private,500,24
+3169,Jabil Circuit,1966,Company - Public,10000,64
+3170,Next Insurance,2016,Company - Private,500,20
+3171,Match Relevant,-1,Company - Private,50,8
+3172,Farmers Business Network,2014,Company - Private,500,94
+3173,MoTek Technologies,2009,Company - Private,50,15
+3174,Rivian,2009,Company - Private,5000,91
+3175,SAP,1972,Company - Public,10000,11
+3176,Miles,2016,Company - Private,50,3
+3177,Lawrence Livermore National Lab,1952,Government,5000,16
+3178,Genalyte,2007,Company - Private,200,29
+3179,Flexton,2007,Company - Private,200,15
+3180,PROPRIUS,-1,Company - Private,50,24
+3181,Teladoc,2002,Company - Public,5000,2
+3182,Centraprise,-1,Company - Private,200,15
+3183,Epic,2014,Company - Private,200,3
+3184,Airtime,2012,Company - Private,200,3
+3185,BetterHelp,2013,Subsidiary or Business Segment,200,11
+3186,Verizon Media,-1,Subsidiary or Business Segment,10000,14
+3187,Vectra,-1,Company - Private,200,18
+3188,Natera,2004,Company - Public,1000,29
+3189,Livongo,2014,Company - Public,1000,2
+3190,BitTiger,2016,Company - Private,50,70
+3191,Blue River Technology,2011,Subsidiary or Business Segment,200,11
+3192,Liftoff,2012,Company - Private,500,8
+3193,TechNet Inc.,-1,Company - Private,50,12
+3194,CDK,-1,Company - Public,,14
+3195,Enjoy Technology,2014,Company - Private,5000,107
+3196,LTI,1997,Company - Public,10000,15
+3197,Dtex Systems,2002,Company - Private,200,24
+3198,Karius,2014,Company - Private,200,29
+3199,Venmo,2009,Company - Public,200,51
+3200,twoXAR,-1,Company - Private,50,14
+3201,Chan Zuckerberg Initiative,2015,Company - Private,500,11
+3202,Box,2005,Company - Public,5000,11
+3203,LeanData,2012,Company - Private,200,24
+3204,Intelligence Communications and Engineering,2007,Company - Private,200,39
+3205,Carbon3D,2013,Company - Private,500,15
+3206,Scopus IT,2007,Company - Private,50,24
+3207,Aisera,2017,Company - Private,200,24
+3208,Appen,1996,Company - Public,5000,19
+3209,Earnin,2012,Company - Private,500,15
+3210,Accounting Principals,1994,Company - Public,1000,12
+3211,Bandai Namco Entertainment America,1990,Subsidiary or Business Segment,200,103
+3212,Roche,1896,Company - Public,10000,29
+3213,"AppZen, Inc.",2012,Company - Private,500,51
+3214,Quantifind,2009,Company - Private,200,24
+3215,CDK Global,2014,Company - Public,10000,11
+3216,Chai,2013,Company - Private,50,29
+3217,Zipongo,2011,Company - Private,200,2
+3218,Rivian Automotive,2009,Company - Private,5000,91
+3219,Hiretual,2014,Company - Private,50,3
+3220,JD.com,-1,Company - Public,10000,47
+3221,"Joomag, Inc.",2009,Company - Private,200,15
+3222,Pilot AI,2015,Company - Private,50,11
+3223,Niantic,2011,Company - Private,1000,25
+3224,Sartorius,1870,Company - Public,10000,29
+3225,OSI Engineering,2010,Company - Private,200,12
+3226,AutoGrid Systems,2011,Company - Private,200,11
+3227,Micron Technology,1978,Company - Public,10000,11
+3228,Power Integrations,1988,Company - Public,1000,64
+3229,"Armada Group, Inc.",1995,Company - Private,200,15
+3230,SLAC National Accelerator Laboratory,1962,Government,5000,16
+3231,E Base Technologies,-1,Company - Private,200,8
+3232,ATUM,2000,Company - Private,50,11
+3233,Matroid,2016,Company - Private,50,11
+3234,Dew Software,1997,Company - Private,200,15
+3235,Toyota Research Institute,2016,Subsidiary or Business Segment,500,5
+3236,Instagram,-1,Unknown,10000,14
+3237,Verseon,2002,Company - Public,200,29
+3238,Lily AI,2015,Company - Private,50,24
+3239,Sandia National Laboratories,1949,Government,10000,16
+3240,Tailored Brands,-1,Company - Public,10000,47
+3241,Walmart,1962,Company - Public,5000,47
+3242,"US Tech Solutions, Inc",2000,Company - Private,5000,12
+3243,Wider Circle,2015,Company - Private,50,21
+3244,Bigfoot Biomedical,2014,Company - Private,200,2
+3245,AlertMedia,2013,Company - Private,200,11
+3246,Mott MacDonald,1989,Company - Private,10000,39
+3247,Whole Foods Market,1980,Company - Public,10000,68
+3248,CloudFlare,2010,Company - Public,5000,3
+3249,Federal Data Systems,-1,Contract,50,15
+3250,Indeed,2004,Company - Private,10000,3
+3251,NGENERA CORPORATION,-1,Company - Private,200,11
+3252,Hotels.com,1991,Subsidiary or Business Segment,,3
+3253,Enview,2015,Company - Private,50,11
+3254,Clockwork Solutions,2000,Company - Private,50,11
+3255,CognitiveScale,2013,Company - Private,200,24
+3256,Signature Science,-1,Company - Private,200,19
+3257,The University of Texas at Austin,1883,College / University,10000,23
+3258,NxStage,1998,Company - Public,5000,56
+3259,Fresenius Medical Care,-1,Company - Public,10000,56
+3260,EDGE10 Group,-1,Company - Private,50,3
+3261,Lightspeed Systems,1999,Company - Private,200,11
+3262,Samsung Electronics,1969,Company - Public,10000,11
+3263,"Ultra Electronics, Advanced Tactical Systems",1920,Company - Public,5000,38
+3264,SAS,1976,Company - Private,10000,24
+3265,Samsung Electronics America Inc,1938,Subsidiary or Business Segment,5000,11
+3266,LawnStarter,-1,Company - Private,50,3
+3267,FireEye Inc,2004,Company - Public,5000,11
+3268,SAS Institute,1976,Company - Private,10000,11
+3269,University of Texas at Austin,1883,College / University,10000,23
+3270,General Assembly,2011,Company - Private,1000,70
+3271,Cloudflare,2010,Company - Public,5000,3
+3272,Samsung Austin Semiconductor,1996,Subsidiary or Business Segment,5000,64
+3273,Federal Data Systems Inc,-1,Contract,50,15
+3274,ForgeRock,2010,Company - Private,1000,24
+3275,Seven Seven Softwares,1996,Company - Public,500,15
+3276,Superior HealthPlan,1999,Company - Private,5000,2
+3277,E2open,2000,Company - Private,5000,24
+3278,"SAS Institute, Inc",1976,Company - Private,10000,11
+3279,Aceable,2012,Company - Private,200,70
+3280,Onnit,2010,Company - Private,200,21
+3281,Worldwide Clinical Trials,1986,Company - Private,5000,29
+3282,"Austin Staffing, Inc.",2005,Company - Private,1000,12
+3283,"Universal Solutions International, Inc.",2007,Company - Private,200,38
+3284,Chipton-Ross,1983,Company - Private,200,12
+3285,National Instruments Corporation,1976,Company - Public,10000,64
+3286,Concordia University Texas,1926,College / University,500,23
+3287,Texas Association of Counties,1969,Nonprofit Organization,200,74
+3288,Clinical Pathology Laboratories,1990,Company - Private,5000,5
+3289,Numentica LLC,-1,Company - Private,50,14
+3290,"FireEye, Inc.",2004,Company - Public,5000,11
+3291,CorTech LLC,1999,Company - Private,500,12
+3292,KUNGFU.AI,-1,Company - Private,50,14
+3293,Global Foundries,2009,Company - Private,10000,64
+3294,Molecular Templates Inc,-1,Company - Private,50,29
+3295,Experfy,-1,Company - Private,50,14
+3296,CSI Tech Inc.,1994,Company - Private,200,12
+3297,Infomatics Corp,2005,Company - Private,200,19
+3298,"Capricorn Systems, Inc.",-1,Company - Private,200,11
+3299,Lutheran Services Florida,1982,Nonprofit Organization,5000,86
+3300,The NDN Companies,-1,Nonprofit Organization,50,1
+3301,One Call,1993,Company - Private,5000,2
+3302,"ACTS, Inc.",1971,Nonprofit Organization,10000,1
+3303,Rotoplas USA,1978,Company - Private,5000,14
+3304,North Central Texas Council of Governments,1966,Nonprofit Organization,500,59
+3305,Tenaska,1987,Company - Private,1000,31
+3306,Company Confidenital,2006,Company - Private,200,12
+3307,FHLB of Dallas,1932,Company - Private,500,10
+3308,JPS Health Network,1877,Nonprofit Organization,10000,2
+3309,Ace Cash Express,1968,Company - Private,5000,9
+3310,Populus Financial Group,-1,Company - Private,5000,9
+3311,Upstart,2012,Company - Private,500,9
+3312,Battelle,1929,Nonprofit Organization,10000,5
+3313,The Ohio State University Wexner Medical Center,1916,Hospital,10000,2
+3314,Seamless AI,2015,Company - Private,50,11
+3315,Olive,2012,Company - Private,500,24
+3316,Dash Technologies Inc,-1,Unknown,50,14
+3317,CAS,1907,Subsidiary or Business Segment,5000,24
+3318,DSW,1969,Company - Public,10000,47
+3319,Scotts Miracle-Gro,1868,Company - Public,10000,35
+3320,Immuta,2015,Company - Private,200,11
+3321,The Ohio State University,1870,College / University,10000,23
+3322,Emerald Resource Group,1997,Company - Private,50,12
+3323,Path Robotics,2016,Unknown,50,36
+3324,Data Systems Integration Group Inc,-1,Company - Private,50,18
+3325,Natural Resources Conservation Service,1935,Government,10000,16
+3326,DHL,1969,Company - Private,10000,60
+3327,ASK Chemicals,-1,Company - Private,5000,19
+3328,Abercrombie and Fitch Co.,1892,Company - Public,10000,47
+3329,Hikma Pharmaceuticals USA Inc.,1978,Company - Public,10000,29
+3330,Tephra Inc.,-1,Company - Private,50,18
+3331,"UNICON International, Inc",-1,Company - Private,50,14
+3332,UES,1973,Company - Private,500,5
+3333,STATE OF OHIO,1803,Government,10000,74
+3334,L Brands,1963,Company - Public,10000,47
+3335,Franklin University,-1,College / University,500,23
+3336,DATAECONOMY,2018,Company - Public,50,14

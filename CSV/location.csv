@@ -1,0 +1,527 @@
+location_id,City,State_id
+1,New York,1
+2,Jersey City,2
+3,Weehawken,2
+4,Manhasset,1
+5,Newark,2
+6,Queens Village,1
+7,Summit,2
+8,Haworth,2
+9,Lake Success,1
+10,Berkeley Heights,2
+11,Brooklyn,1
+12,Essex Fells,2
+13,South Plainfield,2
+14,Franklin Lakes,2
+15,Secaucus,2
+16,West Orange,2
+17,Long Island City,1
+18,Florham Park,2
+19,Woodbridge,2
+20,Whippany,2
+21,Hoboken,2
+22,Staten Island,1
+23,Harrison,1
+24,Iselin,2
+25,Woodcliff Lake,2
+26,Bronx,1
+27,Salt Lake City,3
+28,Lehi,3
+29,American Fork,3
+30,Riverton,3
+31,Visalia,4
+32,Hanford,4
+33,Hampton,5
+34,Portsmouth,5
+35,Smithfield,5
+36,Suffolk,5
+37,Norfolk,5
+38,Newport News,5
+39,Virginia Beach,5
+40,Yorktown,5
+41,Chesapeake,5
+42,Fort Eustis,5
+43,Gainesville,6
+44,Alachua,6
+45,El Segundo,4
+46,Los Angeles,4
+47,Gardena,4
+48,Glendale,4
+49,Venice,4
+50,Santa Monica,4
+51,Cerritos,4
+52,Burbank,4
+53,Pasadena,4
+54,Beverly Hills,4
+55,Long Beach,4
+56,Alhambra,4
+57,Brea,4
+58,Woodland Hills,4
+59,Monterey Park,4
+60,Culver City,4
+61,Torrance,4
+62,Panorama City,4
+63,Azusa,4
+64,City of Industry,4
+65,Arcadia,4
+66,Pico Rivera,4
+67,Whittier,4
+68,Chicago,7
+69,Downers Grove,7
+70,Broadview,7
+71,Woodridge,7
+72,Rolling Meadows,7
+73,Northlake,7
+74,Itasca,7
+75,Northbrook,7
+76,Oak Brook,7
+77,Maywood,7
+78,Northfield,7
+79,Glenview,7
+80,Deerfield,7
+81,Elk Grove Village,7
+82,Arlington Heights,7
+83,Houston,8
+84,Pearland,8
+85,Spring,8
+86,Sugar Land,8
+87,Phoenix,9
+88,Scottsdale,9
+89,Tempe,9
+90,Chandler,9
+91,Mesa,9
+92,DC Ranch,9
+93,Plymouth Meeting,10
+94,Blue Bell,10
+95,Fort Washington,10
+96,Malvern,10
+97,Horsham,10
+98,Philadelphia,10
+99,Wilmington,11
+100,Radnor,10
+101,King of Prussia,10
+102,Wayne,10
+103,Exton,10
+104,Mount Laurel,2
+105,Ridley Park,10
+106,West Chester,10
+107,Newtown Square,10
+108,Boothwyn,10
+109,West Point,10
+110,Camden,2
+111,Berwyn,10
+112,Marlton,2
+113,Moorestown,2
+114,San Antonio,8
+115,Lackland AFB,8
+116,San Diego,4
+117,El Cajon,4
+118,Arlington,8
+119,Dallas,8
+120,Richardson,8
+121,Irving,8
+122,Lewisville,8
+123,Plano,8
+124,Tarrant,8
+125,Carrollton,8
+126,Southlake,8
+127,Allen,8
+128,Santa Clara,4
+129,Redwood City,4
+130,Cupertino,4
+131,Palo Alto,4
+132,Mountain View,4
+133,Menlo Park,4
+134,Los Gatos,4
+135,Stanford,4
+136,San Jose,4
+137,Fremont,4
+138,Sunnyvale,4
+139,Pleasanton,4
+140,Union City,4
+141,Campbell,4
+142,Austin,8
+143,Round Rock,8
+144,Cedar Park,8
+145,Jacksonville,6
+146,Fort Worth,8
+147,Westlake,8
+148,Columbus,12
+149,Dublin,12
+150,Hilliard,12
+151,Westerville,12
+152,Charlotte,13
+153,Huntersville,13
+154,Fort Mill,14
+155,Mooresville,13
+156,San Francisco,4
+157,San Rafael,4
+158,San Mateo,4
+159,Oakland,4
+160,Burlingame,4
+161,Foster City,4
+162,Emeryville,4
+163,Millbrae,4
+164,Hercules,4
+165,South San Francisco,4
+166,Berkeley,4
+167,San Ramon,4
+168,Alameda,4
+169,Walnut Creek,4
+170,Indianapolis,15
+171,Whitestown,15
+172,Beech Grove,15
+173,Lawrence,15
+174,Carmel,15
+175,Redmond,16
+176,Seattle,16
+177,Issaquah,16
+178,Bellevue,16
+179,Kent,16
+180,Kirkland,16
+181,Renton,16
+182,Athens,17
+183,Topeka,18
+184,Denver,19
+185,Greenwood Village Arapahoe,19
+186,Henderson,19
+187,Englewood,19
+188,Lakewood,19
+189,Lone Tree,19
+190,Broomfield,19
+191,Centennial,19
+192,Aurora,19
+193,Louisville,19
+194,Littleton,19
+195,Bolingbrook,7
+196,Coppell,8
+197,Plainfield,15
+198,Des Moines,16
+199,Bothell,16
+200,Washington,20
+201,McLean,5
+202,Bethesda,21
+203,Fairfax,5
+204,Rockville,21
+205,Crystal City,5
+206,Mc Lean,5
+207,Tysons,5
+208,Vienna,5
+209,Springfield,5
+210,Silver Spring,21
+211,Beltsville,21
+212,Alexandria,5
+213,Herndon,5
+214,Fort Meade,21
+215,North Bethesda,21
+216,Chantilly,5
+217,Reston,5
+218,Andrews AFB,21
+219,Sterling,5
+220,Fort Belvoir,5
+221,Columbia,21
+222,Suitland,21
+223,Greenbelt,21
+224,Merrifield,5
+225,Cambridge,22
+226,Waltham,22
+227,Boston,22
+228,Woburn,22
+229,Framingham,22
+230,Quincy,22
+231,Newton,22
+232,Medford,22
+233,Malden,22
+234,Lexington,22
+235,Brockton,22
+236,Charlestown,22
+237,Natick,22
+238,Weymouth,22
+239,Burlington,22
+240,Lowell,22
+241,Andover,22
+242,Somerville,22
+243,Danvers,22
+244,Wellesley,22
+245,Tewksbury,22
+246,East Weymouth,22
+247,Milton,22
+248,Wellesley Hills,22
+249,Everett,22
+250,Peabody,22
+251,Beverly,22
+252,El Paso,8
+253,Franklin,23
+254,Nashville,23
+255,Brentwood,23
+256,Mount Juliet,23
+257,Southfield,24
+258,Detroit,24
+259,Troy,24
+260,Dearborn,24
+261,Bloomfield Hills,24
+262,Farmington,24
+263,Farmington Hills,24
+264,Inkster Post Office,24
+265,Dearborn Heights,24
+266,Oklahoma City,25
+267,Norman,25
+268,Portland,26
+269,Beaverton,26
+270,Wilsonville,26
+271,Hillsboro,26
+272,Vancouver,16
+273,Las Vegas,27
+274,Memphis,23
+275,Millington,23
+276,Jeffersonville,15
+277,La Grange,28
+278,Towson,21
+279,Baltimore,21
+280,Annapolis,21
+281,Middle River,21
+282,Linthicum,21
+283,Woodlawn,21
+284,Owings Mills,21
+285,Aberdeen Proving Ground,21
+286,Annapolis Junction,21
+287,Belcamp,21
+288,Fort George G Meade,21
+289,Milwaukee,29
+290,Pewaukee,29
+291,Oak Creek,29
+292,New Berlin,29
+293,Waukesha,29
+294,Albuquerque,30
+295,Marana,9
+296,Queen Creek,9
+297,Sacramento,4
+298,Gold River,4
+299,Folsom,4
+300,Rancho Cordova,4
+301,Rocklin,4
+302,El Dorado Hills,4
+303,Elk Grove,4
+304,Roseville,4
+305,Atlanta,17
+306,Smyrna,17
+307,Alpharetta,17
+308,Marietta,17
+309,Gwinnett Mall Corners Post Office,17
+310,Norcross,17
+311,Duluth,17
+312,Kansas City,31
+313,Overland Park,18
+314,Colorado Springs,19
+315,Papillion,32
+316,Omaha,32
+317,Raleigh,13
+318,Cary,13
+319,Morrisville,13
+320,Durham,13
+321,Chapel Hill,13
+322,Research Triangle Park,13
+323,Doral,6
+324,Coral Gables,6
+325,Miramar,6
+326,Dania Beach,6
+327,Miami,6
+328,Fort Lauderdale,6
+329,Irvine,4
+330,Huntington Beach,4
+331,Anaheim,4
+332,Orange,4
+333,Santa Ana,4
+334,Newport Beach,4
+335,Concord,4
+336,Minneapolis,33
+337,Minnetonka,33
+338,Saint Paul,33
+339,Plymouth,33
+340,Bloomington,33
+341,Hopkins,33
+342,Eden Prairie,33
+343,Inver Grove Heights,33
+344,Maple Grove,33
+345,Stillwater,33
+346,Richfield,33
+347,Tulsa,25
+348,Tampa,6
+349,Clearwater,6
+350,Plant City,6
+351,Saint Petersburg,6
+352,New Orleans,34
+353,Bakersfield,4
+354,Cleveland,12
+355,Warrensville,12
+356,Seven Hills,12
+357,Corona,4
+358,Claremont,4
+359,Ontario,4
+360,Norco,4
+361,Honolulu,35
+362,Ewa Beach,35
+363,Fort Shafter,35
+364,Pearl Harbor,35
+365,Wahiawä,35
+366,Rancho Cucamonga,4
+367,Mira Loma,4
+368,San Bernardino,4
+369,Corpus Christi,8
+370,French Camp,4
+371,Cincinnati,12
+372,Blue Ash,12
+373,Fort Wright,28
+374,Mason,12
+375,Loveland,12
+376,Erlanger,28
+377,Saint Louis,31
+378,Creve Coeur,31
+379,Clayton,31
+380,Chesterfield,31
+381,Scott Air Force Base,7
+382,Bridgeton,31
+383,Maryland Heights,31
+384,Scott AFB,7
+385,Earth City,31
+386,Pittsburgh,10
+387,Oakdale,10
+388,Heidelberg,10
+389,Canonsburg,10
+390,Eighty Four,10
+391,Greensboro,13
+392,Wentworth,13
+393,High Point,13
+394,Lincoln,32
+395,Anchorage,36
+396,Frisco,8
+397,Lake Mary,6
+398,Orlando,6
+399,Altamonte Springs,6
+400,Maitland,6
+401,Wharton,2
+402,Dover,2
+403,Warren,2
+404,Piscataway,2
+405,Sayreville,2
+406,Springfield Gardens,1
+407,Basking Ridge,2
+408,Morristown,2
+409,Parsippany,2
+410,Edison,2
+411,Mahwah,2
+412,Toledo,12
+413,Fort Wayne,15
+414,Edwards AFB,4
+415,Phila,10
+416,Berlin,37
+417,Wright Patterson AFB,12
+418,Saint Petersburg Beach,6
+419,Langley AFB,5
+420,Yuma Proving Ground,9
+421,Schriever AFB,19
+422,Macdill AFB,6
+423,Md City,21
+424,Offutt AFB,32
+425,Bridgewater,2
+426,Toms River,2
+427,Princeton,2
+428,Ewing,2
+429,Kendall Park,2
+430,Stewartsville,2
+431,Vineland,2
+432,Madison,29
+433,Middleton,29
+434,Reno,27
+435,Orchard Park,1
+436,Buffalo,1
+437,Getzville,1
+438,Winston-Salem,13
+439,Hackensack,2
+440,Saddle Brook,2
+441,Hawthorne,4
+442,Marina del Rey,4
+443,Northridge,4
+444,Century City,4
+445,North Hollywood,4
+446,Rosemont,7
+447,Des Plaines,7
+448,Deer Park,8
+449,Bala Cynwyd,10
+450,Feasterville Trevose,10
+451,Conshohocken,10
+452,Media,10
+453,Newtown,10
+454,Collegeville,10
+455,Bulverde,8
+456,Schertz,8
+457,Fort Sam Houston,8
+458,Spring Valley,4
+459,Addison,8
+460,Milpitas,4
+461,Jacksonville Beach,6
+462,Mayport,6
+463,Orange Park,6
+464,Ponte Vedra,6
+465,Roanoke,8
+466,Universal City,4
+467,Gilbert,9
+468,Cherry Hill,2
+469,La Jolla,4
+470,Gahanna,12
+471,Lyndhurst,2
+472,Carle Place,1
+473,Port Washington,1
+474,Rockville Centre,1
+475,Fort Lee,2
+476,Westmont,4
+477,Irwindale,4
+478,Calabasas,4
+479,Sherman Oaks,4
+480,Duarte,4
+481,Monrovia,4
+482,Seal Beach,4
+483,Evanston,7
+484,Lemont,7
+485,Melrose Park,7
+486,Elmhurst,7
+487,Naperville,7
+488,Hines,7
+489,Evergreen Park,7
+490,Bridgeview,7
+491,Alvin,8
+492,Stafford,8
+493,Webster,8
+494,Baytown,8
+495,Nassau Bay,8
+496,West University Place,8
+497,Missouri City,8
+498,Bellaire,8
+499,Gloucester City,2
+500,Valley Forge,10
+501,Spring House,10
+502,Springhouse Branch Post Office,10
+503,Bensalem,10
+504,West Conshohocken,10
+505,Paoli,10
+506,Allegheny West,10
+507,Bristol,10
+508,Chester Township,10
+509,Warminster,10
+510,Pennsauken,2
+511,Doylestown,10
+512,North Wales,10
+513,Poway,4
+514,Chula Vista,4
+515,Grapevine,8
+516,Grand Prairie,8
+517,Farmers Branch,8
+518,Bedford,8
+519,San Carlos,4
+520,Livermore,4
+521,Los Altos,4
+522,Kyle,8
+523,West Jefferson,12
+524,Lockbourne,12
+525,Slough,12
+526,Blacklick,12
